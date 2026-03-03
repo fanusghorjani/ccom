@@ -1,0 +1,727 @@
+Resisting Neoliberal Homogenization
+The Zapatista Autonomy Movement
+by
+Richard Stahler-Sholk
+
+The Zapatista autonomy movement in Chiapas, Mexico, is a significant example of rising social-movement resistance to neoliberalism. The neoliberal project in Latin America
+since the 1980s has led to a retrenchment of the state, opening new space for social movements to contest power from below. In Mexico, the weakening of corporatist and clientelist
+mechanisms once controlled by the party-state allowed groups like the Zapatistas to assert
+rights based on both collective (ethnic) identity and Mexican national citizenship. An examination of the Zapatista autonomy movement since 1994 suggests several dilemmas: (1) A
+territorially based model of autonomy as administrative decentralization would not fundamentally alter existing political hierarchies or the role of the state as broker for global capital. (2) Autonomy conceived as mere disengagement would leave autonomous communities
+cut off from resources and unprotected from the forces of the global market. (3) Autonomy
+defined as simply cultural pluralism falls into the neoliberal “multiculturalism trap” of
+atomizing communities, substituting formal “equality” for the power to establish collective
+identities and demand substantive rights. The Zapatistas have maneuvered around counterinsurgency and co-optation through a flexible, community-based model of autonomy,
+shifting in 2003 to a model of regional Juntas de Buen Gobierno with rotating representatives to integrate the resistance. The experiment holds lessons for other social movements
+in Latin America struggling to preserve grassroots decision making in opposition to the
+logic of global capital.
+Keywords:
+
+Zapatista, Mexico, Social movements, Autonomy, Neoliberalism
+
+In the documentary ¡Zapatista! there is a scene in which the ski-masked
+Subcomandante Marcos tells the camera that the rebels rose up against the
+Mexican government in 1994 only to discover that the Mexican government
+didn’t exist; instead, they found themselves fighting against the structures of
+global capital.1 Social movements do not literally resist neoliberalism; they
+resist a specific landlord’s hired guns trying to drive them off the land they
+need for subsistence or a specific agency that privatizes their water supply
+and triples the rates. In Mexico they resist a golf course in Tepoztlán, an airport in San Salvador Atenco, a Costco in Cuernavaca—all local and concrete
+manifestations of a global logic that disempowers people who lack capital and
+ignores their right to establish their own priorities. A growing number of
+movements in Latin America are engaging in innovative organizing against
+the injustices of the neoliberal paradigm (Gills, 2000), departing from the revolutionary focus on seizing state power (Foran, 2003). Privatization, fiscal austerity, and economic liberalization have resulted in the contraction and
+Richard Stahler-Sholk is an associate professor of political science at Eastern Michigan
+University and an associate editor of Latin American Perspectives.
+LATIN AMERICAN PERSPECTIVES, Issue 153, Vol. 34 No. 2, March 2007 48-63
+DOI: 10.1177/0094582X06298747
+© 2007 Latin American Perspectives
+
+48
+
+Stahler-Sholk / RESISTING NEOLIBERAL HOMOGENIZATION
+
+49
+
+redeployment of the state, shifting the locus of political struggles away from
+direct contestation for state power and opening new spaces to contestation (by
+new movements and old) over whether they will be controlled from above or
+below.
+The Mexican state acts increasingly as a broker for global capital as it attempts
+to re-regulate the conditions for accumulation on a global scale. Neoliberalism
+involves not simply a headlong retreat of the state but rather a renegotiation of
+state-society relations. The attempted recomposition of capitalist hegemony
+included targeted social compensation programs such as the National Solidarity
+Program—PRONASOL. These somewhat contradictory efforts to create a reformulated clientelism for the neoliberal era (Hellman, 1994)—one more selective
+and flexible than the old corporatist structures had allowed—did not entirely
+succeed in shielding the dominant-party form of the Mexican authoritarian state
+from political change. The shift from state-orchestrated to market mechanisms of
+distribution overlapped with new forms of social-movement-based struggles,
+ranging from the debtors’ movement El Barzón to independent unions and
+neighborhood associations (Williams, 2001; Otero, 2004). As the turn to the
+market left state authorities in control of fewer resources for co-optation, increasingly independent social sectors formulated their demands not in terms of clientelistic expectations but in terms of citizenship rights (Fox, 1997). This discourse
+of rights is characteristic of the newly constituted social subjects confronting
+neoliberalism throughout Latin America by simultaneously claiming indigenous
+and other collective rights that markets deny and the citizenship rights that the
+neoliberal state pretends to offer equally to all (Eckstein and Wickham-Crowley,
+2003). The Zapatistas organize in newly contested spaces paradoxically created
+by neoliberal globalization itself (Stahler-Sholk, 2001), joining independent peasant and liberation-theology organizing that predated the neoliberal era (Harvey,
+1998).
+The forces of globalization that affect class relations are experienced (and
+resisted) through a variety of locally relevant identities, including ethnicity
+and gender (Nash, 2001; Yashar, 2005). In Chiapas, elaborate structures of
+labor control were constructed in the centuries after colonization by grafting
+them onto co-opted “traditional” religious/civic hierarchies in indigenous
+communities. Changes in the global political economy of post-1982 (oil/debt
+shock) Mexico were experienced locally as community power struggles that
+went to the core of what it meant to be part of the indigenous community
+(Collier, 1994; Rus, 1995). The state regularly mediated private capitalist development initiatives (e.g., logging operations in the Lacandón Jungle in the second half of the twentieth century) by reinventing indigenous identities and
+lines of authority in ways that facilitated the particular strategy of capital
+accumulation (De Vos, 2002). Resistance to neoliberalism, then, has taken the
+form of a movement for autonomy, with the protagonists struggling for the
+right to define themselves culturally, socially, and politically.
+
+THE POTENTIAL AND THE PITFALLS OF AUTONOMY
+Social movements by definition operate outside conventional politics, and
+“new” social movements are distinguished by their emphasis on autonomy,
+
+50
+
+LATIN AMERICAN PERSPECTIVES
+
+participatory process, and solidarity around perceived collective identities.
+The neoliberal project implies atomization and loss of control to global market
+forces, posing dilemmas for movements seeking to reassert community identity and grassroots empowerment. On one hand, the “fetishism of autonomy”
+(Hellman, 1992)—eschewing affiliation or engagement with any political
+structure for fear that it might absorb the newly asserted identity—can be a
+dead end. On the other hand, negotiating a share of power with existing political institutions runs the risk of replicating dominant hierarchies (serving
+global capital) and distancing the “autonomous” representatives from their
+social bases. Movements in Mexico and elsewhere experiment and debate
+over how best to conceive of autonomy (Díaz-Polanco and Sánchez, 2002).
+Zapatismo as a social movement consists of various layers, including the
+political-military structure (insurgents and militia) of the Ejército Zapatista de
+Liberación Nacional (Zapatista National Liberation Army—EZLN) that went
+public in 1994, the “networks” of national and international supporters, and
+the “support-base” indigenous communities in the “conflict zones” (eastern
+jungle, border, northern zone, and central highlands) of Chiapas. I will focus
+on the support-base communities to consider the sustainability of the movement, highlighting three dilemmas: (1) the limits of territorially based autonomy, (2) autonomy and curtailment of resource allocations, and (3) the
+neoliberal “multiculturalism trap.”
+One model of autonomy, drawing on the experience of the Nicaraguan
+Atlantic region, proposed a regionally based self-governance that would
+amount to a kind of territorial decentralization negotiated with the state. This
+model was actually under construction in parts of the jungle region prior to
+the 1994 Zapatista uprising, particularly in areas of predominantly Tojolabal
+settlement, in the form of Regiones Autónomas Pluriétnicas (Pluriethnic
+Autonomous Regions—RAP). This approach in effect created a new, fourth
+level of government (alongside the federal, state, and municipal institutions)
+and constructed a new “pluriethnic” indigenous identity among the various
+indigenous groups that had formed part of the migrant stream settling the
+Lacandón Jungle agricultural frontier of eastern Chiapas since the 1950s.
+The RAP project of autonomy-as-decentralization was accelerated by its
+promoters in the space created by the Zapatista rebellion, advancing faster
+among its leadership than the creation of consensus within its diverse base. It
+therefore suffered from tendencies toward cacicazgo or “boss” politics as well
+as from the competing, more local identities of the ejidos reflecting the political economy of rural Mexico (Mattiace, 2003: 95–111). Critics of the RAP,
+including some academic advisers to the Zapatistas, argued that such territorial jurisdiction, acquired at the cost of being subsumed within the existing
+state structures, was only pseudo-autonomy (Esteva, 2003: 252–253). The
+Zapatistas themselves, who preferred a model of autonomy that built from
+the community level upward, remained open to a kind of pluralism of
+autonomies—“a world in which many worlds can fit”—that did not force a
+choice between autonomy models.
+One of the pitfalls of the territorial or parochial interpretation of autonomy—
+whether in Chiapas, Guatemala, or Ecuador—is that it bottles up the protagonists in a spatial location precisely in an era when their subsistence and cultural
+identity depend on mobility (Colloredo-Mansfeld, 2002). The exploitation of
+
+Stahler-Sholk / RESISTING NEOLIBERAL HOMOGENIZATION
+
+51
+
+indigenous communities has often revolved around elites exchanging a territorially bounded degree of local autonomy (for example, in “traditional” highland communities in Chiapas) for a controlled flow of migratory labor,
+historically to the Soconusco region within Chiapas (Rus, 1995) but increasingly in the past decade to the United States. Chiapas soared from twenty-seventh to eleventh place among Mexican states in remittances from 1995 to 2004,
+reinforcing the local power of caciques dominating the transit and moneylending businesses.2 This formulation of autonomy may therefore not represent a real alternative to neoliberal globalization but rather replicate the
+top-down structure of existing political institutions without developing new
+leadership capacity at the local community level. The Zapatistas have
+eschewed such regionally based formulations of autonomy in favor of the
+community-based model—which proved to have some tactical advantages
+when the Mexican military attempted to encircle and close the noose around
+the Lacandón Jungle region of Zapatista core support in December 1994, the
+first year of the rebellion. It was then that the Zapatistas popped up in 38 selfproclaimed “autonomous municipalities,” many of them located outside the
+region of military encirclement.
+A second dilemma relates to resource allocation. The Zapatistas have been
+careful to distinguish themselves from secessionist movements and insist on
+framing their demands as rights claimed on the basis of indigenous ethnic
+identity and Mexican national citizenship. However, the same neoliberal ideology that “frees” individuals to fend for themselves in the market can also
+spin off unprofitable state functions and services that used to be part of the citizenship compact. The market paradigm privatizes gains while socializing
+costs and risks. Thus social sectors and regions may be cut loose as newly
+autonomous without state resources, free to compete with each other for a
+share of the shrinking pie. For example, when the PRI party-controlled corporatist apparatus of resource distribution started to be slashed by the neoliberal
+austerity ax in the 1980s, it was partly replaced by more modest social compensation programs such as PRONASOL (and later PROCAMPO and PROGRESA, the latter reconfigured as the “Oportunidades” program by President
+Vicente Fox) that were more open to claimants independent of the ruling
+party. Yet this seeming recognition of autonomous spaces in society turned out
+to be a new mechanism for division and co-optation (Collier, 1994). As a wider
+range of groups competed for scarcer state resources, they became vulnerable
+to clientelistic local politicians and, for that matter, to paternalistic NGOs
+moving into the breach.
+An example of this “autonomy without resources” pitfall can be seen in the
+Mexican agrarian counterreform inaugurated by the 1992 reform of Article 27
+of the 1917 Constitution. Peasant rights to petition collectively for land were
+ended, and the existing ejido social-property sector (previously protected
+from the market) would now be susceptible to individual parcelization and
+titling under the PROCEDE program. This was touted as “freeing” individual
+members of ejidos to pull out their separate parcels of land and put up the
+titles as collateral for loans or eventually to sell the land. Of course, after
+decades of public infrastructural investment bestowed on private large-scale
+agribusiness, the 1989 dismantling of the state coffee-marketing board
+
+52
+
+LATIN AMERICAN PERSPECTIVES
+
+Instituto Mexicano del Café (Mexican Coffee Institute—INMECAFE) and
+post-NAFTA competition from U.S.-subsidized agribusiness products such as
+corn entering the market, those “free” choices of peasant producers were
+shaped by major structural constraints. In Chiapas, a state with 4 percent of
+the population but 27 percent of the backlog of unresolved land reform claims
+by 1992, poor peasants saw the reform of Article 27 not as rural modernization
+but rather as the removal of their last hope for subsistence security, leading
+many to shift from other independent peasant organizations to the ranks of
+the Zapatista rebellion (Harvey, 1998).
+In developing an autonomy model entailing separation from government
+programs, the Zapatistas, in order to sustain a social movement, faced the
+challenge of offering resources (land, social programs) to their support-base
+communities. This was complicated by the fact that it was often nonZapatistas who benefited materially from the opening created by the rebellion, for example, in the surge of land invasions/recoveries after 1994.
+Rejecting official aid in order to expose government hypocrisy implied shortterm sacrifice for a longer-term political strategy—resistance in the Gramscian
+sense of developing counterhegemonic ideology in a war of position. This
+effort was in practice often ambiguous, as Zapatistas and non-Zapatistas were
+interspersed territorially and even within villages.3 The boundaries of
+Zapatismo as a social movement “in resistance” were also blurred by the fact
+that many non-Zapatistas also resisted programs like PROCEDE that undermined ejidos and indigenous communities, viewing them as a threat to an
+important source of community and social capital. In a conversation on the
+Zapatista caravan from Chiapas to Mexico City in March 2001, a long-time
+activist from the Organización Campesina Emiliano Zapata (OCEZ) worried
+that individuals pulling their parcels out of the ejido would drain the communally managed social investment fund, undermining the collective process
+of deciding on priorities for the community’s well-being. An elderly
+Purépecha woman on another leg of the caravan expressed analogous concerns about PROCAMPO (the temporary per-hectare compensation for the
+elimination of crop subsidies). She suspected that signing up for a payment
+associated with a particular plot of land was a little bit like selling rights to the
+land. This kind of struggle for community control against the atomizing force
+of the market is the basis for the Zapatista notions of autonomy. Ironically, the
+Article 27 reforms were coupled with reforms to Article 4 of the Constitution
+for the first time explicitly recognizing the multiethnic character of the
+Mexican nation. Both were criticized by independent peasant and indigenous
+rights organizations as top-down, nonparticipatory initiatives. Their juxtaposition illustrates the way the neoliberal model recognizes the pluralism of
+indigenous identities as long as those identities do not become the basis for
+collective organization around substantive rights.
+This leads to the third observation about the dilemmas of autonomous
+movements confronting neoliberalism. The neoliberal project in Latin America
+is being tweaked to include “managed neoliberal multiculturalism” (Hale,
+2002). The same states that oversee economic liberalization and privatization
+are establishing themselves as arbiters of the boundary between individual
+and group rights, carefully circumscribing the latter to exclude challenges to
+
+Stahler-Sholk / RESISTING NEOLIBERAL HOMOGENIZATION
+
+53
+
+class-based inequalities. In the case of Chiapas, the only topic area in the peace
+talks following the 1994 Zapatista rebellion that led to a signed agreement was
+the negotiation over indigenous rights and culture, which led to the San
+Andrés Accords of 1996. The accords conceded state recognition of usos y costumbres, the normative system of decision-making authority through which
+indigenous communities traditionally governed themselves. For the
+Zapatistas, this was a fundamental victory for community-based autonomy.
+Yet it soon became clear that the Mexican government regarded the systems of
+community assemblies and assignments of duties as merely a quaint vestigial
+practice frozen in time, unrelated to contemporary struggles over land and
+resources. The implementing legislation for the San Andrés Accords became
+bogged down in five years of government delays and redrafting, until finally
+the multiparty Congressional Commission for Concord and Pacification
+(Comisión de Concordia y Pacificación—COCOPA) put forward a compromise, watered-down text. When the Zapatistas reluctantly accepted the
+COCOPA draft indigenous law, the federal government backed away from
+that too, returning with a new version that totally stripped the substantive
+rights components from the San Andrés agreement. This was the backdrop for
+the Zapatistas’ March 2001 caravan from Chiapas to Mexico City, culminating
+in Comandante Esther’s historic address to the Congress. When they had
+returned home, however, the government introduced its gutted version of the
+“indigenous rights law,” which passed despite being denounced by every
+major indigenous and human rights organization and voted down in all the
+states with large indigenous populations (Stahler-Sholk, 2005). At the same
+time, the administrations of President Vicente Fox and Chiapas Governor
+Pablo Salazar promoted an ostentatious brand of neoindigenismo that included
+co-opting prominent indigenous professionals into new bureaucratic structures, sponsoring community-development-cum-counterinsurgency, unilaterally creating new municipalities in indigenous areas, launching “intercultural
+universities,” and rhetorically celebrating multicultural “inclusion” without
+letting indigenous people define their own identities (Hernández, Paz, and
+Sierra, 2004).
+In the process of this debate between the top-down and bottom-up versions
+of indigenous rights, the Zapatistas sponsored participatory forums in an
+effort to link the struggle for autonomy in Chiapas to a broader social movement. This mobilization of support included the Congreso Nacional Indígena
+(National Indigenous Congress—CNI), part of a new national indigenous
+movement awakened in part by the Zapatista rebellion. The CNI rejected the
+officialist indigenous rights law, as did the United Nations special rapporteur
+for human rights and indigenous questions, the Mexican anthropologist
+Rodolfo Stavenhagen, who noted that the law violated Convention 169 of the
+International Labor Organization (ILO) on indigenous rights (which Mexico
+had signed in 1990) by bypassing popular consultation. He also reiterated the
+critique by the Mexican Academy of Human Rights that the law empowered
+state legislatures to supersede anything enacted by indigenous communities.
+A further example of this neoliberal multiculturalism trap can be seen in
+President Fox’s Plan Puebla-Panamá (PPP), a multibillion-dollar scheme of proposed massive infrastructural investment in southern Mexico to incorporate the
+
+54
+
+LATIN AMERICAN PERSPECTIVES
+
+region into the global market. In contrast to previous development schemes,
+the PPP ostensibly acknowledges the marginalization of indigenous populations of the Mexican South, using the language of sustainable development
+(Nash, 2003: 81–87) to promote what local communities denounce as
+biopiracy—commodifying and commercializing the biodiversity and other
+resources of this region. Even the multiculturalism of the indigenous populations is identified as a marketable asset for ecotourism. Yet indigenous communities that practice self-sufficient production and resist being converted
+into a Disneyfied, homogenized “Maya region” are accused of inefficiency or,
+worse yet, of sabotaging the development rights of other indigenous groups
+(i.e., of not being multicultural enough).
+The Zapatistas, rather than bargaining for a limited version of territorially
+based autonomy within a federal model, have insisted on the right of each community to develop its own network of relations. Rather than accepting the state’s
+power to define the boundaries between individual and collective rights, they
+have insisted on a concept of ethnic citizenship (Harvey, 1998; Nash, 2001) that
+claims rights of Mexican citizenship and indigenous social identity, consistent
+with the broader hemispheric resurgence of indigenous movements (Yashar,
+2005). This diverse interpretation of autonomy defies easy classification, and the
+Zapatistas have had limited success in generating a national political movement.
+Yet the resiliency of the Zapatista resistance in the face of massive counterinsurgency and “development” policies has made it a powerful symbol and an invitation to develop alternatives to the logic of global capital.
+
+STRUGGLES FOR AUTONOMY IN THE ZAPATISTA COMMUNITIES
+The Zapatista autonomy movement has developed in several phases, following the changing political dynamic of the rebellion. Burguete (2003) identifies
+the first three phases: The first began in December 1994 in response to the government’s attempted military encirclement of what they assumed to be the
+Zapatista stronghold, the Cañadas (canyons), and spread through the Lacandón
+Jungle in the eastern part of the state (the agricultural frontier that had experienced swelling colonization by mainly indigenous poor peasants since the
+1950s). Defying the encirclement, the Zapatistas announced their organized
+presence in 38 municipalities that included a good part of the central highlands,
+formalizing this proclamation of autonomy with the EZLN’s January 1995 Third
+Declaration from the Lacandón Jungle.4 A second phase, following the February
+1996 signing of the San Andrés Accords, began in October 1996, when Zapatistas
+boycotted municipal elections and refused to recognize the officially elected
+authorities, instead following indigenous usos y costumbres to choose leaders in
+open community assemblies. This created in effect parallel structures of local
+government. In a third phase after 1997, when it became clear that the government was reneging on the essential content of the San Andrés Accords, the
+Zapatistas further institutionalized their de facto autonomous municipal governments and in many cases expelled the official governments. It was in this
+period that the federal government launched joint police-military raids in AprilMay 1998 to dismantle the autonomous municipalities of Ricardo Flores Magón
+
+Stahler-Sholk / RESISTING NEOLIBERAL HOMOGENIZATION
+
+55
+
+and Tierra y Libertad and the state government of Chiapas approved a remunicipalization creating seven new municipalities designed to undermine the
+Zapatista autonomy claims. This was followed by a long period of accumulation
+of forces that the Zapatistas called “strategic silence,” rebuilding local organizational networks under the noses of the occupying military forces—including
+new headquarters for the raided municipalities. Yet this was also a period of
+strained economic viability as coffee prices fell and government projects lured
+away supporters. In August 2003, a fourth phase began when the Zapatistas
+formed regional representative Juntas de Buen Gobierno (good-government councils) based in centers called caracoles (literally “conch shells,” a Mayan symbol)
+(Stahler-Sholk, 2005). These replaced the former Aguascalientes centers, regional
+multiservice centers for clusters of autonomous municipalities.
+One of the challenges for the Zapatista project of community-based autonomy has been dealing with issues of pluralism and factionalism among the
+communities. A variety of independent credit, marketing, and land rights
+organizations had been organizing in the predominantly indigenous areas of
+Chiapas since the 1970s, becoming increasingly radicalized in response to the
+ravages of neoliberalism (Harvey, 1998). Zapatista clandestine organizing
+efforts in this era intertwined with those of groups such as the Asociación
+Rural de Interés Colectivo (Rural Collective Interest Association—ARIC), the
+Unión de Uniones de Ejidos (Union of Ejido Unions—UU), religious catechists
+mobilizing under the liberation-theology-inspired Bishop Samuel Ruiz, and a
+rather elaborate local sociopolitical structure (the comón, or communal assembly) that had emerged in the no-man’s-land of the Cañadas settlements, essentially beyond the reach of the state (Leyva Solano, 2003).
+In some cases, Zapatista affiliation became one more potential division that
+community members had to negotiate. Where parallel autonomous and official government structures coexisted, conflicts between members of divided
+communities sometimes produced jurisdictional disputes that escalated into
+clashes between the competing authorities, which served as pretexts for coercive state intervention against the Zapatistas (Burguete, 2003: 211). Yet in other
+divided communities, the specter of state intervention was enough to motivate direct negotiation of conflicts between the factionalized local governments (Stahler-Sholk, 1998: 69–71), creating an incipient autonomy from the
+state that went beyond Zapatista affiliation. In one autonomous municipality,
+authorities reported in 2005 that most of the disputes heard by their “Honor
+and Justice Commission” were actually brought by non-Zapatistas, including
+two paramilitaries after a drunken machete fight (interview, August 18, 2005).
+Religion has also been a potential source of division that the Zapatista autonomy movement has had to negotiate carefully. Religious divisions had long
+reflected local political conflicts, as both Catholic liberation theology and
+Protestant denominations represented markers of separation from the “traditionalist” Catholic/cacique/Partido Revolucionario Institucional (Institutional
+Revolutionary party—PRI) local power structures in indigenous communities
+in Chiapas. The EZLN appealed to these escapees through a new unifying
+identity that cut across lines of religious affiliation, validating class and
+indigenous collective identities (Eber, 2003).
+The Zapatista rebellion also placed indigenous communities in the position
+of having to define their relation with the PRI, often an awkward choice in the
+
+56
+
+LATIN AMERICAN PERSPECTIVES
+
+pre-2000 days when the party monopolized the state institutions and treasury.
+The PRI’s famous patronage machinery was reinforced by the Mexican army’s
+civic action (labor social) and later government programs in the conflict zones,
+reinforcing divisions by offering handouts (despensas) of food and other basic
+supplies only to PRI supporters. Even electricity was individually doled out
+in some areas, with family-sized solar panel units for each thatched hut that
+declared its officialist loyalties. In areas more distant from the military occupation in Chiapas such as the neighboring state of Oaxaca, such tactics reinforced a populist image of the PRI that allowed some peasant communities to
+construct an identity for themselves in which they were both pro-PRI and proZapatista (Stephen, 1997). But in the conflict zones of Chiapas, where the lines
+were sharper, the Zapatistas demanded a degree of sacrifice from communities that wanted to consider themselves “in resistance” in that they were
+expected to reject government aid.
+In practice, the community responses were mixed. One Cañadas community, returning from a month of refuge in the hills following the military’s illegal February 1995 offensive that broke the ceasefire, had scarcely begun to
+clean up from the army’s looting and pillage when a helicopter appeared carrying Mexican congresspersons offering aid (see Stahler-Sholk, 1998: 68).5
+After an open-air assembly while the busy legislators waited impatiently, the
+members of the demolished community came back with the response that
+they would refuse aid from the government that had just sent the army after
+them. Instead they requested a withdrawal of the troops that were still
+camped nearby. In another community in the Che Guevara Autonomous
+Municipality, when a government health inspector arrived uninvited to check
+for malaria cases, suddenly no one could speak Spanish. Afterward villages
+expressed their suspicion that an earlier visit by a government vaccination
+team had left women sterilized, a view that reflected their deep distrust of
+“help” from the state. In the contested Montes Azules Biosphere Reserve near
+the Guatemalan border—coveted by global capital for its biodiversity and
+hydroelectric resources—government agencies launched an aggressive campaign beginning in 2002 to divide and evict communities, combining threats
+with offers of resettlement land and resources. Settlements of Zapatista sympathizers that were newer (often displaced from other regions) and/or on the
+political or geographic fringes of integration into the movement (e.g., the
+geographically overextended Libertad de los Pueblos Maya Autonomous
+Municipality) lacked a viable resistance strategy, and the Zapatistas preemptively relocated seven of them in 2004.
+Self-reliant, sustainable development is an important challenge for the
+Zapatista communities. Since 1994, they have developed a variety of selfsufficient production, exchange, and social service projects: collective garden
+patches, rabbit raising, beekeeping, candle making, agroecology experimentation, locally controlled schools, networks of health promoters trained in combinations of traditional and modern healing, etc. Most of these started on a
+small scale, but the development of the five Aguascalientes centers allowed
+some coordination and planning beyond individual communities, including
+boot-making and textile-weaving cooperatives (problematical in terms of
+gender segregation, as the Zapatistas sought to draw on traditional identity
+
+Stahler-Sholk / RESISTING NEOLIBERAL HOMOGENIZATION
+
+57
+
+but reinvent more egalitarian and less hierarchical traditions) and the regional
+autonomous secondary school in the highlands center of Oventik. These
+projects also built on indigenous traditions of a community labor tax, a pool
+of person-days of labor to which each family contributed. These nonmarket
+alternatives to the neoliberal model were an effort to create material conditions for the support-base communities to hold out while inspiring a broader
+movement capable of changing state policies. The government sought to
+break that independence by depriving communities of land (Nash, 2003: 80)
+and otherwise isolating them.
+Economic “autonomy” from the state and from the global market entailed
+other trade-offs. The Zapatistas had to improvise a mode of relations with
+NGOs to preserve community control. Since the 2003 creation of Juntas de
+Buen Gobierno headquartered in five caracoles, the regional juntas and municipal autonomous councils review NGO projects to decide whether and on
+what terms they can proceed (Earle and Simonelli, 2005) instead of letting
+NGOs drive the development process, which could be just as divisive as
+the government’s deliberate counterinsurgency aid. This has reinforced the
+autonomous authorities’ legitimacy and participatory experience in selfgovernment. As the Zapatistas explained (Marcos, 2003: pt. 2):
+It was a matter of time before people came to understand that the Zapatista
+indigenous people had dignity and were not looking for alms, but rather respect.
+. . . There is a more sophisticated kind of handout which is practiced by some
+NGOs and international organizations. It consists more or less in their deciding
+what the communities need and, without even consulting them, imposing not
+just particular projects but also the timing and form of their execution. Imagine
+the desperation of a community that needs potable water and instead is given a
+library or needs a school for children and is given a course in herbiculture.
+
+Where projects were established in specific communities, the Juntas sometimes charged a 10 percent tax for the region. The collective fund would create a
+counterbalance to the uneven development that reflected the convenience and
+preferences of NGO funders, reaffirming the concept of community empowerment. The Zapatistas would now have some modest revenues to respond to
+needs and proposals emanating from the communities—an escape from the
+“autonomy without resources” trap, though it meant defining self-sufficiency in
+terms of wider networks of fair trade and solidarity. It also meant tightening the
+criteria for Zapatista-affiliated communities “in resistance” (i.e., rejecting government aid), a trade-off that sacrificed some pluralism and flexibility in pushing
+communities to define themselves as “in” or “out.” The new structure of the
+caracoles—extending the movement into statelike functions—posed broader
+questions of whether a social movement/rebellion/revolution must eventually
+institutionalize and in the process lose some of its mobilizational impetus. The
+Juntas included a governing council of two representatives from each of the
+autonomous municipalities composing the region, who rotated every 10–15
+days. This new dynamic logically entailed some trade-offs. The frequent rotation
+of representatives fostered grassroots participation and accountability but perhaps at some cost of efficient continuity. The new task of regional representation
+also required travel and extended shifts outside the community, which in light of
+
+58
+
+LATIN AMERICAN PERSPECTIVES
+
+gender roles in the indigenous communities might reduce women’s participation in governance structures.
+In reformulating the structure of community representation at the regional
+level, the Zapatistas were explicitly cutting out the intermediary roles of both
+the political-military apparatus of the EZLN itself and the self-appointed
+leaders and organizations of civil society (Marcos, 2003: pt. 6):
+The military structure of the EZLN “contaminated” in some ways a democratic
+and self-governing tradition. The EZLN was, shall we say, one of the “antidemocratic” elements in a relation of direct community democracy. . . . Since the EZLN,
+on principle, is not fighting to take power, none of the military leadership or
+members of the Clandestine Revolutionary Indigenous Committee can occupy
+positions of authority in the community or in the autonomous municipalities. . . .
+Often dishonest people deceive national and international civil society by presenting themselves in the cities as “Zapatistas.”. . . Now it will just be a matter
+of contacting one of the Juntas de Buen Gobierno . . . and in a matter of minutes
+one can find out if it is true or not, and if he is a Zapatista or not.
+
+This reaffirmation of the authority of the communities fit the Zapatista commitment to mandar obedeciendo (lead by obeying), reflecting the attention to
+process that characterizes new social movements. Yet it left unclear the role of
+the EZLN leaders (or of the civic Frente Zapatista de Liberación Nacional
+[Zapatista National Liberation Front—FZLN]) in connecting to a national
+movement, particularly during periods of “strategic silence” when there was
+no dialogue with the government.
+It was this dilemma of potential isolation within their autonomous regions—
+containment within a space that could be ignored, the “indio permitido” (Hale,
+2004)—that the Zapatistas sought to address with their June 2005 Sixth
+Declaration from the Lacandón Jungle. They broke a four-year silence to hold a
+series of conferences/forums with civil society, inaugurating the “Other
+Campaign,” in which Zapatista leaders would visit other movements throughout the country from January to July 2006 to refocus the national agenda away
+from election-year politicking (Harvey, 2005). In November 2005 the Zapatistas
+dissolved the FZLN and curtailed the role of Enlace Civil (an organization that
+had served as a clearinghouse for NGOs working in autonomous territories),
+reflecting the new emphasis on direct decision making by Zapatista communitybased civil authorities.
+Zapatista communities struggled to develop self-sufficient production and
+exchange without dependence on resources (capital, land) controlled by others, to avoid being uprooted and dispersed by market forces that threatened
+to “free” the community members as individuals at the expense of their collective right to preserve a different system. The Zapatistas understood this
+resistance as “sustainable development,” but within the larger context of the
+crisis of Mexican peasant agriculture it was not clear that the survival strategies of the autonomous communities—including sporadic “fair trade” and
+other solidarity support, some collective production (mostly limited to newly
+settled land “recovered” from ranchers), and wage labor when necessary to
+make up for low market prices for corn/beans/coffee—amounted to an alternative to capitalism. The state and transnational corporations (as well as
+
+Stahler-Sholk / RESISTING NEOLIBERAL HOMOGENIZATION
+
+59
+
+corporate-funded NGOs such as Conservation International) also used the
+term “sustainability” to argue that small-scale peasant agriculture is an inefficient throwback, unsustainable in the era of corporate-dominated globalization. The same government that expels indigenous settlers from the Montes
+Azules region in the name of protecting the environment also plans ecologically destructive mega-investment schemes such as agroindustrial African
+palm and eucalyptus plantations under the framework of Plan PueblaPanamá. That corporate model appears “sustainable” only if it is subsidized
+by infrastructural investments and, for that matter, by military (and paramilitary) coercion that structures the market by clearing resistant communities
+from the area to be “developed.” The Mexican army blamed jungle colonists
+for the devastating fires that swept the Lacandón region in 1998, when in fact
+this had never occurred in 30 years of settlement prior to military incursions
+and road building in the region (Nash, 2003: 86–87). Like members of the
+movement led by Chico Mendes in the Brazilian Amazon, Zapatista communities in the Lacandón Jungle realize that poor peasant land colonists can be
+scapegoated for their subsistence efforts unless they explicitly practice agroecology. Yet the autonomy that comes from sustainable agriculture is precisely
+the reason these communities are targeted for dismantling to make way for
+capitalist “development.”
+In the Montes Azules region, in the crosshairs of global capital and Plan
+Puebla-Panamá, corporate-backed bioprospecting and dam projects clashed
+with peasant cultivation. In one community I visited in June/July 2003, a
+group of Ch’ol families newly displaced by paramilitary violence in the northern part of the state was planting crops and building houses with only hand
+tools and the wood, palm fronds, and vines found in the jungle. The group’s
+arrival was met with threatening visits by armed “Lacandones” (actually
+Maya Caribes), a tiny indigenous group that had been co-opted by the government since 1972, when a newly imagined “Lacandón Community” was
+granted rights to over 600,000 hectares of forest in exchange for lumbering
+concessions to corporate interests (De Vos, 2002). That suspect concession
+ignored settlements by other indigenous groups, many of which had legal
+rights to their lands through the agrarian reform. The government further
+muddled the issue in 1978 by establishing the Montes Azules Biosphere
+Reserve, overlapping much of the territory of the previously defined
+Lacandón Community. In 2000, with bioprospecting operations under way in
+the area, the corporate-funded NGOs Conservation International and World
+Wildlife Fund launched a “conservationist” campaign, demanding eviction of
+settlers from Montes Azules on environmental grounds. The government then
+began evicting Zapatista communities, using combinations of Lacandones
+(pitted against other ethnicities), agents of the Federal Prosecutor for
+Environmental Protection, and federal military units.
+These evictions, rationalized by a discourse of governmental protection of
+indigenous (Lacandón) rights and (corporate-defined) environmentalism, served
+the combined purposes of anti-Zapatista counterinsurgency and clearing the way
+for global capital.6 In the particular community I visited, the newly arrived Ch’ol
+settlers had quickly petitioned for incorporation into the Zapatista autonomous
+municipality of Libertad de los Pueblos Maya. Their survival strategy also
+
+60
+
+LATIN AMERICAN PERSPECTIVES
+
+included designating a community member as “agricultural technician” to
+receive training in agroecology from an NGO in the distant city of San
+Cristóbal, inviting another NGO to send trainers to the community for followup workshops on techniques of sustainable agriculture, negotiating with a
+young community member who was finishing his secondary schooling in the
+northern zone to return to the new settlement to establish an autonomous primary school, inviting the San Cristóbal–based Fray Bartolomé de Las Casas
+Human Rights Center to maintain a rotating observer presence in the community following threatening visits from paramilitary and military forces, and
+preparing to send a representative to town for training to link up with the
+Network of Community Human Rights Defenders. For all the settlers’
+resourcefulness and apparent unity of purpose, however, the government
+managed to divide them, inducing one faction to sign a document apologizing to the “Lacandón Community” for occupying “its” land and promising to
+leave “voluntarily.” Then in January 2004 the military and other government
+agencies invaded, arresting the leadership and evicting the community. This
+case again illustrates the complexity of the autonomy struggle. The state, serving the interests of global capital, has appropriated the language of agrarian
+reform, indigenous rights, and environmentalism. The community, having
+been violently evicted from one territory, had a shaky claim to “sustainable
+development” (clearing rain forest to plant corn) based on the counterfactual
+of how transnationals planned to use the land. Also, their tenuous historical
+and geographic link to the autonomous municipality made it hard to ensure
+“good government,” the basis for the Zapatistas’ legitimacy claim for the right
+to local self-rule.
+Other important elements of the Zapatista construction of grassroots autonomy have included community-controlled education and administration of
+justice. In the early aftermath of the 1994 uprising, some of the governmentsupplied bilingual teachers who had worked in indigenous communities in
+Chiapas abandoned their posts, and others were expelled by Zapatista communities. Many of these teachers had been sent out through branches of the
+Department of Education as part of the assimilationist policies administered
+since the 1950s by the Instituto Nacional Indigenista (National Indigenist
+Institute—INI). The Zapatista communities, in rejecting the bilingual government teachers, chose to sacrifice the meager educational resources on offer in
+order to open up new possibilities of community control and relevant curriculum emphasizing such things as agriculture and indigenous culture. Yet
+this meant new challenges such as negotiating for NGO assistance without
+losing autonomy and designing new curricula without deepening the divisions between Zapatista-affiliated and other indigenous people. In judicial
+administration, autonomous authorities face challenges of ambiguous lines of
+demarcation in areas of divided communities and dual power. Their enforcement powers in effect depend on each community’s or region’s acceptance of
+their legitimacy. Notwithstanding the rights of indigenous communities
+under the San Andrés Accords to implement local normative systems, the
+government selectively invoked human rights—privileging the individual
+(property) rights demanded by the neoliberal model—to undermine
+autonomous authorities (Speed and Collier, 2000).
+
+Stahler-Sholk / RESISTING NEOLIBERAL HOMOGENIZATION
+
+61
+
+PRELIMINARY LESSONS OF THE
+ZAPATISTA AUTONOMY EXPERIENCE
+The Zapatista movement is continually evolving, reflecting the dynamic
+interaction between neoliberalism and the social movements that contest it. As
+the state brokers the reconfiguration of markets in accordance with the logic of
+global capital, new organizational bases and forms of organizing are emerging
+within civil society, attempting to build alternatives from the grassroots. This
+necessarily involves these movements in political struggles as they claim rights
+to organize autonomously from control by the state or market actors. The
+Zapatista example suggests that “autonomy” is not a monolithic concept or a
+magic bullet against neoliberalism. States implementing neoliberal projects
+have a variety of ways of responding to autonomy movements, trying to neutralize or divert them. Several potential dead ends for autonomy movements are
+identified here. One is a version of autonomy defined merely as territorial
+decentralization, which could convert the regional authorities into appendages
+of the existing power structure. A second is autonomy that cuts off local
+claimants from resources, “freeing” them to fend for themselves as the central
+state paves the way for the penetration of the global market. A third is the
+neoliberal multiculturalism trap, recognizing multiple (ethnic) identities while
+denying any substantive collective rights to the diverse groups.
+In navigating between these shoals, the Zapatistas have created a space for
+local communities to experiment with the construction of new models of government. This pluralism and flexibility of autonomies helped the movement
+survive over 10 years of intense state-organized counteroffensive, but the
+Zapatistas’ future depends on their ability (limited so far) to articulate this local
+resistance into a national movement. Community-controlled social and political
+institutions—schools, clinics, systems of justice, and regional planning—are part
+of the struggle to define collective priorities independently of the logic of the
+market. As global market forces reduce space for self-sufficient development, the
+importance of the microcosm of Zapatista autonomous communities—like the
+spaces occupied and transformed by Argentine piqueteros and Brazilian landless—is in symbolizing alternative and inspiring new political movements that
+challenge the state’s posture as broker for global capital.
+
+NOTES
+1. Big Noise Tactical Media, 2000. http://www.bignoisefilms.com.
+2. See Secretaría de Gobernación/Consejo Nacional de Población (CONAPO), “Remesas”
+(http://www.conapo.gob.mx/publicaciones/nuevaera/04.pdf). Chiapas ranked #1 in CONAPO’s
+index of marginalization, while US$500 million in remittances in 2004 exceeded the value of the
+entire state’s corn harvest (Daniel Villafuerte, cited in Pickard, 2005).
+3. See chapters by María Eugenia Reyes Ramos, Gemma van der Haar, and Araceli Burguete
+in Pérez Ruiz (2004).
+4. The Third Declaration from the Lacandón Jungle asserted, “Custody of the homeland is
+withdrawn from the federal government,” basing the right of self-government on Article 39 of
+Mexico’s 1917 Constitution (http://www.ezln.org/documentos/1995/199501xx.en.htm).
+5. Examples here are from my various visits to communities as a human rights observer since
+1994.
+
+62
+
+LATIN AMERICAN PERSPECTIVES
+
+6. José Campillo, head of the environmental protection agency, noted in 2001 that “until these
+highly ungovernable zones are recovered, private investment will not come, and that has negative
+consequences throughout the country” (interview cited in Chiapas al Día, February 3, 2004). See also
+CIEPAC Bulletins 347 (June 10, 2003) and 378 (October 15, 2003) (http://www.ciepac.org/bulletins).
+
+REFERENCES
+Burguete Cal y Mayor, Araceli
+2003 “The de facto autonomous process: new jurisdictions and parallel governments in rebellion,” pp. 191–218 in Jan Rus, Rosalva Aída Hernández Castillo, and Shannan L. Mattiace
+(eds.), Mayan Lives, Mayan Utopias: The Indigenous Peoples of Chiapas and the Zapatista Rebellion.
+Lanham, MD: Rowman and Littlefield.
+Collier, George A.
+1994 “The new politics of exclusion: antecedents to the rebellion in Mexico.” Dialectical
+Anthropology 19(1) :1–44.
+Colloredo-Mansfeld, Rudi
+2002 “Autonomy and interdependence in native movements: towards a pragmatic politics in
+the Ecuadorian Andes.” Identities: Global Studies in Culture and Power 9(2): 173–195.
+De Vos, Jan
+2002 Una tierra para sembrar sueños: Historia reciente de la Selva Lacandona, 1950–2000. Mexico
+City: CIESAS/Fondo de Cultura Económica.
+Díaz-Polanco, Héctor and Consuelo Sánchez
+2002 México diverso: El debate por la autonomía. Mexico City: Siglo XXI.
+Earle, Duncan and Jeanne Simonelli
+2005 Uprising of Hope: Sharing the Zapatista Journey to Alternative Development. Lanham, MD:
+AltaMira Press.
+Eber, Christine
+2003 “Buscando una nueva vida: liberation through autonomy in San Pedro Chenalhó,
+1970–1998,” pp. 135–159 in Jan Rus, Rosalva Aída Hernández Castillo, and Shannan L.
+Mattiace (eds.), Mayan Lives, Mayan Utopias. Lanham, MD: Rowman and Littlefield.
+Eckstein, Susan Eva and Timothy P. Wickham-Crowley (eds.)
+2003 Struggles for Social Rights in Latin America. New York: Routledge.
+Esteva, Gustavo
+2003 “The meaning and scope of the struggle for autonomy,” pp. 243–269 in Jan Rus, Rosalva
+Aída Hernández Castillo, and Shannan L. Mattiace (eds.), Mayan Lives, Mayan Utopias.
+Lanham, MD: Rowman and Littlefield.
+Foran, John (ed.)
+2003 The Future of Revolutions: Rethinking Political and Social Change in the Age of Globalization.
+London: Zed Books.
+Fox, Jonathan
+1997 “The difficult transition from clientelism to citizenship: lessons from Mexico,” in
+Douglas A. Chalmers et al. (eds.), The New Politics of Inequality in Latin America: Rethinking
+Participation and Representation. New York: Oxford University Press.
+Gills, Barry (ed.)
+2000 Globalization and the Politics of Resistance. London: Macmillan.
+Hale, Charles R.
+2002 “Does multiculturalism menace? Governance, cultural rights, and the politics of identity
+in Guatemala.” Journal of Latin American Studies 34(3): 485–524.
+2004 “Rethinking indigenous politics in the era of the ‘indio permitido.’” NACLA Report on the
+Americas 38(2): 16–21.
+Harvey, Neil
+1998 The Chiapas Rebellion: The Struggle for Land and Democracy. Durham, NC: Duke University
+Press.
+2005 “Inclusion through autonomy: Zapatistas and dissent.” NACLA Report on the Americas
+39(2): 12–17.
+
+Stahler-Sholk / RESISTING NEOLIBERAL HOMOGENIZATION
+
+63
+
+Hellman, Judith Adler
+1992 “The study of new social movements in Latin America and the question of autonomy,”
+pp. 52–61 in Arturo Escobar and Sonia E. Alvarez (eds.), The Making of Social Movements in
+Latin America: Identity, Strategy, and Democracy. Boulder: Westview Press.
+1994 “Mexican popular movements, clientelism, and the process of democratization.” Latin
+American Perspectives 81(2): 124–142.
+Hernández, Rosalva Aída, Sarela Paz, and María Teresa Sierra (eds.)
+2004 El estado y los indígenas en tiempos del PAN: Neoindigenismo, legalidad e identidad. Mexico
+City: CIESAS.
+Leyva Solano, Xóchitl
+2003 “Regional, communal, and organizational transformations in Las Cañadas,” pp. 161–184
+in Jan Rus, Rosalva Aída Hernández Castillo, and Shannan L. Mattiace (eds.), Mayan Lives,
+Mayan Utopias. Lanham, MD: Rowman and Littlefield.
+Marcos, Subcomandante Insurgente
+2003 “Chiapas: La treceava estela.” July. http://www.ezln.org/documentos/1995/199501xx
+.en.htm.
+Mattiace, Shannan
+2003 To See with Two Eyes: Peasant Activism and Indian Autonomy in Chiapas, Mexico.
+Albuquerque: University of New Mexico Press.
+Nash, June C.
+2001 Mayan Visions: The Quest for Autonomy in an Age of Globalization. New York: Routledge.
+2003 “Indigenous development alternatives.” Urban Anthropology and Studies of Cultural
+Systems and World Economic Development 32(1): 57–98.
+Otero, Gerardo (ed.)
+2004 Mexico in Transition: Neoliberal Globalism, the State, and Civil Society. London: Zed Books.
+Pérez Ruiz, Maya Lorena (ed.)
+2004 Tejiendo historias: Tierra, género y poder en Chiapas. Mexico City: INAH.
+Pickard, Miguel
+2005 “In the crossfire: Mesoamerican migrants journey north.” Silver City, NM, Americas
+Program, March 18. http://americas.irc-online.org/reports/2005/0503migrants.html.
+Rus, Jan
+1995 “Local adaptation to global change: the reordering of native society in highland Chiapas,
+Mexico 1974–1994.” European Review of Latin American and Caribbean Studies 58 (June): 71–89.
+Speed, Shannon and Jane F. Collier
+2000 “Limiting indigenous autonomy in Chiapas, Mexico: the state government’s use of
+human rights.” Human Rights Quarterly 22: 877–905.
+Stahler-Sholk, Richard
+1998 “Massacre in Chiapas.” Latin American Perspectives 25(4): 63–75.
+2001 “Globalization and social movement resistance: the Zapatista rebellion in Chiapas,
+Mexico.” New Political Science 23(4): 493–516.
+2005 “Time of the snails: autonomy and resistance in Chiapas.” NACLA Report on the Americas
+28(5): 34–40.
+Stephen, Lynn
+1997 “Pro-Zapatista and Pro-PRI: Resolving the contradictions of Zapatismo in rural
+Oaxaca.” Latin American Research Review 32(2): 41–70.
+Williams, Heather L.
+2001 Social Movements and Economic Transition: Markets and Distributive Conflict in Mexico. New
+York: Cambridge University Press.
+Yashar, Deborah J.
+2005 Contesting Citizenship in Latin America: The Rise of Indigenous Movements and the Postliberal
+Challenge. Cambridge: Cambridge University Press.
+
+

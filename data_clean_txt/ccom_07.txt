@@ -1,0 +1,914 @@
+eScholarship
+California Italian Studies
+Title
+Hegemony, Democracy, and Passive Revolution in Gramsci's
+
+Prison Notebooks
+
+Permalink
+https://escholarship.org/uc/item/5x48f0mz
+
+Journal
+California Italian Studies, 2(2)
+
+Author
+Riley, Dylan J.
+
+Publication Date
+DOI
+10.5070/C322008962
+
+Copyright Information
+Copyright 2011 by the author(s). All rights reserved unless otherwise indicated. Contact
+the author(s) for any necessary permissions. Learn more at https://escholarship.org/terms
+Peer reviewed
+
+eScholarship.org
+
+Powered by the California Digital Library
+University of California
+
+Hegemony and Democracy in Gramsci’s Prison Notebooks
+Dylan Riley
+Antonio Gramsci is once again moving to the center of debates in contemporary social
+theory. Sociologists have taken up the concepts of hegemony and civil society to analyze
+regimes and social movements (Riley 2010; Tugal 2009). Political theorists have used
+Gramsci as an inspiration for developing the idea of radical democracy (Laclau and
+Mouffe 1985). Scholars of international relations have found Gramsci’s focus on global
+processes useful for analyzing neo-liberalism (Morton 2004, 125-127). Gramsci’s work
+has also been central in the attempt to elaborate a “sociological Marxism” that moves
+beyond both the statist and economistic biases of more traditional forms of Second and
+Third International historical materialism (Burawoy 2003; Wright 2010). But despite this
+outpouring of recent interest, many of the key elements of Gramsci’s political theory
+remain obscure. In this context, this essay returns to the Prison Notebooks1 to ask a
+specific question: “How did Gramsci conceive of the connection between democracy and
+hegemony?”
+This question has already generated a substantial body of scholarship. But most of it
+can be placed into one of two positions. One interpretation views hegemony as a theory
+of revolutionary dictatorship: a “Leninism” for the West (Galli della Loggia 1977, 69;
+Salvadori 1977, 40-41). These writers tend to be highly critical of the various attempts by
+the Partito Comunista Italiano (Italian Communist Party, PCI) to use Gramsci as a
+symbolic justification for the party’s moderate post-war strategy. As Galli della Loggia
+(1977, 29) acerbically noted in the late seventies:
+That Antonio Gramsci’s ideological convictions, and the political and
+strategic proposals that follow from them can be made consistent with, or
+at least adapted to, the schemes of contemporary parliamentary democracy
+is an idea that, despite the prodigious theoretical efforts made by the
+Communist party in the last twenty years, shows itself to have little
+substance as soon as one reads or re-reads the texts with an open mind.
+(Translation mine)
+This essay relies primarily on Selections from the Prison Notebooks of Antonio Gramsci translated by
+Quintin Hoare and Geofffrey Nowell Smith (Gramsci 1971). I have used this edition because it is the most
+widely used one in social science discussions of Gramsci (for example see Burawoy 1990). However, for
+those who would like to locate the discussion in the context of the full Quaderni del carcere I have
+included page references to the corresponding passages in the four volume edition edited by Valentino
+Gerrantana (Gramsci 2007). In most instances the passages I cite are widely known. The purpose of this
+essay is not to emphasize obscure citations from Gramsci’s Quaderni, but rather is to provide a coherent
+conceptual framework for understanding the relationship between hegemony and democracy in his work.
+
+This interpretation of Gramsci places him firmly in the political tradition of the Third
+International. The second position, currently and most vigorously expressed by the
+director of the Fondazione Istituto Gramsci (Gramsci Foundation Institute), Giuseppe
+Vacca, holds that “there is no hegemony without democracy” (1999, 24). This is also the
+view of Laclau and Mouffe (1985, 176). Scholars who advocate this interpretation of
+Gramsci tend to present his Prison Notebooks as a sharp break with Lenin’s ideas about
+the state and revolutionary strategy. According to this position, Gramsci is a theorist of
+radical democracy, not a Lenin for the West.
+Perry Anderson suggests a useful way of transcending this debate. He points out that
+the concept of hegemony was extremely widespread in Russian Marxism (1976-77, 1718). But whereas in this debate it referred to an alliance between workers and peasants in
+which workers would play the leading role, Gramsci in the Prison Notebooks “now
+employed the concept of hegemony for a differential analysis of the structures of
+bourgeois power in the West” (20). This is a crucial point. Although Anderson’s essay
+suggestively points to a way of reconciling the two meanings usually associated with
+hegemony, his claim that Gramsci’s originality lies primarily in applying the concept to
+bourgeois power is too limited.
+This paper seeks to develop a new perspective on the debate. It argues that none of
+the currently dominant positions adequately grasps Gramsci’s theory of the connection
+between hegemony and democracy. While Vacca correctly emphasizes that for Gramsci
+any fully hegemonic state must be both liberal and democratic, his interpretation tends to
+transform the Sardinian revolutionary into a post-war Italian Eurocommunist, or a
+contemporary radical democratic theorist. In contrast, Galli della Loggia and Salvadori
+correctly emphasize Gramsci’s revolutionary political strategy, but misinterpret
+hegemony as a theory of the dictatorship of the proletariat. Anderson rightly focuses on
+the contrasting meanings of hegemony, but his reading of the concept as a theory of
+bourgeois class power fails to emphasize that Gramsci embraced hegemony as a political
+value. In contrast to all of these interpretations, I argue that Gramsci combined a deep
+appreciation for the importance of liberal political institutions, with a Leninist
+commitment to social revolution. This surprising combination is, I suggest, what makes
+his work so distinctive within the Marxist tradition and accounts for much of his
+contemporary relevance.
+Specifically, I make two arguments. First, I suggest that hegemony is not just a form
+of intellectual and moral leadership in general; it is a form of rational intellectual and
+moral leadership. Because of its rational form, hegemony is inconceivable without
+pluralism and democracy. Gramsci, unlike what some scholars have suggested about
+Marx (Megill 2002, 58), did not conceive of socialism as the supersession of politics, or
+more particularly of deliberation. I develop this point by comparing Gramsci’s concept of
+hegemony with the Hegelian concept of ethical life. I suggest that two concepts are very
+similar, and that a misunderstanding of Hegel lies behind the interpretations of Salvadori
+and Gallia della Loggia.
+Second, I argue that hegemony is neither “secreted” by civil society, nor is it a
+“bottom-up” process of cultural transformation. Typically hegemony is created in a
+process of decisive political transformation: revolution. I maintain that Salvadori and
+Galli della Loggia correctly grasp this point. Where a new ruling class comes to power in
+a non-revolutionary manner, through a process of passive revolution (as in Italy), it is
+
+extremely difficult to establish hegemony, and therefore democracy. Democratic forms
+may emerge, but they will remain weak. To summarize: the whole thrust of Gramsci’s
+argument underlines the close connection between decisive revolutionary violence and
+functioning democratic systems. The Prison Notebooks, from this perspective, is an
+extended theoretical reflection on what historical sociologist Barrington Moore called
+“The Contribution of Violence to Gradualism” (1993). To understand Gramsci, then,
+requires one to grasp his commitment to democracy and pluralism and his revolutionary
+politics in a single intellectual framework.
+1. Hegemony as Rationalized Intellectual and Moral Leadership
+I begin with the discussion of hegemony as a technique of political rule. Gramsci writes
+that, “The methodological criterion on which our own study must be based is that the
+supremacy of a social group manifests itself in two ways, as ‘domination’ and as
+‘intellectual and moral leadership’” (1971, 57; 2007, 2010-2011). Supremacy then cannot
+be understood simply as a consequence of physical force. It also has a moral and
+intellectual component. Hegemony is also closely related to a second key concept of
+Gramsci’s repertoire: civil society. This refers to “a system of superstructural institutions
+that is intermediary between economy and State” (Anderson 1976-77, 35). Civil society
+is the locus of hegemony for Gramsci.
+This is very familiar terrain. However the real connection between civil society and
+hegemony needs to be carefully explicated. I begin this analysis by discussing the
+meaning of hegemony and emphasizing its close relationship to the Hegelian concept of
+ethical life. Then, I briefly compare Gramsci and Hegel’s concepts of civil society to shed
+some light on the extremely close connection between hegemony and liberal democracy.
+1.a. Ethical Life and Reason
+Hegemony in the Prison Notebooks is a historical concept because the mechanisms of
+intellectual and moral leadership differ in different historical periods. More particularly,
+hegemony tends to become broader (include more of the population) and more rational as
+history progresses (Bellamy and Schechter 1993, 122-123, 125). Neither Galli della
+Loggia nor Salvadori adequately grasp this point, and as a result seriously misread the
+concept. Galli della Loggia argues, for example, that Gramsci is best understood as a left
+wing Silvio Spaventa advocating an authoritarian pedagogy and the propagation of
+Marxism as a secular faith capable of supplanting liberalism (1977, 85-87). Indeed he
+suggests that Gramsci carries over from Hegel precisely the idea that states must be based
+on a highly developed world-view or Weltanschauung. Such an interpretation gets both
+Hegel and Gramsci wrong.
+Hegel’s approach to the state is distinctive because for him the state is both a set of
+institutions and customs and a set of subjects who have a particular attitude or disposition
+toward those institutions and customs. This is what the German philosopher means when
+
+he says that the state has both an “immediate existence” and a “mediate existence in the
+self consciousness of the individual” (Hegel 1991, 275).3 In the modern state, this
+configuration of dispositions, institutions, and customs takes the form of concrete
+freedom.
+Modern states combine the two forms of freedom in a particularly intimate way.
+Immediate freedom is the ability to pursue one’s own interests. Mediated freedom is
+one’s self-awareness of the conditions in which it is possible to pursue one’s own
+interests. Hegel demonstrates a connection between these two forms of freedom in the
+modern state. Concrete freedom (the combination of immediate and mediated freedom)
+requires that “particular interests should reach their full development and gain
+recognition of their right” (Hegel 1991, 282). In other words, in the modern state men and
+women are not simply free, they are aware that existing political institutions and customs
+secure their freedom. Specifically this means that they recognize their individual
+freedoms as rights secured by the state.
+This recognition of freedom as a right, and the awareness of the political context in
+which immediate freedom exists, is for Hegel the key to understanding the strength of the
+modern state. Hegel says that particular interests “pass over of their own accord into the
+interest of the universal.” This happens when particular interests “knowingly and
+willingly acknowledge this universal interest even as their own substantial spirit, and
+actively pursue it as their ultimate end” (1991, 282). Free beings are men and women
+then who pursue their own interests, but who are aware that these interests require a state
+for their pursuit. This is the abstract view. But Hegel also has an argument about how this
+develops.
+The sections of The Philosophy of Right dealing with civil society argue that the
+pursuit of particular interests depends on the existence of an integrated system of needs
+(the economy); from the perspective of the individual in civil society this “system of
+needs” remains invisible as a system. When, however, the individual achieves an insight
+into the conditions that make his own individual freedom possible, and particularly the
+integration of needs in a market society, this leads to an understanding of a broader
+universal or social system that makes his or her freedom possible. That awareness now
+also takes the form of particular duties and rights.
+The individual, whose duties give him the status of a subject, finds that, in
+fulfilling his duties as a citizen, he gains protection for his person and
+property, consideration for his particular welfare, satisfactions of his
+substantial essence, and the consciousness and self-awareness of being a
+member of the whole. (Hegel 1991, 285)
+The modern state distinctively relies on individual subjects being aware of the connection
+between their interests as individuals and the interests of the state.
+Hegel’s term for this awareness of the connection between individuality and the
+universality of the modern state is “duty.” “In the process of fulfilling his duty, the
+I use the standard Cambridge edition of the Elements of the Philosophy of Right translated by H.B. Nisbet
+(Hegel 1991).
+
+individual must somehow attain his own interests and satisfaction or settle his own
+account, and from his situation within the state, a right must accrue to him whereby the
+universal cause [Sache] becomes his own particular cause” (1991, 284-5). Hegel argues
+that this gives the modern state its “enormous strength and depth because it allows the
+principle of subjectivity to attain fulfillment in the self-sufficient extreme of personal
+particularity, while at the same time bringing it back to substantial unity and so
+preserving this unity in the principle of subjectivity itself” (282). Consequently, in the
+modern state the individual and particular interests of civil society become the basis of
+the development of duty.
+A key question, from Hegel’s point of view, is how do the individuals of civil society
+actually attain an awareness of their universal interests? Hegel’s conclusion is that they
+cannot do so in civil society because universality remains constantly hidden behind the
+skein of individual interests, as evidenced in his analysis of the system of needs. For
+Hegel it is the constitution that leads to this awareness. It does so in part by objectifying
+the rights that individuals have in civil society. Moreover the constitution creates
+deliberative institutions, such as parliaments, in which public opinion can form. Opinion
+plays an absolutely crucial rule in Hegel’s thinking.
+Public opinion has been a major force in all ages, and this is particularly
+so in our own times, in which the principle of subjective freedom has such
+importance and significance. Whatever is to achieve recognition today no
+longer achieves it by force, and only to a small extent through habit and
+custom, but mainly through insight and reasoned argument. (1991, 353)
+The distinctive feature of the modern state, then, for Hegel is that its commands are based
+on reason.
+The state, suggests Hegel, in a crucial paragraph (§ 270) “knows what it wills, and
+knows it in its universality as something thought. Consequently, it acts and functions in
+accordance with known ends and recognized principles, and with laws which are laws not
+only in themselves but also for the consciousness” (1991, 291). As Hegel proceeds to
+explain in the paragraph, this is the fundamental difference between the state and
+religion. In religion the subject relates to doctrine in the mode of faith and with feeling.
+But Hegel is quite clear that the state does not demand faith. Instead it demands a rational
+acceptance of its authority. As Hegel puts the point, “since the state is not a mechanism
+but the rational life of self-conscious freedom and the system of the ethical world, the
+disposition [of its citizens], and so also [their] consciousness of this disposition in
+principles, is an essential moment of the actual state” (297). The modern state is therefore
+not based on untransformed custom but rather on reason. In particular, the modern state
+does not demand an elaborated Weltanschauung. Instead its cultural strength rests on the
+fact a critical rational citizenry with a fully developed sense of its own individual
+personality recognizes it as legitimate (Marcuse 1970, 213). Duty in the modern sense is
+only possible where there exists a wide scope for individual liberty. This idea of a
+political order based on reason anticipates in many respects Habermas’ notion of the
+rationalization of the life world. For Habermas (1981, 70), very much like Hegel, sees
+
+historical development in part as the replacement of traditionally imposed norms with
+understanding produced as a consequence of deliberation. The absolutely crucial role of
+reason, and particularly of critical rational discourse, in Hegel’s political theory is
+important because it means that to the extent that Hegel influenced Gramsci, the
+Sardinian could not have interpreted “hegemony” as faith, but rather as reason. Indeed
+there is considerable evidence to suggest that this is the case.
+1.b. From Hegel to Gramsci
+There are many parallels between Gramsci’s idea of hegemony and Hegel’s discussion of
+modern ethical life as reason. Indeed it could be argued that the role of the constitutional
+state in Hegel is taken over by the “philosophy of praxis,” a term that means Marxism but
+also more specifically the self-awareness of men and women’s fundamental capacity to
+remake both themselves and society (Gramsci 1971, 323; 2007, 1271-1272). The starting
+point for this sort of interpretation is that Marxism can no longer be understood with
+Gramsci as either doctrine or custom or ideology. The philosophy of praxis must itself be
+grasped as a relationship between a certain sort of subject and a certain sort of political
+project. This attempt to grasp Marxism both as a project and as a set of dispositions
+toward that project is strictly analogous to Hegel’s conceptualization of the modern state
+as containing institutions, customs and subjects.
+One of the most effective ways to show this is to investigate the connection between
+common sense (spontaneous philosophy embodied in language and un-reflected
+concepts) and the philosophy of praxis. A brief word is necessary on the origins of this
+latter term and the particular interpretation that Gramsci gives to it. Antonio Labriola
+(1972, 412) first coined the term philosophy of praxis to emphasize the importance of
+relationships rather than essences in Marxist ontology in a letter written to Georges Sorel
+in 1897.4 Giovanni Gentile then elaborated the concept in two critical essays that he
+wrote accompanying his translation of the Theses on Feuerbach (Del Noce 1977, 204;
+Frosini 2004, 93).5 Gentile’s basic point in these essays is that Marxism, because of its
+materialism, had no adequate account of its own function as a social theory in the
+historical process. More particularly, Gentile argued, to the extent that Marxism became
+politically efficacious it had necessarily to lose “on the way…all its form and
+philosophical rigor” (1955, 123). As Sorel (1999, 19-20) understood, it had to be
+converted into a myth.
+One useful way of reading Gramsci’s notes on the philosophy of praxis is as an
+answer to this criticism. For, although Gramsci was extremely sensitive to the importance
+of culture in historical development, he saw Gentile’s criticism as elitist and irrational.
+For him, the persuasive power of Marxism must above all be based on its ability to
+explain the world to ordinary men and women. Gramsci explains how he sees this
+Labriola refers to the “filosofia della praxis,” whereas Gentile refers to “filosofia della prassi” (Gentile
+1955, 72).
+The influence of Gentile on Gramsci remains a contentious subject. Frosini forcefully argues that Gramsci
+carefully distinguished his philosophy of praxis from Gentile’s. Del Noce’s highly suggestive essay,
+“Gentile e Gramsci” makes the opposite argument.
+
+process unfolding in the notes where he addresses the transformation of common sense
+through the philosophy of praxis. As he states in the Prison Notebooks,
+At this point, a fundamental theoretical question is raised: can modern
+theory [that is the philosophy of praxis or Marxism] be in opposition to the
+‘spontaneous’ feelings of the masses? (‘Spontaneous’ in the sense that
+they are not the result of any systematic educational activity on the part of
+an already conscious leading group, but have been formed through
+everyday experience illuminated by ‘common sense,’ i.e. by the traditional
+popular conception of the world—what is unimaginatively called
+‘instinct,’ although it too is in fact a primitive and elementary historical
+acquisition.) It cannot be in opposition to them. Between the two there is a
+‘quantitative’ difference of degree, not one of quality. (1971, 199; 2007,
+330-331)
+This passage raises an important question. Why does Gramsci say that modern theory
+(Marxism) cannot be in opposition to the spontaneous feelings of the masses?
+Now one kind of obvious objection to this claim would simply be to say that in a
+wide variety of historical circumstances the philosophy of praxis does not seem to have
+been adopted by “the masses,” however we might choose to define this term. But this sort
+of objection misunderstands what Gramsci means by the philosophy of praxis. The
+philosophy of praxis is not a set of received and established truths about the way the
+social world works. This is why Gramsci claims that it cannot be presented in the form of
+a “formally dogmatic, stylistically poised and scientifically balanced exposition”
+(Gramsci 1971, 433; 2007, 1424). The philosophy of praxis, or Marxism, for Gramsci is
+therefore not a Weltanschauung in the usual sense because it is not a doctrine. It is
+instead the progressive achievement on the part of the mass of the population itself of
+awareness of its own historical agency. As Gramsci puts it, “the philosophy of praxis, is
+precisely the concrete historicization of philosophy and its identification with history”
+(1971, 436; 2007, 1426).
+From this perspective the whole view that suggests that the philosophy of praxis
+might exist against the “spontaneous feelings of the masses” is frankly nonsense. After
+all, the philosophy of praxis is only a philosophy of praxis if it in fact is the selfawareness of the mass of the population of its own potential historical role. If it is not the
+self-awareness of the mass of the population in this sense, it cannot be a philosophy of
+praxis but can only exist as an ideology: a doctrinal system separated from its object of
+analysis, which neither transforms its object, nor itself, in the very act of its analysis. In
+other words the philosophy of praxis cannot exist in the same way as “biology,” for
+example Its validity consists in establishing a critical rational relationship between the
+socialist political project and those subjects who might potentially support such a project.
+This does not mean that Gramsci is a populist in the sense that he uncritically praises
+or celebrates popular culture. His derisive criticism of Henri de Man shows this.
+
+De Man ‘studies’ popular feelings: he does not feel with them to guide
+them, and lead them into a catharsis of modern civilization. His position is
+that of the scholarly student of folklore who is permanently afraid that
+modernity is going to destroy the object of his study. (1971, 418-19; 2007,
+1506)
+However, the philosophy of praxis must be translatable into the language of “good
+sense;” it must also be a constant critique of “common sense.” As Gramsci writes, “it
+must be a criticism of ‘common sense,’ basing itself initially, however, on common sense
+in order to demonstrate that ‘everyone’ is a philosopher and that it is not a question of
+introducing from scratch a scientific form of thought into everyone’s individual life, but
+of renovating and making ‘critical’ an already existing activity” (1971, 331; 2007, 1383).
+The philosophy of praxis therefore must be aimed at transforming common sense.
+Having stated Gramsci’s basic problem we can now begin to ask, “What is wrong
+with common sense?” It is very important to think about this question since it is one of
+the central questions of Marxism with which Gramsci grapples. In making this
+connection, it is useful to recall what Lenin writes:
+The history of all countries shows that the working class, exclusively by
+its own effort, is able to develop only trade union consciousness, i.e., the
+conviction that it is necessary to combine in unions, fight the employers,
+and strive to compel the government to pass necessary labor legislation
+etc. (Lenin 1975, 24)
+Although Lenin did not give a very satisfactory explanation for why this was the case, it
+is worth remembering that his assumption, that the working class could not by its own
+efforts achieve a revolutionary consciousness, was widely shared in Bolshevik circles at
+the time that Gramsci was writing.
+The most sophisticated attempt to explain why this was the case from a rather
+orthodox Leninist standpoint was available in the theory of reification developed by
+Lukács. The Hungarian philosopher claimed to have solved the twin theoretical problem
+of Marxism (failure of revolution in the West and success in the East) by developing
+Marx’s theory of commodity fetishism as reification. He argued that the development of
+commodity relations and the rationalization of production in advanced capitalist societies
+acted as powerful counter-tendencies to the processes of class formation and classconsciousness that Marx famously set out in the Communist Manifesto. Gramsci rejects
+this view in important respects, and links the problem of class-consciousness to an
+entirely different set of questions.
+Gramsci counters Lukács in his very dense note, “The So-Called ‘Reality of the
+External World’”
+
+The popular public does not think that a problem such as whether the
+external world exists objectively can even be asked. One just has to
+enunciate the problem in these terms to provoke an irresistible and
+gargantuan outburst of laughter. The public ‘believes’ that the external
+world is objectively real, but it is precisely here that the question arises:
+what is the origin of this ‘belief’ and what critical value does it
+‘objectively’ have? (Gramsci 1971, 441; 2007, 1411-1412)
+Here Gramsci explains the most general problem of common sense as the belief in the
+objective reality of the external world. This is what Gramsci calls the “naïve metaphysics
+[metafisica ingenua] of common sense” (444; 1415). What is wrong with it? Gramsci’s
+point is that the statement “there exists an external world” is an abstract statement
+because it does not say from what standpoint this “extra-historical and extra-human
+objectivity” could appear (ibid.). Reality from Gramsci’s perspective is neither extrahuman objectivity nor subjectivity. Rather, it is an objectivity that exists in relationship to
+a subject for which it is an object.
+Common sense, however, denies that reality is a relationship between an object and a
+subject for whom, and to whom the object appears as an object. Instead it affirms an
+“objectivity that exists even apart from man” (446; 1416). Now this is a common sort of
+Hegelian move. Lukács famously describes what he calls reification in a similar way:
+The contemplative stance adopted towards a process mechanically
+conforming to fixed laws and enacted independently of man’s
+consciousness and impervious to human intervention, i.e. a perfectly
+closed system, must likewise transform the basic categories of man’s
+immediate attitude toward the world. (1971, 89)
+Thus for Lukács, as for Gramsci, the belief in the reality of the external world is the result
+of a certain sort of subjectivity, a subjectivity that is not aware of itself as the producer of
+social reality. However Gramsci interprets this point in a very different way from other
+thinkers in the Marxist tradition. For him the source of this view is not commodity
+production, but religion. What does religion provide? For Gramsci religion provides the
+subject for which objectivity appears as such without any intermediation.
+Who is able to put himself in this kind of ‘standpoint of the cosmos in
+itself’ and what could such a standpoint mean? It can indeed be
+maintained that here we are dealing with a hangover of the concept of
+God, precisely in its mystic form of a conception of an unknown God.
+(1971, 445; 2007, 1415)
+
+From Gramsci’s perspective, then, God as the ultimate subject is the guarantor of the
+belief in objectivity in-itself outside of a human subject. On this account there is a
+subterranean connection between the religious world-view and “positivism” (understood
+in a general sense as a stance toward the social world which identifies laws and
+institutions that are outside the intervention of human beings). As Gramsci puts the point,
+“Catholicism tends, in its competition with idealist philosophy, to appropriate to its side
+natural and physical science” (Gramsci 1971, 444; 2007, 1414). Catholicism and
+positivism are linked at the level of their basic understanding of reality. I want to
+emphasize that this is an extremely original move within the Marxian tradition. It harks
+back in some ways to an older critique of Aristotelian thought, which gets its start with
+Hobbes, but Gramsci powerfully develops it in the Marxist tradition. Gramsci’s argument
+here also anticipates Louis Althusser's concept of ideology as interpellation (1971: 177183), although in a very different idiom.
+With respect to Lenin and Lukács and the thinkers of the Frankfurt school, this is
+really a new departure. Essentially, this other tradition of Marxism (the Russo-German
+one) argued that positivism, which we can take as shorthand for the idea of the objectivity
+of the external world, was somehow the immediate and spontaneous form of knowledge
+among the “masses.” Gramsci reverses this way of thinking because he instead takes as a
+problem to explain “the origin of this belief” (Gramsci 1971, 441; 2007, 1411-1412). One
+might think that this turn toward religion indicates Gramsci’s affinity with Feuerbach.
+But there is a sharp difference between the two. For Feuerbach the ultimate source of
+religious feeling is the human sense of dependence on nature (2004, 2). Gramsci’s
+argument remains much more sociological and historical. For religion itself is the product
+of a specific social group: the traditional intellectuals. Because they are cut off from class
+and from production, traditional intellectuals tend to form “as a crystallized social group”
+(Gramsci 1971, 452; 2007, 1406-1407). Further they connect themselves with “preceding
+intellectual categor[ies] by means of a common conceptual nomenclature” (Gramsci 452;
+1407). To extend Gramsci’s argument, the consolidation of this common conceptual
+nomenclature tends to lead to hypostases. One of the best examples of this is idealism.
+Gramsci in a dense and elusive note on ‘quality’ and ‘quantity’ appears to suggest that
+idealists have tended to attribute concreteness and subjectivity to sets of human
+relationships such as the state (469; 1447). For him the conceptual error of idealism is not
+fundamentally different from that of vulgar materialism that, instead of divinizing human
+collectivities divinizes matter (ibid.). In short, from Gramsci’s perspective the
+replacement of the action of things for the action of men and women is an occupational
+hazard of traditional intellectuals. In this general sense religion is the spontaneous
+ideology of the traditional intellectuals, which they then perpetrate on society as a whole.
+To formulate the point as sharply as possible something like reification or false
+consciousness indeed does exist for Gramsci, but far from being characteristic of
+workers, or even “the masses,” it is the typical ideology of intellectuals.
+The limits of the consciousness of traditional intellectuals from Gramsci’s
+perspective are most obvious in their inability to establish a consistently immanent
+conception of the world. This inability is most radically present in Giovanni Gentile’s
+philosophy. Gentile, like Gramsci, is basically concerned with establishing a synthesis of
+theory and practice (Harris 1960, 1). Although in some ways Gramsci shares this general
+program, he is sharply critical of the speculative form that Gentile gives it.
+
+It must be demonstrated that while the ‘subjectivist’ conception has had its
+usefulness as a criticism of the philosophy of transcendence on the one
+hand and the naïve metaphysics of common sense on the other, it can find
+its truth and its historicist interpretation only in the concept of the
+superstructures. (Gramsci 1971, 444; 2007, 1415)
+What does this mean? In my view the key problem for Gramsci with previous attempts to
+establish the philosophy of praxis is that the subject was always conceived as an
+individual subject. But the subject that can actually create an objective world, an absolute
+subject, is not an individual subject (however deified), but a collective subject. As
+Gramsci puts the point, “Man knows objectively in so far as knowledge is real for the
+whole human race historically unified in a single unitary cultural system…. There exists
+therefore a struggle for objectivity...and this struggle is the same as the struggle for the
+cultural unification of the human race” (1971, 445; 2007, 1416).
+Now this cultural unification can only come about as the result of the elimination of
+both class antagonisms and the separation between intellectuals and non-intellectuals. A
+theory that fails to do this, that fails to transform common sense, is doomed to take a
+manipulative and contemplative view of social reality. This is sociology. From Gramsci’s
+point of view sociology as a science (and also vulgar Marxism) is possible only to the
+extent that people in fact behave as things. As Gramsci writes “the fact has not been
+properly emphasized that statistical laws can be employed in the science and art of
+politics only so long as the great masses of the population remain (or are at least reputed
+to remain) essentially passive, in relation to the questions which interest historians and
+politicians” (1971, 428; 2007, 1429). But the philosophy of praxis cannot be sociology in
+this sense because its whole aim and purpose is to eliminate the conditions in which ‘the
+great masses of the population’ are passive. Its aim is to establish, to really establish,
+precisely that universal subject which is the speculative dream of idealist philosophy.
+The above sketch suggests then that hegemony is not just a moral and intellectual
+leadership in general, but is a form of self-awareness a type of reason similar to what
+Hegel sketches out in the Philosophy of Right. Belief, faith, dogmatism may be
+understood as embryonic forms of hegemony, but a fully developed hegemony is a form
+of intellectual and moral leadership in which the mass of the population understands its
+own interests as being fundamentally compatible with the dominant social group. A fully
+developed hegemony cannot be a type of blind faith because it rests on the development
+of a critical consciousness in the mass of the population that can develop only in the
+context of substantial formal freedom (Vacca 1999, 22-23). Gramsci understands the
+institutional context of this formal freedom as civil society.
+
+1.c. Civil Society in Hegel and Gramsci
+Gramsci distinguishes the states of Western Europe from those of the East with reference
+to a set of institutions that grow up around the coercive core of the state, which Gramsci
+calls, drawing on Hegel, “civil society.” In the famous note where Gramsci makes this
+distinction he writes:
+In Russia the State was everything, civil society was primordial and
+gelatinous; in the West, there was a proper relationship between State and
+civil society, and when the State trembled a sturdy structure of civil
+society was at once revealed. The State was only an out ditch, behind
+which there stood a powerful system of fortresses and earthworks.
+(1971, 238; 2007, 866)
+Civil society refers to the “‘private’ woof of the state” (259; 56). Hegel, by developing
+this concept, argues Gramsci, already anticipated “the parliamentary State with its party
+system” (259; 57). Marx, although Gramsci says that he had “a sense for the masses,”
+was not able to reach this idea. His “concept of organization remains entangled amid the
+following elements: craft organization; Jacobin clubs; secret conspiracies by small
+groups; journalistic organization” (ibid.). This is a striking observation. From Gramsci’s
+perspective it is Hegel, not Marx, who really has the theory of the modern state.
+Why is civil society significant? From the perspective of Salvadori, civil society is
+important for Gramsci because it constitutes a strategic obstacle to carrying out a
+Bolshevik revolution in Western Europe (Salvadori 1977, 41). There is no doubt that this
+is an important part of Gramsci’s thinking. As outlined in the note entitled “Political
+Struggle and Military War,”
+The same reduction must occur in the art and science of politics, at least in
+so far as it concerns the most advanced states where ‘civil society’ has
+become a structure that is much more complex and resistant to
+catastrophic ‘eruptions’ of the immediate economic element (crises,
+depressions and so on); the superstructures of civil society are like the
+trench systems of modern war. (Gramsci 1971, 235; 2007, 1615)
+But for Gramsci civil society cannot be reduced simply to a strategic obstacle. The
+concept also has a programmatic value.
+Gramsci suggests that the bourgeoisie is the first class in history able to establish an
+“Ethical State”—precisely because it establishes an institutional separation between state
+and civil society. From a formal legal point of view, this sort of state treats every person
+as if he or she were a “bourgeois.” The historical project of this new form of state is to
+create the conditions in which “all mankind will be bourgeois” (1971, 259; 2007, 1050).
+
+The modern state with a civil society grants men and women specific sorts of rights
+insofar as they are human beings. It does not recognize class differences politically. This
+distinguishes capitalist ruling classes from all previous ruling classes.
+The previous ruling classes were essentially conservative in the sense that
+they did not tend to construct an organic passage from the other classes
+into their own, i.e. to enlarge their class sphere ‘technically’ and
+ideologically: their conception was that of a closed caste. The bourgeois
+class poses itself as an organism in continuous movement, capable of
+absorbing the entire society, assimilating it to its own cultural and
+economic level. The entire function of the state has been transformed; the
+State has become an ‘educator,’ etc. (260; 937)
+What are the consequences of this observation for revolutionary politics? The basic
+lesson that Gramsci draws from this is that an effective socialist politics in the West must
+pose for itself the goal of realizing the project of civil society. It is not simply that civil
+society is an obstacle to a Bolshevik strategy in the West. The long-term goal for Gramsci
+is not to destroy civil society. Rather, civil society defines the content of the
+revolutionary project in the West (Vacca 1999, 21).
+A class claiming to be capable of assimilating the whole of society, and
+which was at the same time really able to express such a process, would
+perfect this conception of the State and of law, so as to conceive the end of
+the State and of law—rendered useless since they will have exhausted
+their function and will have been absorbed by civil society.
+(Gramsci 1971, 260; 2007, 937)
+For Gramsci, the project of civil society is implicit already in Hegel’s theory of the state
+and in all liberal doctrines.
+The expressions ‘ethical State’ or ‘civil society’ would thus mean that this
+‘image’ of a State without a State was present to the greatest political and
+legal thinkers, in so far as they placed themselves on the terrain of pure
+science (pure utopia, since based on the premise that all men are really
+equal and hence equally rational and moral, i.e. capable of accepting the
+law spontaneously, freely, and not through coercion, as imposed by
+another class, as something external to consciousness). (263; 764)
+Therefore, the socialist project, from Gramsci’s perspective, must be about creating the
+conditions under which the social order can be held together through rational consent, not
+
+through ideology or coercion. Gramsci’s term for this "State without a State" is a
+regulated society. The project of realizing civil society is the programmatic content of
+“hegemony.’’
+The situation in the East was different. Paradoxically the history of the Russian
+revolution does not raise any particular problems for Gramsci. The Czarist state was not
+an ethical state, but an economic corporate regime based directly on force. This means
+that here the socialist project unfolds as a direct seizure of state power, and then the
+subsequent use of state power to create civil society “within the husk of political society”
+(Gramsci 1971, 268; 2007, 1020). There are dangers in this process, and much of
+Gramsci’s writing on Stalinism is devoted to addressing these; but Gramsci’s basic model
+here is the French Revolution and its aftermath. Here is the idea. In the 1790s the
+bourgeoisie smashes the absolutist state machine. During the Napoleonic period, and then
+in the Restoration, the state appears to revert again to an absolutist form, but within the
+context of this framework a new civil society is emerging. Gramsci suggests that
+Stalinism is basically analogous to the Restoration. The Soviet state is a Thermidorian
+regime, and the task of socialism here is to create a socialist civil society both within and
+against this regime.
+The problem for Gramsci is not Russia, but the West where civil society already to
+some extent exists. The bourgeoisie has created the beginnings of an ethical state,
+although this ethical state is corroding as the bourgeoisie returns to its economiccorporate form. This means that the politics of socialism must transcend the economic
+corporate demands of the working class. The political position of the working class must
+be articulated as a project for realizing civil society as regulated society.
+Hegemony, then, from Gramsci’s perspective is basically inconceivable outside the
+context of a liberal and democratic state. Only a highly developed private sphere can
+allow for the sort of critical consciousness necessary for a hegemonic relationship
+between the ruling class and the mass of the population. Further, the very project of
+revolutionary socialism in the West is best understood as one aimed at realizing civil
+society. Vacca is therefore absolutely correct when he writes, “Between hegemony and
+democracy there is an intimate link, a nexus of reciprocal implication” (1999, 58). But
+what is the origin of hegemony, and what sort of politics does Gramsci’s account of it
+motivate? It is to these two questions that I now turn.
+2. The Revolutionary Origins of Hegemony
+How does hegemony develop? Gramsci’s answer is somewhat complicated and
+underdeveloped. It is also worth noting that his main empirical example of the
+development of hegemony, the emergence of the Italian state, is an instance of
+hegemonic failure. I argue in this section, however, that one of Gramsci’s central
+messages is that hegemonies are created during revolutionary experiences in which a
+single social class comes to actually embody the interests of society as a whole.
+It is particularly important to distinguish between two forms of hegemony. One form
+of hegemony refers to intra-class relations, and a second refers to inter-class relations.
+When Gramsci speaks of the ruling class of unified Italy he writes:
+
+The formation of this class involved the gradual but continuous
+absorption, achieved by methods which varied in their effectiveness, of the
+active elements produced by allied groups—and even of those which came
+from antagonistic groups and seemed irreconcilably hostile.
+(Gramsci 1971, 58-59; 2007, 2011)
+Hegemony, in short, can be exercised in relation to allied groups or hostile groups. For
+schematic purposes, it is useful to designate the first sort of hegemony intra-class
+hegemony, and the second sort inter-class hegemony. These two dimensions of
+hegemony are linked for Gramsci: the structure of internal or intra-class hegemony has
+consequences for the ability of a group to pursue external or inter-class hegemony.
+In the specific empirical case that Gramsci deals with most fully in the Prison
+Notebooks—the Italian Risorgimento—the success of the Moderates in achieving a
+hegemonic position within the Italian bourgeoisie, had negative consequences for the
+ability of the Italian bourgeoisie as a whole to establish external hegemony, or hegemony
+over the non-bourgeois classes. In other words, the specific structure of intra-class
+hegemony that characterized the Italian bourgeoisie undermined its capacity to develop
+inter-class hegemony.
+During the struggles over Italian unification after 1848, different strategies emerged.
+Two were particularly important: the proposal to extend the institutions of the
+Piedmontese monarchy to the entire peninsula, basically making Italy a larger version of
+Piedmont; and the contrasting project of establishing a federal system in which the states
+would retain some local control. The first, and more conservative option, was the plan of
+the Moderates, while the second, and more democratic, option, was the plan of the Action
+Party. Gramsci’s basic historical problem in his “Notes on Italian History” is to try to
+understand why the moderate proposal for a Piedmontization of Italy won out over the
+Action Party’s proposal for a federal democratic republic.6 But this historical question is
+also rooted in a theoretical problem. To understand this it is necessary to revisit
+Gramsci’s conception of class.
+For Gramsci classes are not groups; they are rather complex social structures with
+dominant and subordinate elements, something akin to what the sociologist Pierre
+Bourdieu (1985, 725) calls “fields” defined as “an objective space determining
+compatibilities and incompatibilities, proximities and differences.” In every class in
+formation there is therefore a struggle for leadership of the class. This is one form of
+hegemonic struggle, and Gramsci analyzes it with reference to the struggle between the
+Moderates and the Action Party in the Italian Risorgimento.
+Gramsci links this idea of classes as internally stratified, to a second more
+traditionally Marxist notion, that every ruling class has a set of historical tasks that it can
+fulfill. In the special case of the bourgeoisie, that set of historical tasks is the
+establishment of a unified national state and some kind of representative political system.
+If a class fails to achieve its historical potential during its period of ascendancy, this
+The Action Party that Gramsci refers to in the Prison Notebooks was a mid to late nineteenth century
+formation, different from the post war anti-fascist grouping of the same name.
+
+bequeaths a set of further obstacles to the succeeding classes. Positioning the issue this
+way, the question then becomes why did the Italian bourgeoisie fail to fully establish a
+functioning liberal-representative regime in Italy? Why did this particular national
+bourgeoisie fail to fulfill its historical task?7
+Gramsci answers this question, as I have already suggested, with an analysis of intraclass hegemony. Because the Moderates won out in their struggle with the Party of
+Action the transition to a capitalist society in Italy, occurred as a passive revolution.
+It was precisely the brilliant solution of these problems which made the
+Risorgimento possible, in the form in which it was achieved (and with its
+limitations)—as ‘revolution’ without a ‘revolution,’ or as ‘passive
+revolution’ to use an expression of Cuoco’s in a slightly different sense
+from that which Cuoco intended. (Gramsci 1971, 59; 2007, 2011)
+The victory of the Moderates over the Action Party meant that the Italian bourgeoisie
+never experienced a heroic period in which it led a popular coalition against feudalism.
+Rather the older feudal aristocracy and the rising bourgeoisie formed a rough working
+coalition and established some elements of a capitalist society, without carrying out the
+basic political tasks of bourgeois democracy. However, this victory came at a price since
+it opened up a path of modernization that politically weakened the Italian bourgeoisie in
+the long run.
+But why, according to Gramsci, did the Moderates win out in their struggle against
+the Action Party? Gramsci provides two somewhat different answers to this question.
+One refers to Italy’s relatively low level of economic development and the international
+circumstances of the unification period (Gramsci 1971, 82-3; 2007, 2032). But this is a
+relatively subordinate theme in Gramsci’s argument. For he believes that “subjective
+rather than objective reasons” explain the victory of the Moderates (82; 2032). The
+reason that the Moderates won out against the Party of Action is that they were the
+organic intellectuals of the Piedmontese bourgeois aristocracy, which in turn was the
+main social force for national unification. As Gramsci writes, “They were intellectuals
+and political organizers, and at the same time company bosses, rich farmers or estate
+managers, commercial and industrial entrepreneurs” (60; 2012). They were organic
+intellectuals in the sense that they represented “‘specializations’ of partial aspects of the
+primitive activity” of the Piedmontese ruling class. Gramsci suggests that this gave them
+a strength that the Party of Action lacked. As he puts the point, “the Moderates exercised
+In speaking of “historical tasks” it is important not to be misled into thinking that classes for Gramsci are
+quasi-subjects traversing history and deploying individuals as their unwitting dupes. Rather what Gramsci
+means is that a range of structural transformations is compatible with the interests of certain groups.
+Interests deriving from property determine the outer limits of this range of transformation. For example,
+while the interests of private owners of means of production are compatible with the existence of universal
+suffrage and representative institutions, the interests of feudal lords who rely on extra-economic coercion in
+surplus extraction are not compatible with such institutions. But interests do not dictate how far along the
+possible trajectory of transformation the group will move. This, instead, is the outcome of political
+struggles both within classes and between them. One way of thinking about hegemony is as a struggle over
+how far along this trajectory a given class or class fraction might move.
+
+a powerful attraction ‘spontaneously,’ on the whole mass of intellectuals of every degree
+who existed in the peninsula, in a ‘diffused,’ ‘molecular’ state, to provide for the
+requirements, however rudimentarily satisfied, of education and administration” (ibid.).
+In contrast to the moderates, the Action Party was not a group of organic intellectuals
+linked to a specific social class. Rather, in the terminology of the note on intellectuals, we
+can understand the Action Party as a group of traditional intellectuals, a stratum with few
+connections to any decisive historical class. Gramsci describes this group as:
+[s]teeped in the traditional rhetoric of Italian literature. It confused the
+cultural unity which existed in the peninsula—confined, however, to a
+very thin stratum of the population, and polluted by the Vatican’s
+cosmopolitanism—with the political and territorial unity of the great
+popular masses, who were foreign to that cultural tradition and who, even
+supposing the knew of its existence, couldn’t care less about it.
+(1971, 63; 2007, 2014)
+Being dispersed, and de-linked from any significant social class, this group turned out to
+be mobilizable into different class coalitions. The success of the Moderates lay in their
+ability to bring these traditional intellectuals, the Action Party, into a coalition in a
+subordinate position. The Moderates were able to do this, not only because they were
+organic intellectuals, but also because they were able to develop a concrete and realistic
+program that was “really progressive” in the sense that it not only satisfied the
+“existential requirements” of the Italian social elite, but also caused “the whole society to
+move forward” (60; 2012). The hegemony of the Moderates, as is true of hegemony
+generally in Gramsci, has a rational and economic core. A class or class fraction is
+hegemonic to the extent that it can carry forward a program that is “really” in the interests
+of a broad social coalition.
+Now I can solve the second problem that Gramsci raises. What is the consequence of
+the victory of the moderates within the bourgeois coalition, for the nature of class
+relationships after the Risorgimento? The basic thrust of this argument is simple enough.
+Precisely because the moderates win out in the struggle against the Party of Action, the
+Italian state coalesces after the Risorgimento in a non-hegemonic form.
+As Gramsci says of the Italian bourgeoisie, “They aimed at stimulating the
+formations of an extensive and energetic ruling class, and they did not succeed at
+integrating the people into the framework of the new state” (1971, 90; 2007, 2053-2054).
+They did not succeed because the basis of the program on which the Moderates could
+present themselves as the hegemonic fraction within the Italian bourgeoisie was
+fundamentally incompatible with the interests of the peasantry (61; 2012-2013).
+During the political and social crisis of the late nineteenth century this incapacity
+emerged again as Italian political elites chose to base themselves on “a capitalist/worker
+industrial bloc, without universal suffrage, with tariff barriers, with the preservation of a
+highly centralized State (the expression of bourgeois dominations over the peasants,
+especially in the South and the Islands), and with a reformist policy on wage and trade
+union freedoms” (Gramsci 1995, 29). Therefore, the form in which intra-class hegemony
+
+emerged in Italy during the unification period meant that the Italian bourgeoisie could
+never act as truly revolutionary force, and thus undermined its capacity for inter-class
+hegemony.
+The contrast to this case of failed Italian hegemony is the successful French case.
+Gramsci discusses this in terms of the concept of Jacobinism. From Gramsci’s
+perspective the main point about France is that the Jacobins were able to maximize the
+magnetic force of the French bourgeoisie. They did so by converting the demands of the
+third estate, which were initially the demands of a limited corporate group, into the most
+general possible form. Thus, the French Revolution, which began with a set of complaints
+on the part of group within the Old Regime, became the demand for a national assembly.
+This allowed the French bourgeoisie to form an alliance with the peasantry limited only
+by the outer bounds of the class interests of the bourgeoisie; but the merit of the Jacobins
+is that they pushed the bourgeoisie to the very limits of its hegemonic capacity (Gramsci
+1971, 79; 2007, 2029). Importantly the ability of the French Jacobins to establish this
+alliance was based on their revolutionary political program.
+3. Hegemony and Democracy
+Having sketched both Gramsci’s conception of hegemony and his explanation of it, I now
+turn to the issue of democracy. My view is that Gramsci understands democracy as the
+form that class rule assumes after the establishment of a fully-fledged hegemony as a
+consequence of a revolutionary break with the past. Since such a break is a precondition
+for hegemony in Gramsci’s sense, it is also a precondition for a fully functioning
+democracy. Gramsci shared with Lenin two important arguments about democracy, and
+there is no evidence that he ever wavered from these. First, democracy in capitalist
+society was only possible when the forces in contention, and especially the working class,
+did not challenge the basic pillars of ruling class power, particularly private property.
+From Gramsci’s perspective there is no way to institute socialism (a regime defined by a
+fundamental alternation in the property regime) democratically. Second, true democracy
+is incompatible with the state, because state power is by definition a violation of the rule
+of the people (Lenin 1975, 323). A radical democratization of society remained a goal for
+Gramsci, but democracy was an inadequate means to achieve it.
+One of the central themes of the Prison Notebooks is the connection between
+physical violence or force—as exercised either by states or revolutionary movements—
+and consent. Gramsci’s goal is to formulate a theory of their relationship that transcends
+the split between the Third and the Second International (between Leninism and Social
+Democracy). He argues that the failure to understand this relationship between force and
+consent has led in the West to a strategic impasse, and in the East to Stalinist
+degeneration.
+Gramsci’s starting point is the idea that it is important to match political tactics with
+the conditions in which they operate and the goals that they seek to pursue. One of the
+most important conditions concerns the specific type of political conjuncture in which
+movements operate. Drawing a fundamental distinction between “normal” and
+“revolutionary” politics (Adamson 1980, 627-8), Gramsci recognizes that one of the most
+
+serious political mistakes that a movement or a leadership can make is to apply tactics
+appropriate to revolutionary situations to normal situations, and vice versa. How does he
+make this distinction?
+Gramsci’s terminology for revolutionary situations is “organic crisis.” Organic crises
+have two characteristics. First they reveal the class nature of the state, which remains
+disguised in periods of normal politics. Second the outcome of an organic crisis depends
+on mobilizing social forces outside the core social classes of capitalism: workers and
+owners of means of production. (One particularly important group from Gramsci’s
+perspective is the rural bourgeoisie.)
+During periods of normal politics state power is not at issue. Instead political
+struggles are focused on government. They concern who will manage an existing state
+machine. Struggles over state management occur through elections and in parliament,
+which for Gramsci constitute a “legal terrain” of equilibrium for a system of forces
+(1971, 256; 2007, 1744). Politics, in this sense, does not place the basic interests of a
+dominant class in question. “When a struggle can be resolved legally, it is certainly not
+dangerous; it becomes so precisely when the legal equilibrium is recognized to be
+impossible” (256-257; 1744). Although Gramsci does not say too much about elections
+per se, another way of thinking about normal politics is what Schumpeter describes as
+competitive elitism (1942, 273). Legal struggles unfold between competing teams of
+political elites, and do not threaten state power.
+Underneath this froth of politics the core of the state for Gramsci is “the
+bureaucracy...which exercises coercive power and at a certain point...becomes a caste”
+(1971, 246; 2007, 752). During periods of normal politics this bureaucratic core does not
+directly engage in political struggle. Normal politics therefore are best understood as
+struggles that occur within a given state structure. To put it in a sentence, the formula is
+alternating governmental teams and bureaucratic continuity.
+The terrain of politics is radically different under conditions of organic crisis. During
+an organic crisis “the relative power of the bureaucracy (civil and military), of high
+finance, of the Church, and generally of all bodies relatively independent of fluctuations
+of public opinion” increase (1971, 210; 2007,1603). These are the moments when the
+armed force of the state appears. As Gramsci writes “it is not true that armies are
+constitutionally barred from making politics; the army’s duty is precisely to defend the
+Constitution—in other words the legal form of the State together with its related
+institutions” (212; 1605). Gramsci’s main view is that any transition to socialism will
+have to address this coercive core of state power. Normal political means (centrally
+electoral struggle) are not appropriate for periods of organic crisis.
+This vision of the state underlies Gramsci’s ferocious critique of Social Democracy
+and reformism more generally. The error of social democracy is that it sees a legal road
+to socialism because it ignores the existence of the coercive core of the state (Salvadori
+2007, 96). It thus confuses revolutionary politics with normal politics, and applies
+techniques appropriate to normal politics to revolutionary periods.
+From Gramsci’s perspective, revolutions must always pass through a period of
+organic crises that typically lead to a period of Bonapartism or Caesarism, which
+“represents the fusion of an entire social class under a single leadership, which alone is
+held to be capable of solving an overriding problem of its existence and of fending off a
+mortal danger” (1971, 211; 2007, 1604). This is the aspect of Gramsci’s thought that
+
+forms the basis of Salvadori’s claim that Gramsci basically see himself as supplementing
+Leninism, rather than replacing it with something fundamentally different (Salvadori
+1977, 44). To summarize, for Gramsci the nature of politics depends above all on the
+presence or absence of an organic crisis. When a ruling class is stably in the saddle,
+politics is primarily a matter of consent. During periods of organic crisis when political
+movements with contending visions of the state arise, politics becomes more a matter of
+force.
+4. Conclusion
+This paper has developed a reading of Gramsci’s Prison Notebooks that overcomes some
+of the problems with both of the dominant formulations of the relationship between
+hegemony and democracy. Vacca’s reading of hegemony is very convincing as a
+description of Gramsci’s idea of a post-revolutionary society. Hegemony is certainly not,
+as Salvadori would have it, the same thing as dictatorship (1977, 45). But Gramsci was
+also a revolutionary, not a Eurocommunist or theorist of radical democracy. Although he
+did not hold hegemony to be equivalent to dictatorship, he did think that a dictatorship
+would be necessary to lay the foundations for a new hegemony and subsequently a new
+democracy. The Sardinian is thus a “rare bird.” He was a man who deeply understood
+and appreciated the value of democracy and liberalism, yet he never abandoned his
+essentially Leninist conception of revolutionary transformation. Indeed for him social
+revolution, with its inevitable transitional dictatorship, was the path to the realization of
+the utopian dream of a regulated society implicit in all liberal accounts of political order.
+This was the basic lesson that Gramsci drew from French Revolution (understood in a
+broad temporal sense). The fundamental intellectual and political question that remains is
+whether Gramsci’s account of hegemony is compatible with his account of revolutionary
+transformation. The only thing that can really be said definitively about this is that history
+has not decisively disproved Gramsci’s theory. But to fully explore these issues would
+require another essay.
+There is also a set of conclusions to be drawn focused specifically on recent Italian
+history. The reading of the Prison Notebooks that I have rehearsed above suggests not
+only an explanation for fascism, but also an account of the continuing crisis of Italian
+democracy. Gramsci suggested that the Italian bourgeoisie in the late nineteenth century
+missed the historical opportunity to create a functioning representative democracy. In this
+context it became the task of the working class and the peasantry paradoxically to carry
+out the bourgeois project of establishing a representative state. How does this thesis look
+in the gloomy twilight of the late Berlusconi era? Although ideas of Italy as a particularly
+anomalous western democracy are overdrawn since the country has deeply rooted
+traditions of local self government and political engagement, it is undeniable that a
+functioning alternation of the political elite has never really taken hold on the peninsula
+(Ginsborg 2010, 47-54). Indeed today even the tenuous achievements of the first
+Republic seem to be rapidly fading. One rather depressing conclusion is possible. Perhaps
+Gramsci was correct in his evaluation of the Italian bourgeoisie, but overly sanguine in
+his estimate of the political prospects of the Italian working class. While the revolution
+
+that would complete the Risorgimento is perhaps as pressing as ever, the social agents
+that might carry out such a project are difficult to discern. Can the ceti medi (Italian
+middle class) provide an adequate substitute for a worker and peasant alliance (Ginsborg
+2010, 118-124)? This is one of the burning questions of the coming period in Italian
+politics.
+Bibliography
+Adamson, Walter L. 1980. “Gramsci’s Interpretation of Fascism.” Journal of the History
+of Ideas 41: 615-633.
+Althusser, Louis. 1971. Lenin and Philosophy and Other Essays. Translated by Ben
+Brewster. New York: Monthly Review Press.
+Anderson, Perry. 1976-7. “The Antinomies of Antonio Gramsci.” New Left Review 100:
+5-78.
+Burawoy, Michael. 1990. “Marxism as Science: Historical Challenges and Theoretical
+Growth.” American Sociological Review 55 (6): 775-793.
+Burawoy, Michael. 2003. “For a Sociological Marxism: The Complementary
+Convergence of Antonio Gramsci and Karl Polanyi.” Politics and Society 31: 193261.
+Del Noce, Agusto. 1977. “Gentile e Gramsci.” Il Veltro 21: 203-249.
+Feuerbach, Ludwig. 2004. The Essence of Religion. New York: Prometheus Books.
+Frosini, Fabio. 2004. “Filosofia della prassi.” In Le parole di Gramsci. Per un
+lessico dei Quaderni del carcere, 93-111. Rome: Carocci.
+Galli della Loggia, Ernesto. 1977. “Le ceneri di Gramsci.” In Egemonia e democrazia.
+Gramsci e la questione comunista nel dibattito di Mondoperaio, edited by Federico
+Coen, 69-91. Rome: Avanti!.
+Gentile, Giovanni. 1955. La filosofia di Marx. Studi critici. Florence: Sansoni.
+Ginsborg, Paul. 2010. Salviamo l’Italia. Turin: Einaudi.
+Gramsci, Antonio. 1971. Selections from the Prison Notebooks. Translated and edited by
+Quintin Hoare and Geoffrey Nowell Smith. New York: International Publishers.
+---. 1995. The Southern Question. Translated and introduced by Pasquale Verdicchio.
+West Lafayette, IN: Bordighera.
+---. 2007. Quaderni del carcere. 4 vols. Edited by Valentino Gerrantana. Turin: Einaudi.
+Habermas, Jürgen. 1981. The Theory of Communicative Action. Volume I. Reason and
+the Rationalization of Society. Boston: Beacon Press.
+Hegel, G.W.F. 1991. Elements of the Philosophy of Right. Edited by Allen B. Wood,
+translated by H.B. Nesbitt. Cambridge: Cambridge University Press.
+Labriola, Antonio. 1972. Opere. Naples: Fulvio Rossi.
+Laclau, Ernesto, and Chantal Mouffe. 1985. Hegemony and Socialist Strategy: Towards a
+Radical Democratic Politics. London: Verso.
+Lenin, V.I. 1975. The Lenin Anthology. Edited by Robert C. Tucker. New York: Norton.
+Lukacs, George. 1971. History and Class Consciousness: Studies in Marxist Dialectics.
+Cambridge, MA: MIT Press.
+Marcuse, Herbert. 1970. Vernunft und Revolution. Neuwied and Berlin: Hermann
+
+Luchterhand.
+Megill, Allan. 2002. Karl Marx: The Burden of Reason (Why Marx Rejected Politics and
+the Market). Lanham, MD: Rowman & Littlefield.
+Morton, Adam David. 2004. Unraveling Gramsci: Hegemony and Passive Revolution in
+the Global Political Economy. Ann Arbor, MI: Pluto Press.
+Riley, Dylan. 2010. The Civic Foundations of Fascism in Europe: Italy, Spain, and
+Romania, 1870-1945. Baltimore: Johns Hopkins University Press.
+Salvadori, Massimo L. 1977. “Gramsci e il PCI: due concezioni dell’egemonia.”. In
+Egemonia e democrazia. Gramsci e la questione comunista nel dibattito di
+Mondoperaio, edited by Federico Coen, 33-68. Rome: Edizioni Avanti!
+---. 2007. Gramsci e il problema storico della democrazia. Rome: Viella.
+Schumpeter, Joseph Alois. 1942. Capitalism, Socialism, and Democracy. New York:
+Harper.
+Sorel, Georges. 1999. Reflections on Violence. Cambridge: Cambridge University Press.
+Tugal, Cihan 2009. Passive Revolution: Absorbing the Islamic Challenge to Capitalism.
+Stanford: Stanford University Press.
+Vacca, Giuseppe. 1999. Appuntamenti con Gramsci. Introduzione allo studio dei
+‘Quaderni del carcere.’ Rome: Carocci.
+Wright, Erik Olin. 2010. Envisioning Real Utopias. New York: Verso.

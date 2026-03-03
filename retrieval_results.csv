@@ -1,0 +1,451 @@
+qid,query,k,rank,score,doc_id,chunk_id,word_count
+q01,How should a revolutionary organization be structured?,5,1,0.618381142616272,ccom_29,ccom_29_0137,392
+q01,How should a revolutionary organization be structured?,5,2,0.6139702200889587,ccom_29,ccom_29_0123,460
+q01,How should a revolutionary organization be structured?,5,3,0.6129785776138306,ccom_29,ccom_29_0139,460
+q01,How should a revolutionary organization be structured?,5,4,0.5938133597373962,ccom_32,ccom_32_0108,460
+q01,How should a revolutionary organization be structured?,5,5,0.592607855796814,ccom_29,ccom_29_0153,372
+q01,How should a revolutionary organization be structured?,10,1,0.618381142616272,ccom_29,ccom_29_0137,392
+q01,How should a revolutionary organization be structured?,10,2,0.6139702200889587,ccom_29,ccom_29_0123,460
+q01,How should a revolutionary organization be structured?,10,3,0.6129785776138306,ccom_29,ccom_29_0139,460
+q01,How should a revolutionary organization be structured?,10,4,0.5938133597373962,ccom_32,ccom_32_0108,460
+q01,How should a revolutionary organization be structured?,10,5,0.592607855796814,ccom_29,ccom_29_0153,372
+q01,How should a revolutionary organization be structured?,10,6,0.5922863483428955,ccom_29,ccom_29_0111,460
+q01,How should a revolutionary organization be structured?,10,7,0.5715585350990295,ccom_50,ccom_50_0410,460
+q01,How should a revolutionary organization be structured?,10,8,0.5709725022315979,ccom_29,ccom_29_0172,460
+q01,How should a revolutionary organization be structured?,10,9,0.5645264387130737,ccom_29,ccom_29_0121,460
+q01,How should a revolutionary organization be structured?,10,10,0.5620648860931396,ccom_29,ccom_29_0130,262
+q02,What is the role of leadership in class conscious movements?,5,1,0.602267324924469,ccom_08,ccom_08_0113,401
+q02,What is the role of leadership in class conscious movements?,5,2,0.5896118879318237,ccom_50,ccom_50_0406,460
+q02,What is the role of leadership in class conscious movements?,5,3,0.5747865438461304,ccom_50,ccom_50_0519,460
+q02,What is the role of leadership in class conscious movements?,5,4,0.571541428565979,ccom_42,ccom_42_0011,374
+q02,What is the role of leadership in class conscious movements?,5,5,0.5701063871383667,ccom_50,ccom_50_0410,460
+q02,What is the role of leadership in class conscious movements?,10,1,0.602267324924469,ccom_08,ccom_08_0113,401
+q02,What is the role of leadership in class conscious movements?,10,2,0.5896118879318237,ccom_50,ccom_50_0406,460
+q02,What is the role of leadership in class conscious movements?,10,3,0.5747865438461304,ccom_50,ccom_50_0519,460
+q02,What is the role of leadership in class conscious movements?,10,4,0.571541428565979,ccom_42,ccom_42_0011,374
+q02,What is the role of leadership in class conscious movements?,10,5,0.5701063871383667,ccom_50,ccom_50_0410,460
+q02,What is the role of leadership in class conscious movements?,10,6,0.567589282989502,ccom_50,ccom_50_0155,373
+q02,What is the role of leadership in class conscious movements?,10,7,0.5607591867446899,ccom_24_1,ccom_24_1_0011,498
+q02,What is the role of leadership in class conscious movements?,10,8,0.5598288774490356,ccom_08,ccom_08_0115,411
+q02,What is the role of leadership in class conscious movements?,10,9,0.5563732385635376,ccom_29,ccom_29_0112,460
+q02,What is the role of leadership in class conscious movements?,10,10,0.5530818700790405,ccom_50,ccom_50_0511,460
+q03,How can responsibilities be distributed without creating hierarchy abuse?,5,1,0.4189222455024719,ccom_13,ccom_13_0024,249
+q03,How can responsibilities be distributed without creating hierarchy abuse?,5,2,0.3831736743450165,ccom_16,ccom_16_0004,281
+q03,How can responsibilities be distributed without creating hierarchy abuse?,5,3,0.3795846998691559,ccom_08,ccom_08_0123,299
+q03,How can responsibilities be distributed without creating hierarchy abuse?,5,4,0.3468848466873169,ccom_50,ccom_50_0367,460
+q03,How can responsibilities be distributed without creating hierarchy abuse?,5,5,0.3418402671813965,ccom_08,ccom_08_0125,532
+q03,How can responsibilities be distributed without creating hierarchy abuse?,10,1,0.4189222455024719,ccom_13,ccom_13_0024,249
+q03,How can responsibilities be distributed without creating hierarchy abuse?,10,2,0.3831736743450165,ccom_16,ccom_16_0004,281
+q03,How can responsibilities be distributed without creating hierarchy abuse?,10,3,0.3795846998691559,ccom_08,ccom_08_0123,299
+q03,How can responsibilities be distributed without creating hierarchy abuse?,10,4,0.3468848466873169,ccom_50,ccom_50_0367,460
+q03,How can responsibilities be distributed without creating hierarchy abuse?,10,5,0.3418402671813965,ccom_08,ccom_08_0125,532
+q03,How can responsibilities be distributed without creating hierarchy abuse?,10,6,0.3415588438510895,ccom_35,ccom_35_0326,211
+q03,How can responsibilities be distributed without creating hierarchy abuse?,10,7,0.33505934476852417,ccom_50,ccom_50_0501,460
+q03,How can responsibilities be distributed without creating hierarchy abuse?,10,8,0.33118364214897156,ccom_43,ccom_43_0023,117
+q03,How can responsibilities be distributed without creating hierarchy abuse?,10,9,0.3261442184448242,Seale - Seize The Time The Story of the Black Panther Party,Seale - Seize The Time The Story of the Black Panther Party_0044,422
+q03,How can responsibilities be distributed without creating hierarchy abuse?,10,10,0.32355716824531555,ccom_50,ccom_50_0229,460
+q04,How should decision-making processes be organized?,5,1,0.40380656719207764,ccom_13,ccom_13_0024,249
+q04,How should decision-making processes be organized?,5,2,0.347037672996521,ccom_45,ccom_45_0004,489
+q04,How should decision-making processes be organized?,5,3,0.33577877283096313,ccom_41,ccom_41_0099,71
+q04,How should decision-making processes be organized?,5,4,0.33374691009521484,ccom_50,ccom_50_0367,460
+q04,How should decision-making processes be organized?,5,5,0.3166244626045227,ccom_14,ccom_14_0019,531
+q04,How should decision-making processes be organized?,10,1,0.40380656719207764,ccom_13,ccom_13_0024,249
+q04,How should decision-making processes be organized?,10,2,0.347037672996521,ccom_45,ccom_45_0004,489
+q04,How should decision-making processes be organized?,10,3,0.33577877283096313,ccom_41,ccom_41_0099,71
+q04,How should decision-making processes be organized?,10,4,0.33374691009521484,ccom_50,ccom_50_0367,460
+q04,How should decision-making processes be organized?,10,5,0.3166244626045227,ccom_14,ccom_14_0019,531
+q04,How should decision-making processes be organized?,10,6,0.3123679459095001,ccom_16,ccom_16_0004,281
+q04,How should decision-making processes be organized?,10,7,0.3039085268974304,ccom_41,ccom_41_0047,390
+q04,How should decision-making processes be organized?,10,8,0.3037869334220886,ccom_08,ccom_08_0093,465
+q04,How should decision-making processes be organized?,10,9,0.3014472723007202,ccom_50,ccom_50_0375,460
+q04,How should decision-making processes be organized?,10,10,0.29922088980674744,ccom_40,ccom_40_0014,527
+q05,How can a power-critical organizational structure be ensured?,5,1,0.49441730976104736,ccom_13,ccom_13_0024,249
+q05,How can a power-critical organizational structure be ensured?,5,2,0.4624330401420593,ccom_16,ccom_16_0004,281
+q05,How can a power-critical organizational structure be ensured?,5,3,0.4110344350337982,ccom_08,ccom_08_0159,425
+q05,How can a power-critical organizational structure be ensured?,5,4,0.40576696395874023,ccom_16,ccom_16_0016,460
+q05,How can a power-critical organizational structure be ensured?,5,5,0.39559364318847656,ccom_08,ccom_08_0123,299
+q05,How can a power-critical organizational structure be ensured?,10,1,0.49441730976104736,ccom_13,ccom_13_0024,249
+q05,How can a power-critical organizational structure be ensured?,10,2,0.4624330401420593,ccom_16,ccom_16_0004,281
+q05,How can a power-critical organizational structure be ensured?,10,3,0.4110344350337982,ccom_08,ccom_08_0159,425
+q05,How can a power-critical organizational structure be ensured?,10,4,0.40576696395874023,ccom_16,ccom_16_0016,460
+q05,How can a power-critical organizational structure be ensured?,10,5,0.39559364318847656,ccom_08,ccom_08_0123,299
+q05,How can a power-critical organizational structure be ensured?,10,6,0.3833490312099457,ccom_08,ccom_08_0131,397
+q05,How can a power-critical organizational structure be ensured?,10,7,0.3801855444908142,ccom_08,ccom_08_0125,532
+q05,How can a power-critical organizational structure be ensured?,10,8,0.3737485706806183,ccom_13,ccom_13_0025,352
+q05,How can a power-critical organizational structure be ensured?,10,9,0.36775127053260803,ccom_08,ccom_08_0119,496
+q05,How can a power-critical organizational structure be ensured?,10,10,0.36761474609375,ccom_40,ccom_40_0014,527
+q06,What is the role of discipline in class conscious movements?,5,1,0.5681433081626892,ccom_50,ccom_50_0197,460
+q06,What is the role of discipline in class conscious movements?,5,2,0.5607792139053345,ccom_29,ccom_29_0112,460
+q06,What is the role of discipline in class conscious movements?,5,3,0.5524082183837891,ccom_42,ccom_42_0011,374
+q06,What is the role of discipline in class conscious movements?,5,4,0.5496551394462585,ccom_43,ccom_43_0014,414
+q06,What is the role of discipline in class conscious movements?,5,5,0.5475510954856873,ccom_29,ccom_29_0135,460
+q06,What is the role of discipline in class conscious movements?,10,1,0.5681433081626892,ccom_50,ccom_50_0197,460
+q06,What is the role of discipline in class conscious movements?,10,2,0.5607792139053345,ccom_29,ccom_29_0112,460
+q06,What is the role of discipline in class conscious movements?,10,3,0.5524082183837891,ccom_42,ccom_42_0011,374
+q06,What is the role of discipline in class conscious movements?,10,4,0.5496551394462585,ccom_43,ccom_43_0014,414
+q06,What is the role of discipline in class conscious movements?,10,5,0.5475510954856873,ccom_29,ccom_29_0135,460
+q06,What is the role of discipline in class conscious movements?,10,6,0.5427868962287903,ccom_08,ccom_08_0113,401
+q06,What is the role of discipline in class conscious movements?,10,7,0.528404951095581,ccom_08,ccom_08_0062,418
+q06,What is the role of discipline in class conscious movements?,10,8,0.5281758904457092,ccom_29,ccom_29_0143,131
+q06,What is the role of discipline in class conscious movements?,10,9,0.5279831290245056,ccom_24_1,ccom_24_1_0011,498
+q06,What is the role of discipline in class conscious movements?,10,10,0.5267584323883057,ccom_29,ccom_29_0098,460
+q07,How should revolutionary movements handle internal disagreements?,5,1,0.583322286605835,ccom_50,ccom_50_0384,460
+q07,How should revolutionary movements handle internal disagreements?,5,2,0.5618438720703125,ccom_08,ccom_08_0119,496
+q07,How should revolutionary movements handle internal disagreements?,5,3,0.5604115724563599,ccom_08,ccom_08_0109,432
+q07,How should revolutionary movements handle internal disagreements?,5,4,0.5523277521133423,ccom_50,ccom_50_0270,460
+q07,How should revolutionary movements handle internal disagreements?,5,5,0.5506128668785095,ccom_32,ccom_32_0108,460
+q07,How should revolutionary movements handle internal disagreements?,10,1,0.583322286605835,ccom_50,ccom_50_0384,460
+q07,How should revolutionary movements handle internal disagreements?,10,2,0.5618438720703125,ccom_08,ccom_08_0119,496
+q07,How should revolutionary movements handle internal disagreements?,10,3,0.5604115724563599,ccom_08,ccom_08_0109,432
+q07,How should revolutionary movements handle internal disagreements?,10,4,0.5523277521133423,ccom_50,ccom_50_0270,460
+q07,How should revolutionary movements handle internal disagreements?,10,5,0.5506128668785095,ccom_32,ccom_32_0108,460
+q07,How should revolutionary movements handle internal disagreements?,10,6,0.5438207387924194,ccom_35,ccom_35_0356,382
+q07,How should revolutionary movements handle internal disagreements?,10,7,0.5435985922813416,ccom_08,ccom_08_0110,436
+q07,How should revolutionary movements handle internal disagreements?,10,8,0.5408410429954529,ccom_50,ccom_50_0386,460
+q07,How should revolutionary movements handle internal disagreements?,10,9,0.5400196313858032,ccom_26,ccom_26_0056,406
+q07,How should revolutionary movements handle internal disagreements?,10,10,0.5394510626792908,ccom_08,ccom_08_0150,419
+q08,How can organizations prevent opportunism or individualism?,5,1,0.47458744049072266,ccom_08,ccom_08_0125,532
+q08,How can organizations prevent opportunism or individualism?,5,2,0.4436040222644806,ccom_08,ccom_08_0127,452
+q08,How can organizations prevent opportunism or individualism?,5,3,0.435640811920166,ccom_50,ccom_50_0237,460
+q08,How can organizations prevent opportunism or individualism?,5,4,0.43178558349609375,ccom_08,ccom_08_0159,425
+q08,How can organizations prevent opportunism or individualism?,5,5,0.4283754527568817,ccom_50,ccom_50_0215,460
+q08,How can organizations prevent opportunism or individualism?,10,1,0.47458744049072266,ccom_08,ccom_08_0125,532
+q08,How can organizations prevent opportunism or individualism?,10,2,0.4436040222644806,ccom_08,ccom_08_0127,452
+q08,How can organizations prevent opportunism or individualism?,10,3,0.435640811920166,ccom_50,ccom_50_0237,460
+q08,How can organizations prevent opportunism or individualism?,10,4,0.43178558349609375,ccom_08,ccom_08_0159,425
+q08,How can organizations prevent opportunism or individualism?,10,5,0.4283754527568817,ccom_50,ccom_50_0215,460
+q08,How can organizations prevent opportunism or individualism?,10,6,0.4272242784500122,ccom_16,ccom_16_0004,281
+q08,How can organizations prevent opportunism or individualism?,10,7,0.42025041580200195,ccom_08,ccom_08_0130,423
+q08,How can organizations prevent opportunism or individualism?,10,8,0.4162156581878662,ccom_08,ccom_08_0123,299
+q08,How can organizations prevent opportunism or individualism?,10,9,0.4159923791885376,ccom_50,ccom_50_0216,460
+q08,How can organizations prevent opportunism or individualism?,10,10,0.4138323664665222,ccom_29,ccom_29_0056,89
+q09,What does accountability look like in a revolutionary organization?,5,1,0.5897819399833679,ccom_08,ccom_08_0159,425
+q09,What does accountability look like in a revolutionary organization?,5,2,0.5659821629524231,ccom_50,ccom_50_0384,460
+q09,What does accountability look like in a revolutionary organization?,5,3,0.5583857893943787,ccom_08,ccom_08_0109,432
+q09,What does accountability look like in a revolutionary organization?,5,4,0.5521029233932495,ccom_29,ccom_29_0137,392
+q09,What does accountability look like in a revolutionary organization?,5,5,0.5507570505142212,ccom_29,ccom_29_0139,460
+q09,What does accountability look like in a revolutionary organization?,10,1,0.5897819399833679,ccom_08,ccom_08_0159,425
+q09,What does accountability look like in a revolutionary organization?,10,2,0.5659821629524231,ccom_50,ccom_50_0384,460
+q09,What does accountability look like in a revolutionary organization?,10,3,0.5583857893943787,ccom_08,ccom_08_0109,432
+q09,What does accountability look like in a revolutionary organization?,10,4,0.5521029233932495,ccom_29,ccom_29_0137,392
+q09,What does accountability look like in a revolutionary organization?,10,5,0.5507570505142212,ccom_29,ccom_29_0139,460
+q09,What does accountability look like in a revolutionary organization?,10,6,0.5400248765945435,ccom_08,ccom_08_0158,414
+q09,What does accountability look like in a revolutionary organization?,10,7,0.5329035520553589,ccom_29,ccom_29_0111,460
+q09,What does accountability look like in a revolutionary organization?,10,8,0.5297155380249023,ccom_08,ccom_08_0131,397
+q09,What does accountability look like in a revolutionary organization?,10,9,0.5277084708213806,ccom_50,ccom_50_0410,460
+q09,What does accountability look like in a revolutionary organization?,10,10,0.5275454521179199,ccom_29,ccom_29_0123,460
+q10,How should criticism and self-criticism be practiced?,5,1,0.4476819634437561,ccom_32,ccom_32_0086,460
+q10,How should criticism and self-criticism be practiced?,5,2,0.44061756134033203,ccom_08,ccom_08_0075,401
+q10,How should criticism and self-criticism be practiced?,5,3,0.423440158367157,ccom_08,ccom_08_0010,425
+q10,How should criticism and self-criticism be practiced?,5,4,0.3943490982055664,ccom_08,ccom_08_0009,409
+q10,How should criticism and self-criticism be practiced?,5,5,0.3886054754257202,ccom_32,ccom_32_0081,577
+q10,How should criticism and self-criticism be practiced?,10,1,0.4476819634437561,ccom_32,ccom_32_0086,460
+q10,How should criticism and self-criticism be practiced?,10,2,0.44061756134033203,ccom_08,ccom_08_0075,401
+q10,How should criticism and self-criticism be practiced?,10,3,0.423440158367157,ccom_08,ccom_08_0010,425
+q10,How should criticism and self-criticism be practiced?,10,4,0.3943490982055664,ccom_08,ccom_08_0009,409
+q10,How should criticism and self-criticism be practiced?,10,5,0.3886054754257202,ccom_32,ccom_32_0081,577
+q10,How should criticism and self-criticism be practiced?,10,6,0.38733208179473877,ccom_08,ccom_08_0011,436
+q10,How should criticism and self-criticism be practiced?,10,7,0.38649559020996094,ccom_08,ccom_08_0065,363
+q10,How should criticism and self-criticism be practiced?,10,8,0.3750354051589966,ccom_08,ccom_08_0092,398
+q10,How should criticism and self-criticism be practiced?,10,9,0.35790660977363586,ccom_34,ccom_34_0086,464
+q10,How should criticism and self-criticism be practiced?,10,10,0.3556287884712219,ccom_45,ccom_45_0003,493
+q11,How should a power-critical organization address internal sexism?,5,1,0.5039740800857544,ccom_40,ccom_40_0009,434
+q11,How should a power-critical organization address internal sexism?,5,2,0.46391761302948,ccom_37,ccom_37_0016,454
+q11,How should a power-critical organization address internal sexism?,5,3,0.4631212055683136,ccom_37,ccom_37_0020,372
+q11,How should a power-critical organization address internal sexism?,5,4,0.45874541997909546,ccom_37,ccom_37_0005,480
+q11,How should a power-critical organization address internal sexism?,5,5,0.4514566659927368,ccom_50,ccom_50_0564,396
+q11,How should a power-critical organization address internal sexism?,10,1,0.5039740800857544,ccom_40,ccom_40_0009,434
+q11,How should a power-critical organization address internal sexism?,10,2,0.46391761302948,ccom_37,ccom_37_0016,454
+q11,How should a power-critical organization address internal sexism?,10,3,0.4631212055683136,ccom_37,ccom_37_0020,372
+q11,How should a power-critical organization address internal sexism?,10,4,0.45874541997909546,ccom_37,ccom_37_0005,480
+q11,How should a power-critical organization address internal sexism?,10,5,0.4514566659927368,ccom_50,ccom_50_0564,396
+q11,How should a power-critical organization address internal sexism?,10,6,0.450702428817749,ccom_50,ccom_50_0133,460
+q11,How should a power-critical organization address internal sexism?,10,7,0.4485296607017517,ccom_37,ccom_37_0006,420
+q11,How should a power-critical organization address internal sexism?,10,8,0.4478042721748352,ccom_37,ccom_37_0011,477
+q11,How should a power-critical organization address internal sexism?,10,9,0.4466676712036133,ccom_36,ccom_36_0161,243
+q11,How should a power-critical organization address internal sexism?,10,10,0.43880128860473633,ccom_36,ccom_36_0162,460
+q12,How can organizations respond to cases of internal discrimination?,5,1,0.40621212124824524,ccom_50,ccom_50_0517,460
+q12,How can organizations respond to cases of internal discrimination?,5,2,0.39170899987220764,ccom_50,ccom_50_0528,255
+q12,How can organizations respond to cases of internal discrimination?,5,3,0.38338616490364075,ccom_50,ccom_50_0133,460
+q12,How can organizations respond to cases of internal discrimination?,5,4,0.3767277002334595,ccom_50,ccom_50_0137,395
+q12,How can organizations respond to cases of internal discrimination?,5,5,0.3654746413230896,ccom_33,ccom_33_0037,433
+q12,How can organizations respond to cases of internal discrimination?,10,1,0.40621212124824524,ccom_50,ccom_50_0517,460
+q12,How can organizations respond to cases of internal discrimination?,10,2,0.39170899987220764,ccom_50,ccom_50_0528,255
+q12,How can organizations respond to cases of internal discrimination?,10,3,0.38338616490364075,ccom_50,ccom_50_0133,460
+q12,How can organizations respond to cases of internal discrimination?,10,4,0.3767277002334595,ccom_50,ccom_50_0137,395
+q12,How can organizations respond to cases of internal discrimination?,10,5,0.3654746413230896,ccom_33,ccom_33_0037,433
+q12,How can organizations respond to cases of internal discrimination?,10,6,0.35610026121139526,ccom_50,ccom_50_0164,460
+q12,How can organizations respond to cases of internal discrimination?,10,7,0.35583293437957764,ccom_50,ccom_50_0522,460
+q12,How can organizations respond to cases of internal discrimination?,10,8,0.3554627299308777,ccom_33,ccom_33_0032,496
+q12,How can organizations respond to cases of internal discrimination?,10,9,0.35406121611595154,Seale - Seize The Time The Story of the Black Panther Party,Seale - Seize The Time The Story of the Black Panther Party_0466,460
+q12,How can organizations respond to cases of internal discrimination?,10,10,0.35347872972488403,ccom_50,ccom_50_0516,249
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,5,1,0.5851955413818359,ccom_50,ccom_50_0226,460
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,5,2,0.5785585045814514,ccom_50,ccom_50_0410,460
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,5,3,0.5670700073242188,ccom_24_1,ccom_24_1_0011,498
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,5,4,0.5619401931762695,ccom_08,ccom_08_0125,532
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,5,5,0.5549948811531067,ccom_43,ccom_43_0027,501
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,10,1,0.5851955413818359,ccom_50,ccom_50_0226,460
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,10,2,0.5785585045814514,ccom_50,ccom_50_0410,460
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,10,3,0.5670700073242188,ccom_24_1,ccom_24_1_0011,498
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,10,4,0.5619401931762695,ccom_08,ccom_08_0125,532
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,10,5,0.5549948811531067,ccom_43,ccom_43_0027,501
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,10,6,0.5516700148582458,ccom_50,ccom_50_0197,460
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,10,7,0.5486743450164795,ccom_43,ccom_43_0014,414
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,10,8,0.5460044145584106,ccom_08,ccom_08_0113,401
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,10,9,0.5457468032836914,ccom_43,ccom_43_0024,457
+q13,How can class conscious movements avoid reproducing social hierarchies internally?,10,10,0.5446628332138062,ccom_08,ccom_08_0126,443
+q14,How can informal power structures be identified and challenged?,5,1,0.49063146114349365,ccom_08,ccom_08_0123,299
+q14,How can informal power structures be identified and challenged?,5,2,0.4705016613006592,ccom_35,ccom_35_0326,211
+q14,How can informal power structures be identified and challenged?,5,3,0.4688863754272461,ccom_08,ccom_08_0125,532
+q14,How can informal power structures be identified and challenged?,5,4,0.4664897322654724,ccom_08,ccom_08_0159,425
+q14,How can informal power structures be identified and challenged?,5,5,0.46631699800491333,ccom_13,ccom_13_0029,299
+q14,How can informal power structures be identified and challenged?,10,1,0.49063146114349365,ccom_08,ccom_08_0123,299
+q14,How can informal power structures be identified and challenged?,10,2,0.4705016613006592,ccom_35,ccom_35_0326,211
+q14,How can informal power structures be identified and challenged?,10,3,0.4688863754272461,ccom_08,ccom_08_0125,532
+q14,How can informal power structures be identified and challenged?,10,4,0.4664897322654724,ccom_08,ccom_08_0159,425
+q14,How can informal power structures be identified and challenged?,10,5,0.46631699800491333,ccom_13,ccom_13_0029,299
+q14,How can informal power structures be identified and challenged?,10,6,0.46518808603286743,ccom_13,ccom_13_0025,352
+q14,How can informal power structures be identified and challenged?,10,7,0.45701271295547485,ccom_13,ccom_13_0027,260
+q14,How can informal power structures be identified and challenged?,10,8,0.45500147342681885,ccom_13,ccom_13_0024,249
+q14,How can informal power structures be identified and challenged?,10,9,0.44436216354370117,ccom_13,ccom_13_0015,265
+q14,How can informal power structures be identified and challenged?,10,10,0.44204187393188477,ccom_50,ccom_50_0410,460
+q15,What structures help ensure collective responsibility and shared power?,5,1,0.5370602607727051,ccom_13,ccom_13_0024,249
+q15,What structures help ensure collective responsibility and shared power?,5,2,0.529518723487854,ccom_08,ccom_08_0123,299
+q15,What structures help ensure collective responsibility and shared power?,5,3,0.487788587808609,ccom_08,ccom_08_0125,532
+q15,What structures help ensure collective responsibility and shared power?,5,4,0.4877525568008423,ccom_14,ccom_14_0013,524
+q15,What structures help ensure collective responsibility and shared power?,5,5,0.4867469072341919,ccom_14,ccom_14_0019,531
+q15,What structures help ensure collective responsibility and shared power?,10,1,0.5370602607727051,ccom_13,ccom_13_0024,249
+q15,What structures help ensure collective responsibility and shared power?,10,2,0.529518723487854,ccom_08,ccom_08_0123,299
+q15,What structures help ensure collective responsibility and shared power?,10,3,0.487788587808609,ccom_08,ccom_08_0125,532
+q15,What structures help ensure collective responsibility and shared power?,10,4,0.4877525568008423,ccom_14,ccom_14_0013,524
+q15,What structures help ensure collective responsibility and shared power?,10,5,0.4867469072341919,ccom_14,ccom_14_0019,531
+q15,What structures help ensure collective responsibility and shared power?,10,6,0.4813980460166931,ccom_40,ccom_40_0012,373
+q15,What structures help ensure collective responsibility and shared power?,10,7,0.47453999519348145,ccom_50,ccom_50_0380,460
+q15,What structures help ensure collective responsibility and shared power?,10,8,0.47069790959358215,ccom_13,ccom_13_0025,352
+q15,What structures help ensure collective responsibility and shared power?,10,9,0.4700593054294586,ccom_50,ccom_50_0501,460
+q15,What structures help ensure collective responsibility and shared power?,10,10,0.4699973464012146,ccom_16,ccom_16_0004,281
+q16,What is the relationship between theory and practice in revolutionary work?,5,1,0.5848472118377686,ccom_45,ccom_45_0002,422
+q16,What is the relationship between theory and practice in revolutionary work?,5,2,0.5838476419448853,ccom_45,ccom_45_0012,482
+q16,What is the relationship between theory and practice in revolutionary work?,5,3,0.5765211582183838,ccom_45,ccom_45_0001,480
+q16,What is the relationship between theory and practice in revolutionary work?,5,4,0.5752260088920593,ccom_45,ccom_45_0013,473
+q16,What is the relationship between theory and practice in revolutionary work?,5,5,0.5711829662322998,ccom_45,ccom_45_0003,493
+q16,What is the relationship between theory and practice in revolutionary work?,10,1,0.5848472118377686,ccom_45,ccom_45_0002,422
+q16,What is the relationship between theory and practice in revolutionary work?,10,2,0.5838476419448853,ccom_45,ccom_45_0012,482
+q16,What is the relationship between theory and practice in revolutionary work?,10,3,0.5765211582183838,ccom_45,ccom_45_0001,480
+q16,What is the relationship between theory and practice in revolutionary work?,10,4,0.5752260088920593,ccom_45,ccom_45_0013,473
+q16,What is the relationship between theory and practice in revolutionary work?,10,5,0.5711829662322998,ccom_45,ccom_45_0003,493
+q16,What is the relationship between theory and practice in revolutionary work?,10,6,0.5649929046630859,ccom_45,ccom_45_0011,510
+q16,What is the relationship between theory and practice in revolutionary work?,10,7,0.5401197075843811,ccom_08,ccom_08_0108,419
+q16,What is the relationship between theory and practice in revolutionary work?,10,8,0.5399463772773743,ccom_26,ccom_26_0045,577
+q16,What is the relationship between theory and practice in revolutionary work?,10,9,0.5361150503158569,ccom_45,ccom_45_0005,503
+q16,What is the relationship between theory and practice in revolutionary work?,10,10,0.5281235575675964,ccom_08,ccom_08_0141,393
+q17,How should political education be organized?,5,1,0.5602083206176758,ccom_50,ccom_50_0363,460
+q17,How should political education be organized?,5,2,0.497082382440567,ccom_08,ccom_08_0079,429
+q17,How should political education be organized?,5,3,0.4684249758720398,ccom_43,ccom_43_0027,501
+q17,How should political education be organized?,5,4,0.4647745192050934,ccom_08,ccom_08_0077,510
+q17,How should political education be organized?,5,5,0.4591032564640045,ccom_50,ccom_50_0375,460
+q17,How should political education be organized?,10,1,0.5602083206176758,ccom_50,ccom_50_0363,460
+q17,How should political education be organized?,10,2,0.497082382440567,ccom_08,ccom_08_0079,429
+q17,How should political education be organized?,10,3,0.4684249758720398,ccom_43,ccom_43_0027,501
+q17,How should political education be organized?,10,4,0.4647745192050934,ccom_08,ccom_08_0077,510
+q17,How should political education be organized?,10,5,0.4591032564640045,ccom_50,ccom_50_0375,460
+q17,How should political education be organized?,10,6,0.4543100893497467,ccom_08,ccom_08_0114,428
+q17,How should political education be organized?,10,7,0.45267558097839355,ccom_50,ccom_50_0367,460
+q17,How should political education be organized?,10,8,0.4497063159942627,ccom_08,ccom_08_0057,377
+q17,How should political education be organized?,10,9,0.4489644467830658,ccom_50,ccom_50_0313,460
+q17,How should political education be organized?,10,10,0.4474789798259735,ccom_08,ccom_08_0107,497
+q18,How can organizations avoid dogmatism?,5,1,0.455430269241333,ccom_16,ccom_16_0004,281
+q18,How can organizations avoid dogmatism?,5,2,0.376548707485199,ccom_50,ccom_50_0233,460
+q18,How can organizations avoid dogmatism?,5,3,0.35978996753692627,ccom_16,ccom_16_0003,460
+q18,How can organizations avoid dogmatism?,5,4,0.35164934396743774,ccom_26,ccom_26_0024,460
+q18,How can organizations avoid dogmatism?,5,5,0.3514164984226227,ccom_16,ccom_16_0016,460
+q18,How can organizations avoid dogmatism?,10,1,0.455430269241333,ccom_16,ccom_16_0004,281
+q18,How can organizations avoid dogmatism?,10,2,0.376548707485199,ccom_50,ccom_50_0233,460
+q18,How can organizations avoid dogmatism?,10,3,0.35978996753692627,ccom_16,ccom_16_0003,460
+q18,How can organizations avoid dogmatism?,10,4,0.35164934396743774,ccom_26,ccom_26_0024,460
+q18,How can organizations avoid dogmatism?,10,5,0.3514164984226227,ccom_16,ccom_16_0016,460
+q18,How can organizations avoid dogmatism?,10,6,0.34706640243530273,ccom_50,ccom_50_0218,460
+q18,How can organizations avoid dogmatism?,10,7,0.3454354405403137,ccom_50,ccom_50_0388,460
+q18,How can organizations avoid dogmatism?,10,8,0.34232616424560547,ccom_29,ccom_29_0116,501
+q18,How can organizations avoid dogmatism?,10,9,0.3394884467124939,ccom_29,ccom_29_0172,460
+q18,How can organizations avoid dogmatism?,10,10,0.3390265107154846,ccom_26,ccom_26_0021,406
+q19,How should movements learn from past struggles?,5,1,0.614423394203186,ccom_45,ccom_45_0012,482
+q19,How should movements learn from past struggles?,5,2,0.5812506675720215,ccom_35,ccom_35_0356,382
+q19,How should movements learn from past struggles?,5,3,0.5683143138885498,ccom_50,ccom_50_0384,460
+q19,How should movements learn from past struggles?,5,4,0.5647085905075073,ccom_08,ccom_08_0052,410
+q19,How should movements learn from past struggles?,5,5,0.5611280798912048,ccom_50,ccom_50_0410,460
+q19,How should movements learn from past struggles?,10,1,0.614423394203186,ccom_45,ccom_45_0012,482
+q19,How should movements learn from past struggles?,10,2,0.5812506675720215,ccom_35,ccom_35_0356,382
+q19,How should movements learn from past struggles?,10,3,0.5683143138885498,ccom_50,ccom_50_0384,460
+q19,How should movements learn from past struggles?,10,4,0.5647085905075073,ccom_08,ccom_08_0052,410
+q19,How should movements learn from past struggles?,10,5,0.5611280798912048,ccom_50,ccom_50_0410,460
+q19,How should movements learn from past struggles?,10,6,0.5531736612319946,ccom_35,ccom_35_0003,343
+q19,How should movements learn from past struggles?,10,7,0.5472787618637085,ccom_29,ccom_29_0056,89
+q19,How should movements learn from past struggles?,10,8,0.546044647693634,ccom_08,ccom_08_0040,410
+q19,How should movements learn from past struggles?,10,9,0.5438088774681091,ccom_50,ccom_50_0495,460
+q19,How should movements learn from past struggles?,10,10,0.5428301095962524,ccom_42,ccom_42_0011,374
+q20,What makes an organization truly class conscious?,5,1,0.4676830768585205,ccom_50,ccom_50_0410,460
+q20,What makes an organization truly class conscious?,5,2,0.46552348136901855,ccom_08,ccom_08_0125,532
+q20,What makes an organization truly class conscious?,5,3,0.45605701208114624,ccom_50,ccom_50_0082,460
+q20,What makes an organization truly class conscious?,5,4,0.4547545611858368,ccom_08,ccom_08_0127,452
+q20,What makes an organization truly class conscious?,5,5,0.44574159383773804,ccom_42,ccom_42_0010,460
+q20,What makes an organization truly class conscious?,10,1,0.4676830768585205,ccom_50,ccom_50_0410,460
+q20,What makes an organization truly class conscious?,10,2,0.46552348136901855,ccom_08,ccom_08_0125,532
+q20,What makes an organization truly class conscious?,10,3,0.45605701208114624,ccom_50,ccom_50_0082,460
+q20,What makes an organization truly class conscious?,10,4,0.4547545611858368,ccom_08,ccom_08_0127,452
+q20,What makes an organization truly class conscious?,10,5,0.44574159383773804,ccom_42,ccom_42_0010,460
+q20,What makes an organization truly class conscious?,10,6,0.4431930184364319,ccom_43,ccom_43_0023,117
+q20,What makes an organization truly class conscious?,10,7,0.4353731572628021,ccom_50,ccom_50_0226,460
+q20,What makes an organization truly class conscious?,10,8,0.4339665472507477,ccom_35,ccom_35_0365,77
+q20,What makes an organization truly class conscious?,10,9,0.43250927329063416,ccom_29,ccom_29_0146,460
+q20,What makes an organization truly class conscious?,10,10,0.4254509210586548,ccom_29,ccom_29_0147,153
+q21,How should revolutionaries relate to the broader working class?,5,1,0.6765633821487427,ccom_29,ccom_29_0135,460
+q21,How should revolutionaries relate to the broader working class?,5,2,0.6630022525787354,ccom_24_1,ccom_24_1_0011,498
+q21,How should revolutionaries relate to the broader working class?,5,3,0.6620110869407654,ccom_35,ccom_35_0716,460
+q21,How should revolutionaries relate to the broader working class?,5,4,0.6581079363822937,ccom_08,ccom_08_0113,401
+q21,How should revolutionaries relate to the broader working class?,5,5,0.6545203924179077,ccom_29,ccom_29_0146,460
+q21,How should revolutionaries relate to the broader working class?,10,1,0.6765633821487427,ccom_29,ccom_29_0135,460
+q21,How should revolutionaries relate to the broader working class?,10,2,0.6630022525787354,ccom_24_1,ccom_24_1_0011,498
+q21,How should revolutionaries relate to the broader working class?,10,3,0.6620110869407654,ccom_35,ccom_35_0716,460
+q21,How should revolutionaries relate to the broader working class?,10,4,0.6581079363822937,ccom_08,ccom_08_0113,401
+q21,How should revolutionaries relate to the broader working class?,10,5,0.6545203924179077,ccom_29,ccom_29_0146,460
+q21,How should revolutionaries relate to the broader working class?,10,6,0.6406471729278564,ccom_24_3,ccom_24_3_0002,403
+q21,How should revolutionaries relate to the broader working class?,10,7,0.6394498348236084,ccom_50,ccom_50_0198,460
+q21,How should revolutionaries relate to the broader working class?,10,8,0.6359250545501709,ccom_35,ccom_35_0687,154
+q21,How should revolutionaries relate to the broader working class?,10,9,0.6350606679916382,ccom_29,ccom_29_0121,460
+q21,How should revolutionaries relate to the broader working class?,10,10,0.6336835026741028,ccom_43,ccom_43_0024,457
+q22,How can organizations stay connected to everyday struggles?,5,1,0.4906756281852722,ccom_08,ccom_08_0125,532
+q22,How can organizations stay connected to everyday struggles?,5,2,0.48823481798171997,ccom_50,ccom_50_0518,279
+q22,How can organizations stay connected to everyday struggles?,5,3,0.47641709446907043,ccom_11,ccom_11_0027,460
+q22,How can organizations stay connected to everyday struggles?,5,4,0.468758761882782,ccom_11,ccom_11_0017,349
+q22,How can organizations stay connected to everyday struggles?,5,5,0.4645998775959015,ccom_32,ccom_32_0005,424
+q22,How can organizations stay connected to everyday struggles?,10,1,0.4906756281852722,ccom_08,ccom_08_0125,532
+q22,How can organizations stay connected to everyday struggles?,10,2,0.48823481798171997,ccom_50,ccom_50_0518,279
+q22,How can organizations stay connected to everyday struggles?,10,3,0.47641709446907043,ccom_11,ccom_11_0027,460
+q22,How can organizations stay connected to everyday struggles?,10,4,0.468758761882782,ccom_11,ccom_11_0017,349
+q22,How can organizations stay connected to everyday struggles?,10,5,0.4645998775959015,ccom_32,ccom_32_0005,424
+q22,How can organizations stay connected to everyday struggles?,10,6,0.45950615406036377,ccom_08,ccom_08_0092,398
+q22,How can organizations stay connected to everyday struggles?,10,7,0.4587027430534363,ccom_08,ccom_08_0159,425
+q22,How can organizations stay connected to everyday struggles?,10,8,0.4516981244087219,ccom_11,ccom_11_0011,428
+q22,How can organizations stay connected to everyday struggles?,10,9,0.45123928785324097,ccom_11,ccom_11_0016,448
+q22,How can organizations stay connected to everyday struggles?,10,10,0.45072609186172485,ccom_08,ccom_08_0158,414
+q23,How should movements respond to spontaneous protests?,5,1,0.5934988856315613,ccom_50,ccom_50_0384,460
+q23,How should movements respond to spontaneous protests?,5,2,0.554997444152832,ccom_50,ccom_50_0695,312
+q23,How should movements respond to spontaneous protests?,5,3,0.5393286347389221,Seale - Seize The Time The Story of the Black Panther Party,Seale - Seize The Time The Story of the Black Panther Party_0267,460
+q23,How should movements respond to spontaneous protests?,5,4,0.5305296182632446,ccom_50,ccom_50_0518,279
+q23,How should movements respond to spontaneous protests?,5,5,0.5259543657302856,ccom_11,ccom_11_0015,398
+q23,How should movements respond to spontaneous protests?,10,1,0.5934988856315613,ccom_50,ccom_50_0384,460
+q23,How should movements respond to spontaneous protests?,10,2,0.554997444152832,ccom_50,ccom_50_0695,312
+q23,How should movements respond to spontaneous protests?,10,3,0.5393286347389221,Seale - Seize The Time The Story of the Black Panther Party,Seale - Seize The Time The Story of the Black Panther Party_0267,460
+q23,How should movements respond to spontaneous protests?,10,4,0.5305296182632446,ccom_50,ccom_50_0518,279
+q23,How should movements respond to spontaneous protests?,10,5,0.5259543657302856,ccom_11,ccom_11_0015,398
+q23,How should movements respond to spontaneous protests?,10,6,0.5194071531295776,ccom_11,ccom_11_0002,460
+q23,How should movements respond to spontaneous protests?,10,7,0.5161292552947998,ccom_11,ccom_11_0011,428
+q23,How should movements respond to spontaneous protests?,10,8,0.5099799633026123,ccom_42,ccom_42_0011,374
+q23,How should movements respond to spontaneous protests?,10,9,0.5074036717414856,ccom_50,ccom_50_0270,460
+q23,How should movements respond to spontaneous protests?,10,10,0.5062824487686157,ccom_50,ccom_50_0412,460
+q24,How can a movement grow without losing its political clarity?,5,1,0.5106216669082642,ccom_50,ccom_50_0410,460
+q24,How can a movement grow without losing its political clarity?,5,2,0.4998611807823181,ccom_45,ccom_45_0013,473
+q24,How can a movement grow without losing its political clarity?,5,3,0.4947093725204468,ccom_29,ccom_29_0172,460
+q24,How can a movement grow without losing its political clarity?,5,4,0.48822933435440063,Seale - Seize The Time The Story of the Black Panther Party,Seale - Seize The Time The Story of the Black Panther Party_0427,460
+q24,How can a movement grow without losing its political clarity?,5,5,0.4853905439376831,ccom_29,ccom_29_0088,61
+q24,How can a movement grow without losing its political clarity?,10,1,0.5106216669082642,ccom_50,ccom_50_0410,460
+q24,How can a movement grow without losing its political clarity?,10,2,0.4998611807823181,ccom_45,ccom_45_0013,473
+q24,How can a movement grow without losing its political clarity?,10,3,0.4947093725204468,ccom_29,ccom_29_0172,460
+q24,How can a movement grow without losing its political clarity?,10,4,0.48822933435440063,Seale - Seize The Time The Story of the Black Panther Party,Seale - Seize The Time The Story of the Black Panther Party_0427,460
+q24,How can a movement grow without losing its political clarity?,10,5,0.4853905439376831,ccom_29,ccom_29_0088,61
+q24,How can a movement grow without losing its political clarity?,10,6,0.48049598932266235,rutgers-lib-67813_PDF-1,rutgers-lib-67813_PDF-1_0064,333
+q24,How can a movement grow without losing its political clarity?,10,7,0.4783999025821686,ccom_50,ccom_50_0564,396
+q24,How can a movement grow without losing its political clarity?,10,8,0.4739462733268738,ccom_08,ccom_08_0131,397
+q24,How can a movement grow without losing its political clarity?,10,9,0.4711790978908539,ccom_29,ccom_29_0024,460
+q24,How can a movement grow without losing its political clarity?,10,10,0.4710765779018402,ccom_35,ccom_35_0356,382
+q25,What is the difference between activism and revolutionary organizing?,5,1,0.5545947551727295,ccom_35,ccom_35_0356,382
+q25,What is the difference between activism and revolutionary organizing?,5,2,0.5458091497421265,ccom_08,ccom_08_0108,419
+q25,What is the difference between activism and revolutionary organizing?,5,3,0.5438964366912842,ccom_50,ccom_50_0270,460
+q25,What is the difference between activism and revolutionary organizing?,5,4,0.5350298881530762,ccom_29,ccom_29_0121,460
+q25,What is the difference between activism and revolutionary organizing?,5,5,0.5338097810745239,ccom_29,ccom_29_0123,460
+q25,What is the difference between activism and revolutionary organizing?,10,1,0.5545947551727295,ccom_35,ccom_35_0356,382
+q25,What is the difference between activism and revolutionary organizing?,10,2,0.5458091497421265,ccom_08,ccom_08_0108,419
+q25,What is the difference between activism and revolutionary organizing?,10,3,0.5438964366912842,ccom_50,ccom_50_0270,460
+q25,What is the difference between activism and revolutionary organizing?,10,4,0.5350298881530762,ccom_29,ccom_29_0121,460
+q25,What is the difference between activism and revolutionary organizing?,10,5,0.5338097810745239,ccom_29,ccom_29_0123,460
+q25,What is the difference between activism and revolutionary organizing?,10,6,0.5194944143295288,ccom_50,ccom_50_0384,460
+q25,What is the difference between activism and revolutionary organizing?,10,7,0.5190343260765076,ccom_08,ccom_08_0113,401
+q25,What is the difference between activism and revolutionary organizing?,10,8,0.51664799451828,ccom_50,ccom_50_0411,251
+q25,What is the difference between activism and revolutionary organizing?,10,9,0.516158938407898,ccom_11,ccom_11_0011,428
+q25,What is the difference between activism and revolutionary organizing?,10,10,0.514954686164856,ccom_29,ccom_29_0151,304
+q26,What are signs of increasing state repression?,5,1,0.4861012101173401,ccom_08,ccom_08_0123,299
+q26,What are signs of increasing state repression?,5,2,0.48041385412216187,ccom_40,ccom_40_0010,222
+q26,What are signs of increasing state repression?,5,3,0.45634540915489197,ccom_50,ccom_50_0364,460
+q26,What are signs of increasing state repression?,5,4,0.45510774850845337,ccom_11,ccom_11_0015,398
+q26,What are signs of increasing state repression?,5,5,0.450766384601593,ccom_40,ccom_40_0006,492
+q26,What are signs of increasing state repression?,10,1,0.4861012101173401,ccom_08,ccom_08_0123,299
+q26,What are signs of increasing state repression?,10,2,0.48041385412216187,ccom_40,ccom_40_0010,222
+q26,What are signs of increasing state repression?,10,3,0.45634540915489197,ccom_50,ccom_50_0364,460
+q26,What are signs of increasing state repression?,10,4,0.45510774850845337,ccom_11,ccom_11_0015,398
+q26,What are signs of increasing state repression?,10,5,0.450766384601593,ccom_40,ccom_40_0006,492
+q26,What are signs of increasing state repression?,10,6,0.4487243890762329,ccom_07,ccom_07_0026,196
+q26,What are signs of increasing state repression?,10,7,0.44784241914749146,ccom_08,ccom_08_0044,433
+q26,What are signs of increasing state repression?,10,8,0.4432651996612549,ccom_08,ccom_08_0130,423
+q26,What are signs of increasing state repression?,10,9,0.44116711616516113,ccom_08,ccom_08_0134,389
+q26,What are signs of increasing state repression?,10,10,0.4382525682449341,ccom_04,ccom_04_0026,483
+q27,How should organizations prepare for repression?,5,1,0.6210412979125977,ccom_50,ccom_50_0518,279
+q27,How should organizations prepare for repression?,5,2,0.5553179383277893,ccom_08,ccom_08_0159,425
+q27,How should organizations prepare for repression?,5,3,0.5310133695602417,ccom_08,ccom_08_0123,299
+q27,How should organizations prepare for repression?,5,4,0.5273754596710205,ccom_50,ccom_50_0384,460
+q27,How should organizations prepare for repression?,5,5,0.5152617692947388,ccom_50,ccom_50_0502,460
+q27,How should organizations prepare for repression?,10,1,0.6210412979125977,ccom_50,ccom_50_0518,279
+q27,How should organizations prepare for repression?,10,2,0.5553179383277893,ccom_08,ccom_08_0159,425
+q27,How should organizations prepare for repression?,10,3,0.5310133695602417,ccom_08,ccom_08_0123,299
+q27,How should organizations prepare for repression?,10,4,0.5273754596710205,ccom_50,ccom_50_0384,460
+q27,How should organizations prepare for repression?,10,5,0.5152617692947388,ccom_50,ccom_50_0502,460
+q27,How should organizations prepare for repression?,10,6,0.5113816261291504,ccom_29,ccom_29_0137,392
+q27,How should organizations prepare for repression?,10,7,0.5052242279052734,ccom_08,ccom_08_0125,532
+q27,How should organizations prepare for repression?,10,8,0.5026286244392395,ccom_29,ccom_29_0132,361
+q27,How should organizations prepare for repression?,10,9,0.49649733304977417,ccom_08,ccom_08_0155,446
+q27,How should organizations prepare for repression?,10,10,0.4933093786239624,ccom_41,ccom_41_0103,357
+q28,How should movements organize their material base?,5,1,0.508322536945343,ccom_13,ccom_13_0030,460
+q28,How should movements organize their material base?,5,2,0.504814624786377,ccom_29,ccom_29_0143,131
+q28,How should movements organize their material base?,5,3,0.4788340628147125,ccom_41,ccom_41_0074,460
+q28,How should movements organize their material base?,5,4,0.4664042294025421,ccom_32,ccom_32_0109,98
+q28,How should movements organize their material base?,5,5,0.4610791504383087,ccom_13,ccom_13_0033,408
+q28,How should movements organize their material base?,10,1,0.508322536945343,ccom_13,ccom_13_0030,460
+q28,How should movements organize their material base?,10,2,0.504814624786377,ccom_29,ccom_29_0143,131
+q28,How should movements organize their material base?,10,3,0.4788340628147125,ccom_41,ccom_41_0074,460
+q28,How should movements organize their material base?,10,4,0.4664042294025421,ccom_32,ccom_32_0109,98
+q28,How should movements organize their material base?,10,5,0.4610791504383087,ccom_13,ccom_13_0033,408
+q28,How should movements organize their material base?,10,6,0.46027645468711853,ccom_41,ccom_41_0068,288
+q28,How should movements organize their material base?,10,7,0.45448383688926697,ccom_41,ccom_41_0078,460
+q28,How should movements organize their material base?,10,8,0.45361077785491943,ccom_50,ccom_50_0682,460
+q28,How should movements organize their material base?,10,9,0.45099782943725586,ccom_29,ccom_29_0123,460
+q28,How should movements organize their material base?,10,10,0.44790202379226685,ccom_13,ccom_13_0041,239
+q29,What role does social reproduction play in class struggle?,5,1,0.5630019903182983,ccom_43,ccom_43_0014,414
+q29,What role does social reproduction play in class struggle?,5,2,0.5534178614616394,ccom_23_3,ccom_23_3_0002,552
+q29,What role does social reproduction play in class struggle?,5,3,0.5468086004257202,ccom_08,ccom_08_0126,443
+q29,What role does social reproduction play in class struggle?,5,4,0.5420836210250854,ccom_50,ccom_50_0197,460
+q29,What role does social reproduction play in class struggle?,5,5,0.536139190196991,ccom_42,ccom_42_0012,389
+q29,What role does social reproduction play in class struggle?,10,1,0.5630019903182983,ccom_43,ccom_43_0014,414
+q29,What role does social reproduction play in class struggle?,10,2,0.5534178614616394,ccom_23_3,ccom_23_3_0002,552
+q29,What role does social reproduction play in class struggle?,10,3,0.5468086004257202,ccom_08,ccom_08_0126,443
+q29,What role does social reproduction play in class struggle?,10,4,0.5420836210250854,ccom_50,ccom_50_0197,460
+q29,What role does social reproduction play in class struggle?,10,5,0.536139190196991,ccom_42,ccom_42_0012,389
+q29,What role does social reproduction play in class struggle?,10,6,0.533877968788147,ccom_08,ccom_08_0125,532
+q29,What role does social reproduction play in class struggle?,10,7,0.5296935439109802,ccom_23_2,ccom_23_2_0002,278
+q29,What role does social reproduction play in class struggle?,10,8,0.5293768048286438,ccom_27,ccom_27_0054,577
+q29,What role does social reproduction play in class struggle?,10,9,0.5293768048286438,ccom_27,ccom_27_0052,356
+q29,What role does social reproduction play in class struggle?,10,10,0.5287481546401978,ccom_35,ccom_35_0412,460
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,5,1,0.5855268239974976,ccom_50,ccom_50_0485,466
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,5,2,0.5658369660377502,ccom_50,ccom_50_0507,460
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,5,3,0.5582138895988464,rutgers-lib-67813_PDF-1,rutgers-lib-67813_PDF-1_0057,460
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,5,4,0.5573965311050415,ccom_43,ccom_43_0002,354
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,5,5,0.5494680404663086,rutgers-lib-67813_PDF-1,rutgers-lib-67813_PDF-1_0059,109
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,10,1,0.5855268239974976,ccom_50,ccom_50_0485,466
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,10,2,0.5658369660377502,ccom_50,ccom_50_0507,460
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,10,3,0.5582138895988464,rutgers-lib-67813_PDF-1,rutgers-lib-67813_PDF-1_0057,460
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,10,4,0.5573965311050415,ccom_43,ccom_43_0002,354
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,10,5,0.5494680404663086,rutgers-lib-67813_PDF-1,rutgers-lib-67813_PDF-1_0059,109
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,10,6,0.5486525297164917,ccom_50,ccom_50_0664,460
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,10,7,0.5458590388298035,ccom_50,ccom_50_0683,460
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,10,8,0.5431095957756042,rutgers-lib-67813_PDF-1,rutgers-lib-67813_PDF-1_0025,460
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,10,9,0.5421172380447388,rutgers-lib-67813_PDF-1,rutgers-lib-67813_PDF-1_0066,295
+q30,How should organizations coordinate global solidarity and anti-imperialist struggles?,10,10,0.541590690612793,rutgers-lib-67813_PDF-1,rutgers-lib-67813_PDF-1_0024,460

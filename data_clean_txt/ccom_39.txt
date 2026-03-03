@@ -1,0 +1,1933 @@
+Decolonization: 
+  Indigeneity, 
+  Education 
+  & 
+  Society 
+  
+Vol. 
+  1, 
+   
+  No. 
+  1, 
+   
+  2012, 
+   
+   
+  pp. 
+  1-­‐40 
+  
+ 
+  
+
+ 
+  
+Decolonization is not a metaphor
+ 
+  
+
+Eve Tuck
+State University of New York at New Paltz
+
+K. Wayne Yang
+University of California, San Diego
+
+Abstract
+Our goal in this article is to remind readers what is unsettling about decolonization.
+Decolonization brings about the repatriation of Indigenous land and life; it is not a metaphor for
+other things we want to do to improve our societies and schools. The easy adoption of
+decolonizing discourse by educational advocacy and scholarship, evidenced by the increasing
+number of calls to “decolonize our schools,” or use “decolonizing methods,” or, “decolonize
+student thinking”, turns decolonization into a metaphor. As important as their goals may be,
+social justice, critical methodologies, or approaches that decenter settler perspectives have
+objectives that may be incommensurable with decolonization. Because settler colonialism is built
+upon an entangled triad structure of settler-native-slave, the decolonial desires of white, nonwhite, immigrant, postcolonial, and oppressed people, can similarly be entangled in resettlement,
+reoccupation, and reinhabitation that actually further settler colonialism. The metaphorization of
+decolonization makes possible a set of evasions, or “settler moves to innocence”, that
+problematically attempt to reconcile settler guilt and complicity, and rescue settler futurity. In
+this article, we analyze multiple settler moves towards innocence in order to forward “an ethic of
+incommensurability” that recognizes what is distinct and what is sovereign for project(s) of
+decolonization in relation to human and civil rights based social justice projects. We also point to
+unsettling themes within transnational/Third World decolonizations, abolition, and critical spaceplace pedagogies, which challenge the coalescence of social justice endeavors, making room for
+more meaningful potential alliances.
+Keywords: decolonization, settler colonialism, settler moves to innocence, incommensurability,
+Indigenous land, decolonizing education
+
+2012 E. Tuck & K.W. Yang This is an Open Access article distributed under the terms of the Creative Commons
+Attribution Noncommercial 3.0 Unported License (http://creativecommons.org/licenses/by-nc/3.0), permitting all noncommercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+Decolonization, which sets out to change the order of the world, is, obviously, a program
+of complete disorder. But it cannot come as a result of magical practices, nor of a natural
+shock, nor of a friendly understanding. Decolonization, as we know, is a historical
+process: that is to say it cannot be understood, it cannot become intelligible nor clear to
+itself except in the exact measure that we can discern the movements which give it
+historical form and content.
+-Franz Fanon, The Wretched of the Earth, 1963, p. 36
+
+Let us admit it, the settler knows perfectly well that no phraseology can be a substitute
+for reality.
+-Franz Fanon, The Wretched of the Earth, 1963, p. 45
+
+Introduction 
+  
+For the past several years we have been working, in our writing and teaching, to bring attention
+to how settler colonialism has shaped schooling and educational research in the United States
+and other settler colonial nation-states. These are two distinct but overlapping tasks, the first
+concerned with how the invisibilized dynamics of settler colonialism mark the organization,
+governance, curricula, and assessment of compulsory learning, the other concerned with how
+settler perspectives and worldviews get to count as knowledge and research and how these
+perspectives - repackaged as data and findings - are activated in order to rationalize and maintain
+unfair social structures. We are doing this work alongside many others who - somewhat
+relentlessly, in writings, meetings, courses, and activism - don’t allow the real and symbolic
+violences of settler colonialism to be overlooked.
+Alongside this work, we have been thinking about what decolonization means, what it
+wants and requires. One trend we have noticed, with growing apprehension, is the ease with
+which the language of decolonization has been superficially adopted into education and other
+social sciences, supplanting prior ways of talking about social justice, critical methodologies, or
+approaches which decenter settler perspectives. Decolonization, which we assert is a distinct
+project from other civil and human rights-based social justice projects, is far too often subsumed
+into the directives of these projects, with no regard for how decolonization wants something
+different than those forms of justice. Settler scholars swap out prior civil and human rights based
+terms, seemingly to signal both an awareness of the significance of Indigenous and decolonizing
+theorizations of schooling and educational research, and to include Indigenous peoples on the list
+of considerations - as an additional special (ethnic) group or class. At a conference on
+educational research, it is not uncommon to hear speakers refer, almost casually, to the need to
+“decolonize our schools,” or use “decolonizing methods,” or “decolonize student thinking.” Yet,
+we have observed a startling number of these discussions make no mention of Indigenous
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+peoples, our/their1 struggles for the recognition of our/their sovereignty, or the contributions of
+Indigenous intellectuals and activists to theories and frameworks of decolonization. Further,
+there is often little recognition given to the immediate context of settler colonialism on the North
+American lands where many of these conferences take place.
+Of course, dressing up in the language of decolonization is not as offensive as “Navajo
+print” underwear sold at a clothing chain store (Gaynor, 2012) and other appropriations of
+Indigenous cultures and materials that occur so frequently. Yet, this kind of inclusion is a form of
+enclosure, dangerous in how it domesticates decolonization. It is also a foreclosure, limiting in
+how it recapitulates dominant theories of social change. On the occasion of the inaugural issue of
+Decolonization: Indigeneity, Education, & Society, we want to be sure to clarify that
+decolonization is not a metaphor. When metaphor invades decolonization, it kills the very
+possibility of decolonization; it recenters whiteness, it resettles theory, it extends innocence to
+the settler, it entertains a settler future. Decolonize (a verb) and decolonization (a noun) cannot
+easily be grafted onto pre-existing discourses/frameworks, even if they are critical, even if they
+are anti-racist, even if they are justice frameworks. The easy absorption, adoption, and
+transposing of decolonization is yet another form of settler appropriation. When we write about
+decolonization, we are not offering it as a metaphor; it is not an approximation of other
+experiences of oppression. Decolonization is not a swappable term for other things we want to do
+to improve our societies and schools. Decolonization doesn’t have a synonym.
+Our goal in this essay is to remind readers what is unsettling about decolonization - what
+is unsettling and what should be unsettling. Clearly, we are advocates for the analysis of settler
+colonialism within education and education research and we position the work of Indigenous
+thinkers as central in unlocking the confounding aspects of public schooling. We, at least in part,
+want others to join us in these efforts, so that settler colonial structuring and Indigenous critiques
+of that structuring are no longer rendered invisible. Yet, this joining cannot be too easy, too
+open, too settled. Solidarity is an uneasy, reserved, and unsettled matter that neither reconciles
+present grievances nor forecloses future conflict. There are parts of the decolonization project
+that are not easily absorbed by human rights or civil rights based approaches to educational
+equity. In this essay, we think about what decolonization wants.
+There is a long and bumbled history of non-Indigenous peoples making moves to
+alleviate the impacts of colonization. The too-easy adoption of decolonizing discourse (making
+decolonization a metaphor) is just one part of that history and it taps into pre-existing tropes that
+get in the way of more meaningful potential alliances. We think of the enactment of these tropes
+as a series of moves to innocence (Malwhinney, 1998), which problematically attempt to
+reconcile settler guilt and complicity, and rescue settler futurity. Here, to explain why
+decolonization is and requires more than a metaphor, we discuss some of these moves to
+innocence:
+As an Indigenous scholar and a settler/trespasser/scholar writing together, we have used forward slashes to reflect
+our discrepant positionings in our pronouns throughout this essay. 
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+i. Settler nativism
+ii. Fantasizing adoption
+iii. Colonial equivocation
+iv. Conscientization
+v. At risk-ing / Asterisk-ing Indigenous peoples
+vi. Re-occupation and urban homesteading
+Such moves ultimately represent settler fantasies of easier paths to reconciliation. Actually, we
+argue, attending to what is irreconcilable within settler colonial relations and what is
+incommensurable between decolonizing projects and other social justice projects will help to
+reduce the frustration of attempts at solidarity; but the attention won’t get anyone off the hook
+from the hard, unsettling work of decolonization. Thus, we also include a discussion of
+interruptions that unsettle innocence and recognize incommensurability.
+
+The 
+  set 
+  of 
+  settler 
+  colonial 
+  relations 
+  
+Generally speaking, postcolonial theories and theories of coloniality attend to two forms of
+colonialism2. External colonialism (also called exogenous or exploitation colonization) denotes
+the expropriation of fragments of Indigenous worlds, animals, plants and human beings,
+extracting them in order to transport them to - and build the wealth, the privilege, or feed the
+appetites of - the colonizers, who get marked as the first world. This includes so-thought
+‘historic’ examples such as opium, spices, tea, sugar, and tobacco, the extraction of which
+continues to fuel colonial efforts. This form of colonialism also includes the feeding of
+contemporary appetites for diamonds, fish, water, oil, humans turned workers, genetic material,
+cadmium and other essential minerals for high tech devices. External colonialism often requires a
+subset of activities properly called military colonialism - the creation of war fronts/frontiers
+against enemies to be conquered, and the enlistment of foreign land, resources, and people into
+military operations. In external colonialism, all things Native become recast as ‘natural
+resources’ - bodies and earth for war, bodies and earth for chattel.
+The other form of colonialism that is attended to by postcolonial theories and theories of
+coloniality is internal colonialism, the biopolitical and geopolitical management of people, land,
+flora and fauna within the “domestic” borders of the imperial nation. This involves the use of
+Colonialism is not just a symptom of capitalism. Socialist and communist empires have also been settler empires
+(e.g. Chinese colonialism in Tibet). “In other words,” writes Sandy Grande, “both Marxists and capitalists view land
+and natural resources as commodities to be exploited, in the first instance, by capitalists for personal gain, and in the
+second by Marxists for the good of all” (2004, p.27). Capitalism and the state are technologies of colonialism,
+developed over time to further colonial projects. Racism is an invention of colonialism (Silva, 2007). The current
+colonial era goes back to 1492, when colonial imaginary goes global. 
+  
+
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+particularized modes of control - prisons, ghettos, minoritizing, schooling, policing - to ensure
+the ascendancy of a nation and its white3 elite. These modes of control, imprisonment, and
+involuntary transport of the human beings across borders - ghettos, their policing, their economic
+divestiture, and their dislocatability - are at work to authorize the metropole and conscribe her
+periphery. Strategies of internal colonialism, such as segregation, divestment, surveillance, and
+criminalization, are both structural and interpersonal.
+Our intention in this descriptive exercise is not be exhaustive, or even inarguable; instead,
+we wish to emphasize that (a) decolonization will take a different shape in each of these contexts
+- though they can overlap4 - and that (b) neither external nor internal colonialism adequately
+describe the form of colonialism which operates in the United States or other nation-states in
+which the colonizer comes to stay. Settler colonialism operates through internal/external colonial
+modes simultaneously because there is no spatial separation between metropole and colony. For
+example, in the United States, many Indigenous peoples have been forcibly removed from their
+homelands onto reservations, indentured, and abducted into state custody, signaling the form of
+colonization as simultaneously internal (via boarding schools and other biopolitical modes of
+control) and external (via uranium mining on Indigenous land in the US Southwest and oil
+extraction on Indigenous land in Alaska) with a frontier (the US military still nicknames all
+enemy territory “Indian Country”). The horizons of the settler colonial nation-state are total and
+require a mode of total appropriation of Indigenous life and land, rather than the selective
+expropriation of profit-producing fragments.
+Settler colonialism is different from other forms of colonialism in that settlers come with
+the intention of making a new home on the land, a homemaking that insists on settler sovereignty
+over all things in their new domain. Thus, relying solely on postcolonial literatures or theories of
+coloniality that ignore settler colonialism will not help to envision the shape that decolonization
+must take in settler colonial contexts. Within settler colonialism, the most important concern is
+land/water/air/subterranean earth (land, for shorthand, in this article.) Land is what is most
+valuable, contested, required. This is both because the settlers make Indigenous land their new
+home and source of capital, and also because the disruption of Indigenous relationships to land
+represents a profound epistemic, ontological, cosmological violence. This violence is not
+temporally contained in the arrival of the settler but is reasserted each day of occupation. This is
+why Patrick Wolfe (1999) emphasizes that settler colonialism is a structure and not an event. In
+the process of settler colonialism, land is remade into property and human relationships to land
+are restricted to the relationship of the owner to his property. Epistemological, ontological, and
+cosmological relationships to land are interred, indeed made pre-modern and backward. Made
+savage.
+4
+
+In using terms as “white” and “whiteness”, we are acknowledging that whiteness extends beyond phenotype. 
+  
+
+We don’t treat internal/external as a taxonomy of colonialisms. They describe two operative modes of colonialism.
+The modes can overlap, reinforce, and contradict one another, and do so through particular legal, social, economic
+and political processes that are context specific. 
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+In order for the settlers to make a place their home, they must destroy and disappear the
+Indigenous peoples that live there. Indigenous peoples are those who have creation stories, not
+colonization stories, about how we/they came to be in a particular place - indeed how we/they
+came to be a place. Our/their relationships to land comprise our/their epistemologies, ontologies,
+and cosmologies. For the settlers, Indigenous peoples are in the way and, in the destruction of
+Indigenous peoples, Indigenous communities, and over time and through law and policy,
+Indigenous peoples’ claims to land under settler regimes, land is recast as property and as a
+resource. Indigenous peoples must be erased, must be made into ghosts (Tuck and Ree,
+forthcoming).
+At the same time, settler colonialism involves the subjugation and forced labor of chattel
+slaves , whose bodies and lives become the property, and who are kept landless. Slavery in
+settler colonial contexts is distinct from other forms of indenture whereby excess labor is
+extracted from persons. First, chattels are commodities of labor and therefore it is the slave’s
+person that is the excess. Second, unlike workers who may aspire to own land, the slave’s very
+presence on the land is already an excess that must be dis-located. Thus, the slave is a desirable
+commodity but the person underneath is imprisonable, punishable, and murderable. The violence
+of keeping/killing the chattel slave makes them deathlike monsters in the settler imagination;
+they are reconfigured/disfigured as the threat, the razor’s edge of safety and terror.
+The settler, if known by his actions and how he justifies them, sees himself as holding
+dominion over the earth and its flora and fauna, as the anthropocentric normal, and as more
+developed, more human, more deserving than other groups or species. The settler is making a
+new "home" and that home is rooted in a homesteading worldview where the wild land and wild
+people were made for his benefit. He can only make his identity as a settler by making the land
+produce, and produce excessively, because "civilization" is defined as production in excess of the
+"natural" world (i.e. in excess of the sustainable production already present in the Indigenous
+world). In order for excess production, he needs excess labor, which he cannot provide himself.
+The chattel slave serves as that excess labor, labor that can never be paid because payment would
+have to be in the form of property (land). The settler's wealth is land, or a fungible version of it,
+and so payment for labor is impossible.6 The settler positions himself as both superior and
+normal; the settler is natural, whereas the Indigenous inhabitant and the chattel slave are
+unnatural, even supernatural.
+Settlers are not immigrants. Immigrants are beholden to the Indigenous laws and
+epistemologies of the lands they migrate to. Settlers become the law, supplanting Indigenous
+As observed by Erica Neeganagwedgin (2012), these two groups are not always distinct. Neeganagwedgin
+presents a history of the enslavement of Indigenous peoples in Canada as chattel slaves. In California, Mexico, and
+the U.S. Southwest under the Spanish mission system, Indigenous people were removed from their land and also
+made into chattel slaves. Under U.S. colonization, California law stipulated that Indians could be murdered and/or
+indentured by any “person” (white, propertied, citizen). These laws remained in effect until 1937. 
+See Kate McCoy (forthcoming) on settler crises in early Jamestown, Virginia to pay indentured European labor
+with land. 
+  
+
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+laws and epistemologies. Therefore, settler nations are not immigrant nations (See also A.J.
+Barker, 2009).
+Not unique, the United States, as a settler colonial nation-state, also operates as an empire
+- utilizing external forms and internal forms of colonization simultaneous to the settler colonial
+project. This means, and this is perplexing to some, that dispossessed people are brought onto
+seized Indigenous land through other colonial projects. Other colonial projects include
+enslavement, as discussed, but also military recruitment, low-wage and high-wage labor
+recruitment (such as agricultural workers and overseas-trained engineers), and
+displacement/migration (such as the coerced immigration from nations torn by U.S. wars or
+devastated by U.S. economic policy). In this set of settler colonial relations, colonial subjects
+who are displaced by external colonialism, as well as racialized and minoritized by internal
+colonialism, still occupy and settle stolen Indigenous land. Settlers are diverse, not just of white
+European descent, and include people of color, even from other colonial contexts. This tightly
+wound set of conditions and racialized, globalized relations exponentially complicates what is
+meant by decolonization, and by solidarity, against settler colonial forces.
+Decolonization in exploitative colonial situations could involve the seizing of imperial
+wealth by the postcolonial subject. In settler colonial situations, seizing imperial wealth is
+inextricably tied to settlement and re-invasion. Likewise, the promise of integration and civil
+rights is predicated on securing a share of a settler-appropriated wealth (as well as expropriated
+‘third-world’ wealth). Decolonization in a settler context is fraught because empire, settlement,
+and internal colony have no spatial separation. Each of these features of settler colonialism in the
+US context - empire, settlement, and internal colony - make it a site of contradictory decolonial
+desires7.
+Decolonization as metaphor allows people to equivocate these contradictory decolonial
+desires because it turns decolonization into an empty signifier to be filled by any track towards
+liberation. In reality, the tracks walk all over land/people in settler contexts. Though the details
+are not fixed or agreed upon, in our view, decolonization in the settler colonial context must
+involve the repatriation of land simultaneous to the recognition of how land and relations to land
+have always already been differently understood and enacted; that is, all of the land, and not just
+symbolically. This is precisely why decolonization is necessarily unsettling, especially across
+lines of solidarity. “Decolonization never takes place unnoticed” (Fanon, 1963, p. 36). Settler
+colonialism and its decolonization implicates and unsettles everyone.
+Decolonization is further fraught because, although the setter-native-slave triad structures settler colonialism, this
+does not mean that settler, native, and slave are analogs that can be used to describe corresponding identities,
+structural locations, worldviews, and behaviors. Nor do they mutually constitute one another. For example,
+Indigenous is an identity independent of the triad, and also an ascribed structural location within the triad. Chattel
+slave is an ascribed structural position, but not an identity. Settler describes a set of behaviors, as well as a structural
+location, but is eschewed as an identity.
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+Playing 
+  Indian 
+  and 
+  the 
+  erasure 
+  of 
+  Indigenous 
+  peoples 
+  
+Recently in a symposium on the significance of Liberal Arts education in the United States, Eve
+presented an argument that Liberal Arts education has historically excluded any attention to or
+analysis of settler colonialism. This, Eve posited, makes Liberal Arts education complicit in the
+project of settler colonialism and, more so, has rendered the truer project of Liberal Arts
+education something like trying to make the settler indigenous to the land he occupies. The
+attendees were titillated by this idea, nodding and murmuring in approval and it was then that
+Eve realized that she was trying to say something incommensurable with what they expected her
+to say. She was completely misunderstood. Many in the audience heard this observation: that the
+work of Liberal Arts education is in part to teach settlers to be indigenous, as something
+admirable, worthwhile, something wholesome, not as a problematic point of evidence about the
+reach of the settler colonial erasure.
+Philip Deloria (1998) explores how and why the settler wants to be made indigenous,
+even if only through disguise, or other forms of playing Indian. Playing Indian is a powerful U.S.
+pastime, from the Boston Tea Party, to fraternal organizations, to new age trends, to even those
+aforementioned Native print underwear. Deloria maintains that, “From the colonial period to the
+present, the Indian has skulked in and out of the most important stories various Americans have
+told about themselves” (p. 5).
+The indeterminacy of American identities stems, in part, from the nation’s inability
+to deal with Indian people. Americans wanted to feel a natural affinity with the
+continent, and it was Indians who could teach them such aboriginal closeness.
+Yet, in order to control the landscape they had to destroy the original inhabitants.
+(Deloria, 1998, p.5)
+L. Frank Baum (author of The Wizard of Oz) famously asserted in 1890 that the safety of
+white settlers was only guaranteed by the “total annihilation of the few remaining Indians” (as
+quoted in Hastings, 2007). D.H. Lawrence, reading James Fenimore Cooper (discussed at length
+later in this article), Nathaniel Hawthorne, Hector St. John de Crevecoeur, Henry David Thoreau,
+Herman Melville, Walt Whitman and others for his Studies in Classic American Literature
+(1924), describes Americans’ fascination with Indigeneity as one of simultaneous desire and
+repulsion (Deloria, 1998).
+“No place,” Lawrence observed, “exerts its full influence upon a newcomer until
+the old inhabitant is dead or absorbed.” Lawrence argued that in order to meet the
+“demon of the continent” head on and this finalize the “unexpressed spirit of
+America,” white Americans needed either to destroy Indians of assimilate them
+into a white American world...both aimed at making Indians vanish from the
+landscape. (Lawrence, as quoted in Deloria, 1998, p. 4).
+
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+Everything within a settler colonial society strains to destroy or assimilate the Native in
+order to disappear them from the land - this is how a society can have multiple simultaneous and
+conflicting messages about Indigenous peoples, such as all Indians are dead, located in faraway
+reservations, that contemporary Indigenous people are less indigenous than prior generations,
+and that all Americans are a “little bit Indian.” These desires to erase - to let time do its thing and
+wait for the older form of living to die out, or to even help speed things along (euthanize)
+because the death of pre-modern ways of life is thought to be inevitable - these are all desires for
+another kind of resolve to the colonial situation, resolved through the absolute and total
+destruction or assimilation of original inhabitants.
+Numerous scholars have observed that Indigeneity prompts multiple forms of settler
+anxiety, even if only because the presence of Indigenous peoples - who make a priori claims to
+land and ways of being - is a constant reminder that the settler colonial project is incomplete
+(Fanon, 1963; Vine Deloria, 1988; Grande, 2004; Bruyneel, 2007). The easy adoption of
+decolonization as a metaphor (and nothing else) is a form of this anxiety, because it is a
+premature attempt at reconciliation. The absorption of decolonization by settler social justice
+frameworks is one way the settler, disturbed by her own settler status, tries to escape or contain
+the unbearable searchlight of complicity, of having harmed others just by being one’s self. The
+desire to reconcile is just as relentless as the desire to disappear the Native; it is a desire to not
+have to deal with this (Indian) problem anymore.
+
+Settler 
+  moves 
+  to 
+  innocence 
+  
+We observe that another component of a desire to play Indian is a settler desire to be made
+innocent, to find some mercy or relief in face of the relentlessness of settler guilt and haunting
+(see Tuck and Ree, forthcoming, on mercy and haunting). Directly and indirectly benefitting
+from the erasure and assimilation of Indigenous peoples is a difficult reality for settlers to accept.
+The weight of this reality is uncomfortable; the misery of guilt makes one hurry toward any
+reprieve. In her 1998 Master’s thesis, Janet Mawhinney analyzed the ways in which white people
+maintained and (re)produced white privilege in self-defined anti-racist settings and
+organizations.8 She examined the role of storytelling and self-confession - which serves to equate
+stories of personal exclusion with stories of structural racism and exclusion - and what she terms
+‘moves to innocence,’ or “strategies to remove involvement in and culpability for systems of
+domination” (p. 17). Mawhinney builds upon Mary Louise Fellows and Sherene Razack’s (1998)
+conceptualization of, ‘the race to innocence’, “the process through which a woman comes to
+believe her own claim of subordination is the most urgent, and that she is unimplicated in the
+subordination of other women” (p. 335).
+Mawhinney’s thesis theorizes the self-positioning of white people as simultaneously the
+oppressed and never an oppressor, and as having an absence of experience of oppressive power
+Thank you to Neoma Mullens for introducing Eve to Mawhinney’s concept of moves to innocence. 
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+relations (p. 100). This simultaneous self-positioning afforded white people in various
+purportedly anti-racist settings to say to people of color, “I don’t experience the problems you
+do, so I don’t think about it,” and “tell me what to do, you’re the experts here” (p. 103). “The
+commonsense appeal of such statements,” Malwhinney observes, enables white speakers to
+“utter them sanguine in [their] appearance of equanimity, is rooted in the normalization of a
+liberal analysis of power relations” (ibid.).
+In the discussion that follows, we will do some work to identify and argue against a series
+of what we call ‘settler moves to innocence’. Settler moves to innocence are those strategies or
+positionings that attempt to relieve the settler of feelings of guilt or responsibility without giving
+up land or power or privilege, without having to change much at all. In fact, settler scholars may
+gain professional kudos or a boost in their reputations for being so sensitive or self-aware. Yet
+settler moves to innocence are hollow, they only serve the settler. This discussion will likely
+cause discomfort in our settler readers, may embarrass you/us or make us/you feel implicated.
+Because of the racialized flights and flows of settler colonial empire described above, settlers are
+diverse - there are white settlers and brown settlers, and peoples in both groups make moves to
+innocence that attempt to deny and deflect their own complicity in settler colonialism. When it
+makes sense to do so, we attend to moves to innocence enacted differently by white people and
+by brown and Black people.
+In describing settler moves to innocence, our goal is to provide a framework of excuses,
+distractions, and diversions from decolonization. We discuss some of the moves to innocence at
+greater length than others, mostly because some require less explanation and because others are
+more central to our initial argument for the demetaphorization of decolonization. We provide this
+framework so that we can be more impatient with each other, less likely to accept gestures and
+half-steps, and more willing to press for acts which unsettle innocence, which we discuss in the
+final section of this article.
+Moves 
+  to 
+  innocence 
+  I: 
+  Settler 
+  nativism 
+  
+In this move to innocence, settlers locate or invent a long-lost ancestor who is rumored to have
+had “Indian blood,” and they use this claim to mark themselves as blameless in the attempted
+eradications of Indigenous peoples. There are numerous examples of public figures in the United
+States who “remember” a distant Native ancestor, including Nancy Reagan (who is said to be a
+descendant of Pocahontas) and, more recently, Elizabeth Warren9 and many others, illustrating
+how commonplace settler nativism is. Vine Deloria Jr. discusses what he calls the Indiangrandmother complex in the following account from Custer Died for Your Sins:
+See Francie Latour’s interview (June 1 2012) with Kim Tallbear for more information on the Elizabeth Warren
+example. In the interview, Tallbear asserts that Warren’s romanticized claims and the accusations of fraud are
+evidence of ways in which people in the U.S. misunderstand Native American identity. Tallbear insists that to
+understand Native American identity, “you need to get outside of that binary, one-drop framework.”
+
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+During my three years as Executive Director of the National Congress of
+American Indians it was a rare day when some white [person] didn't visit my
+office and proudly proclaim that he or she was of Indian descent...
+At times I became quite defensive about being a Sioux when these white people
+had a pedigree that was so much more respectable than mine. But eventually I
+came to understand their need to identify as partially Indian and did not resent
+them. I would confirm their wildest stories about their Indian ancestry and would
+add a few tales of my own hoping that they would be able to accept themselves
+someday and leave us alone.
+Whites claiming Indian blood generally tend to reinforce mythical beliefs about
+Indians. All but one person I met who claimed Indian blood claimed it on their
+grandmother's side. I once did a projection backward and discovered that evidently
+most tribes were entirely female for the first three hundred years of white
+occupation. No one, it seemed, wanted to claim a male Indian as a forebear.
+It doesn't take much insight into racial attitudes to understand the real meaning of
+the Indian-grandmother complex that plagues certain white [people]. A male
+ancestor has too much of the aura of the savage warrior, the unknown primitive,
+the instinctive animal, to make him a respectable member of the family tree. But a
+young Indian princess? Ah, there was royalty for the taking. Somehow the white
+was linked with a noble house of gentility and culture if his grandmother was an
+Indian princess who ran away with an intrepid pioneer...
+While a real Indian grandmother is probably the nicest thing that could happen to a
+child, why is a remote Indian princess grandmother so necessary for many white
+[people]? Is it because they are afraid of being classed as foreigners? Do they need
+some blood tie with the frontier and its dangers in order to experience what it
+means to be an American? Or is it an attempt to avoid facing the guilt they bear for
+the treatment of the Indians? (1988, p. 2-4)
+Settler nativism, or what Vine Deloria Jr. calls the Indian-grandmother complex, is a settler
+move to innocence because it is an attempt to deflect a settler identity, while continuing to enjoy
+settler privilege and occupying stolen land. Deloria observes that settler nativism is gendered and
+considers the reasons a storied Indian grandmother might have more appeal than an Indian
+grandfather. On one level, it can be expected that many settlers have an ancestor who was
+Indigenous and/or who was a chattel slave. This is precisely the habit of settler colonialism,
+which pushes humans into other human communities; strategies of rape and sexual violence, and
+also the ordinary attractions of human relationships, ensure that settlers have Indigenous and
+chattel slave ancestors.
+Further, though race is a social construct, Indigenous peoples and chattel slaves,
+particularly slaves from the continent of Africa, were/are racialized differently in ways that
+support/ed the logics and aims of settler colonialism (the erasure of the Indigenous person and
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+the capture and containment of the slave). “Indians and Black people in the US have been
+racialized in opposing ways that reflect their antithetical roles in the formation of US society,”
+Patrick Wolfe (2006) explains:
+Black people’s enslavement produced an inclusive taxonomy that automatically
+enslaved the offspring of a slave and any other parent. In the wake of slavery, this
+taxonomy became fully racialized in the “one-drop rule,” whereby any amount of
+African ancestry, no matter how remote, and regardless of phenotypical
+appearance, makes a person Black. (p. 387)
+Kim Tallbear argues that the one-drop rule dominates understandings of race in the United States
+and, so, most people in the US have not been able to understand Indigenous identity (Latour,
+2012). Through the one-drop rule, blackness in settler colonial contexts is expansive, ensuring
+that a slave/criminal status will be inherited by an expanding number of ‘black’ descendants.
+Yet, Indigenous peoples have been racialized in a profoundly different way. Native Americanness10 is subtractive: Native Americans are constructed to become fewer in number and less
+Native, but never exactly white, over time. Our/their status as Indigenous peoples/first
+inhabitants is the basis of our/their land claims and the goal of settler colonialism is to diminish
+claims to land over generations (or sooner, if possible). That is, Native American is a
+racialization that portrays contemporary Indigenous generations to be less authentic, less
+Indigenous than every prior generation in order to ultimately phase out Indigenous claims to land
+and usher in settler claims to property. This is primarily done through blood quantum registries
+and policies, which were forced on Indigenous nations and communities and, in some cases,
+have overshadowed former ways of determining tribal membership.
+Wolfe (2006) explains:
+For Indians, in stark contrast, non-Indian ancestry compromised their indigeneity,
+producing “half-breeds,” a regime that persists in the form of blood quantum
+regulations. As opposed to enslaved people, whose reproduction augmented their
+owners’ wealth, Indigenous people obstructed settlers’ access to land, so their
+increase was counterproductive. In this way, the restrictive racial classification of
+Indians straightforwardly furthered the logic of elimination. (p. 387)
+The racializations of Indigenous people and Black people in the US settler colonial nation-state
+are geared to ensure the ascendancy of white settlers as the true and rightful owners and
+occupiers of the land.
+In the national mythologies of such societies, it is believed that white people came
+first and that it is they who principally developed the land; Aboriginal peoples are
+presumed to be mostly dead or assimilated. European settlers thus become the
+Native American, then, can be a signifier for how Indigenous peoples (over 500 federally recognized tribes and
+nations in the U.S. alone) are racialized into one vanishing race in the U.S. settler-colonial context. 
+  
+
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+original inhabitants and the group most entitled to the fruits of citizenship.”
+(Razack, 2002, p. 1-2; emphasis original.)
+In the racialization of whiteness, blood quantum rules are reversed so that white people can stay
+white, yet claim descendance from an Indian grandmother. In 1924, the Virginia legislature
+passed the Racial Integrity Act, which enforced the one-drop rule except for white people who
+claimed a distant Indian grandmother - the result of strong lobbying from the aristocratic “First
+Families of Virginia” who all claim to have descended from Pocahontas (including Nancy
+Reagan, born in 1921). Known as the Pocahontas Exception, this loophole allowed thousands of
+white people to claim Indian ancestry, while actual Indigenous people were reclassified as
+“colored” and disappeared off the public record11.
+Settler nativism, through the claiming of a long-lost ancestor, invests in these specific
+racializations of Indigenous people and Black people, and disbelieves the sovereign authority of
+Indigenous nations to determine tribal membership. Dakota scholar Kim Tallbear (in an
+interview on the recent Elizabeth Warren example), provides an account that echoes and updates
+Deloria’s account. Speaking to the many versions of settler nativism she has encountered, in
+which people say,
+“My great-great grandmother was an Indian princess.” [or] “I'm descended from
+Pocohantas.” What Elizabeth Warren said about the high cheekbones, I've had so
+many people from across the political spectrum say things that strange or stranger.
+And my point is, maybe you do have some remote ancestor. So what? You don't
+just get to decide you're Cherokee if the community does not recognize you as
+such (as quoted in Latour, 2012).
+Ancestry is different from tribal membership; Indigenous identity and tribal membership are
+questions that Indigenous communities alone have the right to struggle over and define, not DNA
+tests, heritage websites, and certainly not the settler state. Settler nativism is about imagining an
+Indian past and a settler future; in contrast, tribal sovereignty has provided for an Indigenous
+present and various Indigenous intellectuals theorize decolonization as Native futures without a
+settler state. 
+  
+Moves 
+  to 
+  innocence 
+  II: 
+  Settler 
+  adoption 
+  fantasies 
+  
+Describing acts of passing, Sara Ahmed (2000) asserts the importance of being able to replace
+“the stranger”, or take the place of the other, in the consolidation and (re)affirmation of white
+identity. To “become without becoming,” is to reproduce “the other as ‘not-I’ within rather than
+beyond the structure of the ‘I’” (p. 132). Sherene Razack, reading Ahmed, tells us that
+The 1940 Census only recorded 198 Indians in the State of Virginia. 6 out of 8 tribes in Virginia are currently
+unable to obtain federal recognition because of the racial erasure under the Racial Integrity Act (Fiske, 2004). 
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+appropriating the other’s pain occurs when, “we think we are recognizing not only the other’s
+pain but his or her difference. Difference becomes the conduit of identification in much the same
+way as pain does” (Razack, 2007, p. 379). Discussing the film Dances with Wolves (a cinematic
+fiction of a Union soldier in the post-bellum Civil War era who befriends and protects the Lakota
+Sioux, who are represented as a noble, dying race), Ahmed critically engages the narrative, in
+which a white man (played by Kevin Costner) comes to respect the Sioux,
+to the point of being able to dance their dances...the white man in this example is
+able to ‘to become without becoming’ (Ahmed, 2000, p. 32)...He alone is
+transformed through his encounter with the Sioux, while they remain the
+mechanism for his transformation. He becomes the authentic knower while they
+remain what is to be known and consumed, and spit out again, as good Indians
+who confirm the white man’s position as hero of the story...the Sioux remain
+objects, while Kevin Costner is able to go anywhere and be anything. (Ahmed’s
+analysis, as discussed by Razack, 2007, p. 379).
+For the purposes of this article, we locate the desire to become without becoming [Indian]
+within settler adoption fantasies. These fantasies can mean the adoption of Indigenous practices
+and knowledge, but more, refer to those narratives in the settler colonial imagination in which
+the Native (understanding that he is becoming extinct) hands over his land, his claim to the land,
+his very Indian-ness to the settler for safe-keeping. This is a fantasy that is invested in a settler
+futurity and dependent on the foreclosure of an Indigenous futurity.
+Settler adoption fantasies are longstanding narratives in the United States, fueled by rare
+instances of ceremonial “adoptions”, from John Smith’s adoption in 1607 by Powhatan
+(Pocahontas’ father), to Lewis Henry Morgan’s adoption in 1847 by Seneca member Jimmy
+Johnson, to the recent adoption of actor Johnny Depp by the family of LaDonna Harris, a
+Comanche woman and social activist. As sovereign nations, tribes make decisions about who is
+considered a member, so our interest is not in whether adoptions are appropriate or legitimate.
+Rather, because the prevalence of the adoption narrative in American literature, film, television,
+holidays and history books far exceeds the actual occurrences of adoptions, we are interested in
+how this narrative spins a fantasy that an individual settler can become innocent, indeed heroic
+and indigenized, against a backdrop of national guilt. The adoption fantasy is the mythical trump
+card desired by critical settlers who feel remorse about settler colonialism, one that absolves
+them from the inheritance of settler crimes and that bequeaths a new inheritance of Native-ness
+and claims to land (which is a reaffirmation of what the settler project has been all along).
+To more fully explain, we turn to perhaps the most influential version of the adoption
+narrative, penned by James Fenimore Cooper in 1823-1841. James Fenimore, son of “that genius
+in land speculation William Cooper” (Butterfield, 1954, p. 374), grew up in Six Nations territory
+that his father had grabbed and named after himself as Cooperstown, New York. In these
+Iroquois lakes, forests, and hills, James Fenimore, and later his daughter, Susan, imagined for
+themselves frontier romances full of tragic Indians, inventive and compassionate settlers, and
+virginal white/Indian women in virgin wilderness. Cooper’s five-book series, collectively called
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+the Leatherstocking Tales, are foundational in the emergence of American literature. Melville
+called Cooper “our national author” and it was no exaggeration. His were the most widely read
+novels of the time and, in the age of the printing press, this meant they were the most circulated
+books in a U.S. print-based popular culture. Mass print established national language and
+identity, an “imagined community” (Anderson, 1991) from which emerges ‘America’ as a nation
+as opposed to just an assortment of former colonies. The Tales are credited with the
+constructions of the vanishing Indian, the resourceful Frontiersman, and the degenerate Negro:
+the pivotal triad of archetypes that forms the basis for an American national literature.
+The Last of Mohicans is undoubtedly the most famous among the Tales and has been
+remade into three separate television series in 1957, 1971, and 2004; an opera in 1977; a BBC
+radio adaptation in 1995; a 2007 Marvel comic book series; a stage drama in performance since
+2010; and eleven separate films spanning 1912 to 1992. In a sense, Last of the Mohicans is a
+national narrative that has never stopped being remade13.
+Across all five books, Cooper’s epic hero is Natty Bumppo, a white man ‘gone native’, at
+home in nature, praised for his wisdom and ways that are both Indian and white. In Last of the
+Mohicans, this hero becomes the adopted son of Chingachgook, fictional chief of the fictional
+tribe “Mohicans”, who renames Natty, Nathaniel Hawkeye - thus legitimating and completing
+his Indigeneity. At the same time, Chingachgook conveniently fades into extinction. In a critical
+symbolic gesture, Chingachgook hands over his son Uncas - the last of the Mohicans - to the
+adopted, Indigenized white man, Hawkeye. When Uncas dies, the ramification is obvious:
+Hawkeye becomes without becoming the last of the Mohicans. You are now one of us, you are
+now Native. “The pale-faces are masters of the earth, and the time of the red-men has not yet
+come again” (Cooper 2000, p.407).
+Cooper’s books fantasize the founding and expansion of the U.S. settler nation by
+fictionalizing the period of 1740-1804, distilled into the single narrative of one man. The arc of
+his life stands in for the narrative of national development: the heroic settler Natty Bumppo
+transitions from British trapper to ‘native’ American, to prairie pioneer in the new Western
+frontier. Interestingly, the books themselves were written in reverse chronological order, starting
+with the pioneer, going backwards in time. Through such historical hypnosis, settler literature
+fabricates past lives, all the way back to an Indian past. ‘I am American’ becomes ‘I was
+frontiersman, was British, was Indian’.
+In this fantasy, Hawkeye is both adopter and adoptee. The act of adopting indigenous
+ways makes him ‘deserving’ to be adopted by the Indigenous. Settler fantasies of adoption
+alleviate the anxiety of settler un-belonging. He adopts the love of land and therefore thinks he
+belongs to the land. He is a first environmentalist and sentimentalist, nostalgic for vanishing
+13
+
+Tellingly, these remakes were produced in Canada, Britain, Germany and the United States. 
+  
+
+To include all the ‘remakes’ of the story in its different forms (e.g. the post 9/11 historical fiction Gangs of New
+York, the 2009 film Avatar, or the 2011 film The Descendants - also discussed in this article), would require an
+exhaustive and exhausting account well beyond the scope of this article. 
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+Native ways. In today’s jargon, he could be thought of as an eco-activist, naturalist, and Indian
+sympathizer. At the same time, his cultural hybridity is what makes him more ‘fit’ to survive the ultimate social Darwinism - better than both British and Indian; he is the mythical American.
+Hawkeye, hybrid white and Indian, becomes the reluctant but nonetheless rightful inheritor of
+the land and warden of its vanishing people.
+Similarly, the settler intellectual who hybridizes decolonial thought with Western critical
+traditions (metaphorizing decolonization), emerges superior to both Native intellectuals and
+continental theorists simultaneously. With his critical hawk-eye, he again sees the critique better
+than anyone and sees the world from a loftier station14. It is a fiction, just as Cooper’s Hawkeye,
+just as the adoption, just as the belonging.
+In addition to fabricating historical memory, the Tales serve to generate historical
+amnesia. The books were published between 1823-1841, at the height of the Jacksonian period
+with the Indian Removal Act of 1830 and subsequent Trail of Tears 1831-1837. During this time,
+46,000 Native Americans were removed from their homelands, opening 25 million acres of land
+for re-settlement. The Tales are not only silent on Indian Removal but narrate the Indian as
+vanishing in an earlier time frame, and thus Indigenous people are already dead prior to removal.
+Performing sympathy is critical to Cooper’s project of settler innocence. It is no accident
+that he is often read as a sympathizer to the Indians (despite the fact that he didn’t know any) in
+contrast to Jackson’s policies of removal and genocide. Cooper is cast as the ‘innocent’ father of
+U.S. ideology, in contrast to the ‘bad white men’ of history.
+Performing suffering is also critical to Cooper’s project of settler innocence. Hawkeye
+takes on the (imagined) demeanor of the vanishing Native - brooding, vengeful, protecting a
+dying way of life, and unsuccessful in finding a mate and producing offspring. Thus sympathy
+and suffering are the tokens used to absorb the Native Other’s difference, coded as pain, the ‘notI’ into the ‘I’.
+The settler’s personal suffering feeds his fantasy of mutuality. The 2011 film, The
+Descendants, is a modern remake of the adoption fantasy (blended with a healthy dose of settler
+nativism). George Clooney’s character, “King” is a haole hypo-descendant of the last surviving
+princess of Hawai’i and reluctant inheritor of a massive expanse of land, the last wilderness on
+the Island of Kauai. In contrast to his obnoxious settler cousins, he earns his privilege as an
+overworked lawyer rather than relying on his unearned inheritance. Furthermore, Clooney’s
+character suffers - he is a dysfunctional father, heading a dysfunctional family, watching his wife
+wither away in a coma, learning that she cheated on him - and so he is somehow Hawaiian at
+heart. Because pain is the token for oppression, claims to pain then equate to claims of being an
+innocent non-oppressor. By the film’s end, King goes against the wishes of his profiteering
+settler cousins and chooses to “keep” the land, reluctantly accepting that his is the steward of the
+land, a responsibility bequeathed upon him as an accident of birth. This is the denouement of
+His lament is that no one else can see what he sees, just as Hawkeye laments his failed attempts to rescue white
+people from bad Indians, and good Indians from ignorant white people. He is the escapee from Plato’s Cave. The
+rest of us are stuck in the dark. 
+  
+
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+reconciliation between the settler-I and the interiorized native-not-I within the settler. Sympathy
+and suffering are profoundly satisfying for settler cinema: The Descendants was nominated for 5
+Academy Awards and won for Best Adapted Screenplay in 2012.
+The beauty of this settler fantasy is that it adopts decolonization and aborts it in one
+gesture. Hawkeye adopts Uncas, who then conveniently dies. King adopts Hawai’i and negates
+the necessity for ea, Kanaka Maoli sovereignty. Decolonization is stillborn - rendered irrelevant
+because decolonization is already completed by the indigenized consciousness of the settler.
+Now ‘we’ are all Indian, all Hawaiian, and decolonization is no longer an issue. ‘Our’ only
+recourse is to move forward, however regretfully, with ‘our’ settler future.
+In the unwritten decolonial version of Cooper’s story, Hawkeye would lose his land back
+to the Mohawk - the real people upon whose land Cooperstown was built and whose rivers,
+lakes, and forests Cooper mined for his frontier romances. Hawkeye would shoot his last arrow,
+or his last long-rifle shot, return his eagle feather, and would be renamed Natty Bumppo, settler
+on Native land. The story would end with the moment of this recognition. Unresolved are the
+questions: Would a conversation follow after that between Native and the last settler? Would the
+settler leave or just vanish? Would he ask to stay, and if he did, who would say yes? These are
+questions that will be addressed at decolonization, and not a priori in order to appease anxieties
+for a settler future. 
+  
+Moves 
+  to 
+  innocence 
+  III: 
+  Colonial 
+  equivocation 
+  
+A more nuanced move to innocence is the homogenizing of various experiences of oppression as
+colonization. Calling different groups ‘colonized’ without describing their relationship to settler
+colonialism is an equivocation, “the fallacy of using a word in different senses at different stages
+of the reasoning" (Etymonline, 2001). In particular, describing all struggles against imperialism
+as ‘decolonizing’ creates a convenient ambiguity between decolonization and social justice work,
+especially among people of color, queer people, and other groups minoritized by the settler
+nation-state. ‘We are all colonized,’ may be a true statement but is deceptively embracive and
+vague, its inference: ‘None of us are settlers.’ Equivocation, or calling everything by the same
+name, is a move towards innocence that is especially vogue in coalition politics among people of
+color.
+People of color who enter/are brought into the settler colonial nation-state also enter the
+triad of relations between settler-native-slave. We are referring here to the colonial pathways that
+are usually described as ‘immigration’ and how the refugee/immigrant/migrant is invited to be a
+settler in some scenarios, given the appropriate investments in whiteness, or is made an illegal,
+criminal presence in other scenarios. Ghetto colonialism, prisons, and under resourced
+compulsory schooling are specializations of settler colonialism in North America; they are
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+produced by the collapsing of internal, external, and settler colonialisms, into new blended
+categories15.
+This triad of settler-native-slave and its selective collapsibility seems to be unique to
+settler colonial nations. For example, all Aleut people on the Aleutian Islands were collected and
+placed in internment camps for four years after the bombing of Dutch Harbor; the stated
+rationale was the protection of the people but another likely reason was that the U.S.
+Government feared the Aleuts would become allies with the Japanese and/or be difficult to
+differentiate from potential Japanese spies. White people who lived on the Aleutian Islands at
+that same time were not interned. Internment in abandoned warehouses and canneries in
+Southeast Alaska was the cause of significant numbers of death of children and elders, physical
+injury, and illness among Aleut people. Aleut internment during WWII is largely ignored as part
+of U.S. history. The shuffling of Indigenous people between Native, enslavable Other, and
+Orientalized Other16 shows how settler colonialism constructs and collapses its triad of
+categories.
+This colonizing trick explains why certain minorities can at times become model and
+quasi-assimilable (as exemplified by Asian settler colonialism, civil rights, model minority
+discourse, and the use of ‘hispanic’ as an ethnic category to mean both white and non-white) yet,
+in times of crisis, revert to the status of foreign contagions (as exemplified by Japanese
+Internment, Islamophobia, Chinese Exclusion, Red Scare, anti-Irish nativism, WWII antisemitism, and anti-Mexican-immigration). This is why ‘labor’ or ‘workers’ as an agential
+political class fails to activate the decolonizing project. “[S]hifting lines of the international
+division of labor” (Spivak, 1985, p. 84) bisect the very category of labor into caste-like bodies
+built for work on one hand and rewardable citizen-workers on the other. Some labor becomes
+settler, while excess labor becomes enslavable, criminal, murderable.
+The impossibility of fully becoming a white settler - in this case, white referring to an
+exceptionalized position with assumed rights to invulnerability and legal supremacy - as
+articulated by minority literature preoccupied with “glass ceilings” and “forever foreign” status
+and “myth of the model minority”, offers a strong critique of the myth of the democratic nationstate. However, its logical endpoint, the attainment of equal legal and cultural entitlements, is
+actually an investment in settler colonialism. Indeed, even the ability to be a minority citizen in
+the settler nation means an option to become a brown settler. For many people of color,
+becoming a subordinate settler is an option even when becoming white is not.
+“Following stolen resources” is a phrase that Wayne has encountered, used to describe
+Filipino overseas labor (over 10% of the population of the Philippines is working abroad) and
+other migrations from colony to metropole. This phrase is an important anti-colonial framing of a
+E.g. Detention centers contain the foreign, non-citizen subject who is paradoxically outside of the nation yet at the
+mercy of imperial sovereignty within the metropole. 
+We are using Orientalized Other in sense of the enemy other, following Edward Said’s (1978) analysis of
+Orientalism. 
+  
+
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+colonial situation. However an anti-colonial critique is not the same as a decolonizing
+framework; anti-colonial critique often celebrates empowered postcolonial subjects who seize
+denied privileges from the metropole. This anti-to-post-colonial project doesn’t strive to undo
+colonialism but rather to remake it and subvert it. Seeking stolen resources is entangled with
+settler colonialism because those resources were nature/Native first, then enlisted into the service
+of settlement and thus almost impossible to reclaim without re-occupying Native land.
+Furthermore, the postcolonial pursuit of resources is fundamentally an anthropocentric model, as
+land, water, air, animals, and plants are never able to become postcolonial; they remain objects to
+be exploited by the empowered postcolonial subject.
+Equivocation is the vague equating of colonialisms that erases the sweeping scope of land
+as the basis of wealth, power, law in settler nation-states. Vocalizing a ‘muliticultural’ approach
+to oppressions, or remaining silent on settler colonialism while talking about colonialisms, or
+tacking on a gesture towards Indigenous people without addressing Indigenous sovereignty or
+rights, or forwarding a thesis on decolonization without regard to unsettling/deoccupying land,
+are equivocations. That is, they ambiguously avoid engaging with settler colonialism; they are
+ambivalent about minority / people of color / colonized Others as settlers; they are cryptic about
+Indigenous land rights in spaces inhabited by people of color.
+Moves 
+  to 
+  innocence 
+  IV: 
+  Free 
+  your 
+  mind 
+  and 
+  the 
+  rest 
+  will 
+  follow 
+  
+Fanon told us in 1963 that decolonizing the mind is the first step, not the only step toward
+overthrowing colonial regimes. Yet we wonder whether another settler move to innocence is to
+focus on decolonizing the mind, or the cultivation of critical consciousness, as if it were the sole
+activity of decolonization; to allow conscientization to stand in for the more uncomfortable task
+of relinquishing stolen land. We agree that curricula, literature, and pedagogy can be crafted to
+aid people in learning to see settler colonialism, to articulate critiques of settler epistemology,
+and set aside settler histories and values in search of ethics that reject domination and
+exploitation; this is not unimportant work. However, the front-loading of critical consciousness
+building can waylay decolonization, even though the experience of teaching and learning to be
+critical of settler colonialism can be so powerful it can feel like it is indeed making change.
+Until stolen land is relinquished, critical consciousness does not translate into action that disrupts
+settler colonialism. So, we respectfully disagree with George Clinton and Funkadelic (1970) and
+En Vogue (1992) when they assert that if you “free your mind, the rest (your ass) will follow.”
+Paulo Freire, eminent education philosopher, popular educator, and liberation theologian,
+wrote his celebrated book, Pedagogy of the Oppressed, in no small part as a response to Fanon’s
+Wretched of the Earth. Its influence upon critical pedagogy and on the practices of educators
+committed to social justice cannot be overstated. Therefore, it is important to point out
+significant differences between Freire and Fanon, especially with regard to de/colonization.
+Freire situates the work of liberation in the minds of the oppressed, an abstract category of
+dehumanized worker vis-a-vis a similarly abstract category of oppressor. This is a sharp right
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+turn away from Fanon’s work, which always positioned the work of liberation in the
+particularities of colonization, in the specific structural and interpersonal categories of Native
+and settler. Under Freire’s paradigm, it is unclear who the oppressed are, even more ambiguous
+who the oppressors are, and it is inferred throughout that an innocent third category of
+enlightened human exists: “those who suffer with [the oppressed] and fight at their side” (Freire,
+2000, p. 42). These words, taken from the opening dedication of Pedagogy of the Oppressed,
+invoke the same settler fantasy of mutuality based on sympathy and suffering.
+Fanon positions decolonization as chaotic, an unclean break from a colonial condition
+that is already over determined by the violence of the colonizer and unresolved in its possible
+futures. By contrast, Freire positions liberation as redemption, a freeing of both oppressor and
+oppressed through their humanity. Humans become ‘subjects’ who then proceed to work on the
+‘objects’ of the world (animals, earth, water), and indeed read the word (critical consciousness)
+in order to write the world (exploit nature). For Freire, there are no Natives, no Settlers, and
+indeed no history, and the future is simply a rupture from the timeless present. Settler
+colonialism is absent from his discussion, implying either that it is an unimportant analytic or
+that it is an already completed project of the past (a past oppression perhaps). Freire’s theories of
+liberation resoundingly echo the allegory of Plato’s Cave, a continental philosophy of mental
+emancipation, whereby the thinking man individualistically emerges from the dark cave of
+ignorance into the light of critical consciousness.
+By contrast, black feminist thought roots freedom in the darkness of the cave, in that well
+of feeling and wisdom from which all knowledge is recreated.
+These places of possibility within ourselves are dark because they are ancient and
+hidden; they have survived and grown strong through darkness. Within these deep
+places, each one of us holds an incredible reserve of creativity and power, of
+unexamined and unrecorded emotion and feeling. The woman's place of power
+within each of us is neither white nor surface; it is dark, it is ancient, and it is deep.
+(Lorde, 1984, pp. 36-37)
+Audre Lorde’s words provide a sharp contrast to Plato’s sight-centric image of liberation: “The
+white fathers told us, I think therefore I am; and the black mothers in each of us - the poet whispers in our dreams, I feel therefore I can be free” (p. 38). For Lorde, writing is not action
+upon the world. Rather, poetry is giving a name to the nameless, “first made into language, then
+into idea, then into more tangible action” (p. 37). Importantly, freedom is a possibility that is not
+just mentally generated; it is particular and felt.
+Freire’s philosophies have encouraged educators to use “colonization” as a metaphor for
+oppression. In such a paradigm, “internal colonization” reduces to “mental colonization”,
+logically leading to the solution of decolonizing one’s mind and the rest will follow. Such
+philosophy conveniently sidesteps the most unsettling of questions:
+
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+The essential thing is to see clearly, to think clearly - that is, dangerously and to
+answer clearly the innocent first question: what, fundamentally, is colonization?
+(Cesaire, 2000, p. 32)
+Because colonialism is comprised of global and historical relations, Cesaire’s question must be
+considered globally and historically. However, it cannot be reduced to a global answer, nor a
+historical answer. To do so is to use colonization metaphorically. “What is colonization?” must
+be answered specifically, with attention to the colonial apparatus that is assembled to order the
+relationships between particular peoples, lands, the ‘natural world’, and ‘civilization’.
+Colonialism is marked by its specializations. In North America and other settings, settler
+sovereignty imposes sexuality, legality, raciality, language, religion and property in specific
+ways. Decolonization likewise must be thought through in these particularities.
+To agree on what [decolonization] is not: neither evangelization, nor a
+philanthropic enterprise, nor a desire to push back the frontiers of ignorance,
+disease, and tyranny... (Cesaire, 2000, p. 32)
+We deliberately extend Cesaire’s words above to assert what decolonization is not. It is not
+converting Indigenous politics to a Western doctrine of liberation; it is not a philanthropic
+process of ‘helping’ the at-risk and alleviating suffering; it is not a generic term for struggle
+against oppressive conditions and outcomes. The broad umbrella of social justice may have room
+underneath for all of these efforts. By contrast, decolonization specifically requires the
+repatriation of Indigenous land and life. Decolonization is not a metonym for social justice.
+We don’t intend to discourage those who have dedicated careers and lives to teaching
+themselves and others to be critically conscious of racism, sexism, homophobia, classism,
+xenophobia, and settler colonialism. We are asking them/you to consider how the pursuit of
+critical consciousness, the pursuit of social justice through a critical enlightenment, can also be
+settler moves to innocence - diversions, distractions, which relieve the settler of feelings of guilt
+or responsibility, and conceal the need to give up land or power or privilege.
+Anna Jacobs’ 2009 Master’s thesis explores the possibilities for what she calls white
+harm reduction models. Harm reduction models attempt to reduce the harm or risk of specific
+practices. Jacobs identifies white supremacy as a public health issue that is at the root of most
+other public health issues. The goal of white harm reduction models, Jacobs says, is to reduce the
+harm that white supremacy has had on white people, and the deep harm it has caused non-white
+people over generations. Learning from Jacobs’ analysis, we understand the curricularpedagogical project of critical consciousness as settler harm reduction, crucial in the
+resuscitation of practices and intellectual life outside of settler ontologies. (Settler) harm
+reduction is intended only as a stopgap. As the environmental crisis escalates and peoples around
+the globe are exposed to greater concentrations of violence and poverty, the need for settler harm
+reduction is acute, profoundly so. At the same time we remember that, by definition, settler harm
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+reduction, like conscientization, is not the same as decolonization and does not inherently offer
+any pathways that lead to decolonization.
+Moves 
+  to 
+  innocence 
+  V: 
+  A(s)t(e)risk 
+  peoples 
+  
+This settler move to innocence is concerned with the ways in which Indigenous peoples are
+counted, codified, represented, and included/disincluded by educational researchers and other
+social science researchers. Indigenous peoples are rendered visible in mainstream educational
+research in two main ways: as “at risk” peoples and as asterisk peoples. This comprises a settler
+move to innocence because it erases and then conceals the erasure of Indigenous peoples within
+the settler colonial nation-state and moves Indigenous nations as “populations” to the margins of
+public discourse.
+As “at risk” peoples, Indigenous students and families are described as on the verge of
+extinction, culturally and economically bereft, engaged or soon-to-be engaged in self-destructive
+behaviors which can interrupt their school careers and seamless absorption into the economy.
+Even though it is widely known and verified that Native youth gain access to personal and
+academic success when they also have access to/instruction in their home languages, most Native
+American and Alaskan Native youth are taught in English-only schools by temporary teachers
+who know little about their students’ communities (Lomawaima and McCarty, 2006; Lee, 2011).
+Even though Indigenous knowledge systems predate, expand, update, and complicate the
+curricula found in most public schools, schools attended by poor Indigenous students are among
+those most regimented in attempts to comply with federal mandates. Though these mandates
+intrude on the sovereignty of Indigenous peoples, the “services” promised at the inception of
+these mandates do little to make the schools attended by Indigenous youth better at providing
+them a compelling, relevant, inspiring and meaningful education.
+At the same time, Indigenous communities become the asterisk peoples, meaning they are
+represented by an asterisk in large and crucial data sets, many of which are conducted to inform
+public policy that impact our/their lives (Villegas, 2012). Education and health statistics are
+unavailable from Indigenous communities for a variety of reasons and, when they are made
+available, the size of the n, or the sample size, can appear to be negligible when compared to the
+sample size of other/race-based categories. Though Indigenous scholars such as Malia Villegas
+recognize that Indigenous peoples are distinct from each other but also from other racialized
+groups surveyed in these studies, they argue that difficulty of collecting basic education and
+health information about this small and heterogeneous category must be overcome in order to
+counter the disappearance of Indigenous particularities in public policy.
+In U.S. educational research in particular, Indigenous peoples are included only as
+asterisks, as footnotes into dominant paradigms of educational inequality in the U.S. This can be
+observed in the progressive literature on school discipline, on ‘underrepresented minorities’ in
+higher education, and in the literature of reparation, i.e., redressing ‘past’ wrongs against nonwhite Others. Under such paradigms, which do important work on alleviating the symptoms of
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+colonialism (poverty, dispossession, criminality, premature death, cultural genocide), Indigeneity
+is simply an “and” or an illustration of oppression. ‘Urban education’, for example, is a code
+word for the schooling of black, brown, and ghettoized youth who form the numerical majority
+in divested public schools. Urban American Indians and Native Alaskans become an asterisk
+group, invisibilized, even though about two-thirds of Indigenous peoples in the U.S. live in urban
+areas, according to the 2010 census. Yet, urban Indians receive fewer federal funds for
+education, health, and employment than their counterparts on reservations (Berry, 2012).
+Similarly, Native Pasifika people become an asterisk in the Asian Pacific Islander category and
+their politics/epistemologies/experiences are often subsumed under a pan-ethnic Asian-American
+master narrative. From a settler viewpoint that concerns itself with numerical inequality, e.g. the
+achievement gap, underrepresentation, and the 99%’s short share of the wealth of the metropole,
+the asterisk is an outlier, an outnumber. It is a token gesture, an inclusion and an enclosure of
+Native people into the politics of equity. These acts of inclusion assimilate Indigenous
+sovereignty, ways of knowing, and ways of being by remaking a collective-comprised tribal
+identity into an individualized ethnic identity.
+From a decolonizing perspective, the asterisk is a body count that does not account for
+Indigenous politics, educational concerns, and epistemologies. Urban land (indeed all land) is
+Native land. The vast majority of Native youth in North America live in urban settings. Any
+decolonizing urban education endeavor must address the foundations of urban land pedagogy
+and Indigenous politics vis-a-vis the settler colonial state. 
+  
+Moves 
+  to 
+  innocence 
+  VI: 
+  Re-­‐occupation 
+  and 
+  urban 
+  homesteading 
+  
+The Occupy movement for many economically marginalized people has been a welcome
+expression of resistance to the massive disparities in the distribution of wealth; for many
+Indigenous people, Occupy is another settler re-occupation on stolen land. The rhetoric of the
+movement relies upon problematic assumptions about social justice and is a prime example of
+the incommensurability between “re/occupy” and “decolonize” as political agendas. The pursuit
+of worker rights (and rights to work) and minoritized people’s rights in a settler colonial context
+can appear to be anti-capitalist, but this pursuit is nonetheless largely pro-colonial. That is, the
+ideal of “redistribution of wealth” camouflages how much of that wealth is land, Native land. In
+Occupy, the “99%” is invoked as a deserving supermajority, in contrast to the unearned wealth
+of the “1%”. It renders Indigenous peoples (a 0.9% ‘super-minority’) completely invisible and
+absorbed, just an asterisk group to be subsumed into the legion of occupiers.
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+
+Figure 1.1. If U.S. land were divided like U.S. wealth
+
+ 
+  
+
+For example, “If U.S. land were divided like U.S. wealth” (figure 1.1) is a popular graphic that
+was electronically circulated on the Internet in late 2011 in connection with the Occupy
+movement. The image reveals inherent assumptions about land, including: land is property; land
+is/belongs to the United States; land should be distributed democratically. The beliefs that land
+can be owned by people, and that occupation is a right, reflect a profoundly settling,
+anthropocentric, colonial view of the world.
+In figure 1.1, the irony of mapping of wealth onto land seems to escape most of those
+who re-posted the images on their social networking sites and blogs: Land is already wealth; it is
+already divided; and its distribution is the greatest indicator of racial inequality17. Indeed the
+current wealth crisis facing the 99% spiraled with the crash in home/land ownership. Land (not
+money) is actually the basis for U.S. wealth. If we took away land, there would be little wealth
+left to redistribute.
+Wealth, most significantly in the form of home ownership, supercedes income as an indicator of disparities
+between racial groups. See discussions on the wealth gap, home ownership, and racial inequality by Thomas Shapiro
+(2004), in The Hidden Cost of Being African American: How Wealth Perpetuates Inequality. 
+  
+
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+NATIVE LAND: 100%. RESERVATION LAND: 2.3%.
+Figure 1.2. If Native land were [is] divided like Native land
+Settler colonization can be visually understood as the unbroken pace of invasion, and
+settler occupation, into Native lands: the white space in figure 1.2. Decolonization, as a process,
+would repatriate land to Indigenous peoples, reversing the timeline of these images.
+As detailed by public intellectuals/bloggers such as Tequila Sovereign (Lenape scholar
+Joanne Barker), some Occupy sites, including Boston, Denver, Austin, and Albuquerque tried to
+engage in discussions about the problematic and colonial overtones of occupation (Barker,
+October 9, 2011). Barker blogs about a firsthand experience in bringing a proposal for a
+Memorandum of Solidarity with Indigenous Peoples,18 to the General Assembly in Occupy
+Oakland. The memorandum, signed by Corrina Gould, (Chochenyo Ohlone - the first peoples of
+Oakland/Ohlone), Barker, and numerous other Indigenous and non-Indigenous activist-scholars,
+called for the acknowledgement of Oakland as already occupied and on stolen land; of the
+ongoing defiance by Indigenous peoples in the U.S. and around the globe against imperialism,
+The memorandum can be found at http://www.indybay.org/newsitems/2011/10/29/18695950.php, last retrieved
+June 1, 2012. 
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+colonialism, and oppression; the need for genuine and respectful involvement of Indigenous
+peoples in the Occupy Oakland movement; and the aspiration to “Decolonize Oakland,” rather
+than re-occupy it. From Barker’s account of the responses from settler individuals to the
+memorandum,
+Ultimately, what they [settler participants in Occupy Oakland] were asking is
+whether or not we were asking them, as non-indigenous people, the impossible?
+Would their solidarity with us require them to give up their lands, their resources,
+their ways of life, so that we – who numbered so few, after all – could have more?
+Could have it all? (Barker, October 30, 2011)
+These responses, resistances by settler participants to the aspiration of decolonization in Occupy
+Oakland, illustrate the reluctance of some settlers to engage the prospect of decolonization
+beyond the metaphorical or figurative level. Further, they reveal the limitations to “solidarity,”
+without the willingness to acknowledge stolen land and how stolen land benefits settlers.
+“Genuine solidarity with indigenous peoples,” Barker continues, “assumes a basic understanding
+of how histories of colonization and imperialism have produced and still produce the legal and
+economic possibility for Oakland” (ibid., emphasis original).
+For social justice movements, like Occupy, to truly aspire to decolonization nonmetaphorically, they would impoverish, not enrich, the 99%+ settler population of United States.
+Decolonization eliminates settler property rights and settler sovereignty. It requires the abolition
+of land as property and upholds the sovereignty of Native land and people.
+There are important parallels between Occupy/Decolonize and the French/Haitian
+Revolutions of 1789-1799 and 1791-1804, respectively. Haiti has the dubious distinction of
+being “the poorest country in the Western hemisphere” (Central Intelligence Agency, 2012); yet,
+it was the richest of France’s colonies until the Haitian Revolution, the only slave revolution to
+ever found a state. This paradox can be explained by what/who counts as whose property. Under
+French colonialism, Haiti was a worth a fortune in enslaved human beings. From the French
+slave owners’ perspectives, Haitian independence abolished not slavery, but their property and a
+source of common-wealth. Unfortunately, history provides us with the exact figures on what
+their property was worth; in 1825, “France recognized Haitian independence by a treaty
+requiring Haiti to pay an indemnity of 150 million francs payable in 5 years to compensate
+absentee slaveowners for their losses” (Schuller, 2007, p.149). The magnitude19 of these
+150 million Francs was the equivalent of France’s annual budget (and Haiti’s population was less than 1% of
+France’s), 10 times all annual Haitian exports in 1825, equivalent to $21 billion in 2010 U.S. Dollars. By contrast
+France sold the Louisiana Purchase to the United States in 1803 for a net sum of 42 million Francs. The indemnity
+demand, delivered by 12 warships armed with 500 canons, “heralded a strategy of plunder” (Schuller, 2007, p.166),
+as a new technology in colonial reconquest. 
+  
+
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+reparations not for slavery, but to former slave owners, plunged Haiti into eternal debt20. Occupy
+draws almost directly from the values of the French Revolution: the Commons, the General
+Assembly, the natural right to property, and the resistance to the decolonization of Indigenous
+life/land. In 1789, the French Communes (Commons) declared themselves a National Assembly
+directly “of the People” (the 99%) against the representative assembly of “the Estates” (the 1%)
+set up by the ruling elite, and adopted the celebrated Declaration of the Rights of the Man and
+the Citizen. Not unlike the heated discussions at the December 4, 2011 General Assembly of
+Occupy Oakland that ultimately rejected the proposal to change the name to “Decolonize
+Oakland”, the 1789 National Assembly debated at great length over the language of
+emancipation in the Declaration. Ultimately, the Declaration abolished slavery but not property,
+and effectively stipulated that property trumped emancipation. While rhetorically declaring men
+as forever free and equal (and thus unenslavable), it assured the (revolutionary) colonial
+proprietors in the assembly that their chattel would be untouched, stating unequivocally: “The
+right to property being inviolable and sacred, no one ought to be deprived of it...” (Blackburn,
+2006, p. 650).
+Table 1.
+Outnumbers. Incommensurable.
+French Revolution 
+  
+
+99% French, 1% Slaves21 
+  
+
+Haitian Revolution 
+  
+
+90% Slaves, 10% Whites & Free Blacks 
+  
+
+Decolonizing the Americas means all land is repatriated and all settlers become landless.
+It is incommensurable with the redistribution of Native land/life as common-wealth.
+Table 2.
+Outnumbers. Incommensurable.
+Occupy 
+  
+
+99% Occupiers, 1% Owners 
+  
+
+Decolonize 
+  
+
+0.9% Indigenous22, 99.1% Settlers23 
+Haiti has literally been in debt from the moment it was recognized as a country. Haiti paid off its indemnity to
+France in 1937, but only through new indemnity with the United States. Ironically, in contemporary times, the Paris
+Club has power over Haiti’s debt, and thus maintains Haiti’s poverty. 
+At 28 million people, France was the 3rd most populous country in the world in 1789, after China and India.
+Haiti’s slave population in 1791 was approximately 452,000 - a fluctuating number as the slave mortality rate
+exceeded the birth rate, requiring a constant supply of newly enslaved Africans; and approximately 200,000 slaves
+died in the revolution. 1% refers to this number of enslaved people in Haiti relative to the French population, and
+does not include those enslaved in France or its other colonies. 
+According to the 2010 U.S. census, Native Americans comprise 0.9% of U.S. inhabitants. 
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+Our critique of Occupation is not just a critique of rhetoric. The call to “occupy
+everything” has legitimized a set of practices with problematic relationships to land and to
+Indigenous sovereignty. Urban homesteading, for example, is the practice of re-settling urban
+land in the fashion of self-styled pioneers in a mythical frontier. Not surprisingly, urban
+homesteading can also become a form of playing Indian, invoking Indigeneity as ‘tradition’ and
+claiming Indian-like spirituality while evading Indigenous sovereignty and the modern presence
+of actual urban Native peoples. More significant examples are Occupiers’ claims to land and
+their imposition of Western forms of governance within their tent cities/colonies. Claiming land
+for the Commons and asserting consensus as the rule of the Commons, erases existing, prior, and
+future Native land rights, decolonial leadership, and forms of self-government.
+Occupation is a move towards innocence that hides behind the numerical superiority of
+the settler nation, the elision of democracy with justice, and the logic that what became property
+under the 1% rightfully belongs to the other 99%.
+In contrast to the settler labor of occupying the commons, homesteading, and possession,
+some scholars have begun to consider the labor of de-occupation in the undercommons,
+permanent fugitivity, and dispossession as possibilities for a radical black praxis. Such “a labor
+that is dedicated to the reproduction of social dispossession as having an ethical dimension”
+(Moten & Harney, 2004, p.110), includes both the refusal of acquiring property and of being
+property
+
+Incommensurability 
+  is 
+  unsettling 
+  
+Having elaborated on settler moves to innocence, we give a synopsis of the imbrication of settler
+colonialism with transnationalist, abolitionist, and critical pedagogy movements - efforts that are
+often thought of as exempt from Indigenous decolonizing analyses - as a synthesis of how
+decolonization as material, not metaphor, unsettles the innocence of these movements. These are
+interruptions which destabilize, un-balance, and repatriate the very terms and assumptions of
+some of the most radical efforts to reimagine human power relations. We argue that the
+opportunities for solidarity lie in what is incommensurable rather than what is common across
+these efforts.
+We offer these perspectives on unsettling innocence because they are examples of what
+we might call an ethic of incommensurability, which recognizes what is distinct, what is
+sovereign for project(s) of decolonization in relation to human and civil rights based social
+justice projects. There are portions of these projects that simply cannot speak to one another,
+cannot be aligned or allied. We make these notations to highlight opportunities for what can
+only ever be strategic and contingent collaborations, and to indicate the reasons that lasting
+solidarities may be elusive, even undesirable. Below we point to unsettling themes that
+challenge the coalescence of social justice endeavors broadly assembled into three areas:
+Wayne would like to give special thanks to Jodi Byrd for pointing out this numerical irony. 
+  
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+Transnational or Third World decolonizations, Abolition, and Critical Space-Place Pedagogies.
+For each of these areas, we offer entry points into the literature - beginning a sort of bibliography
+of incommensurability.
+Third 
+  world 
+  decolonizations 
+  
+The anti-colonial turn towards the transnational can sometimes involve ignoring the settler
+colonial context where one resides and how that inhabitation is implicated in settler colonialism,
+in order to establish “global” solidarities that presumably suffer fewer complicities and
+complications. This deliberate not-seeing is morally convenient but avoids an important feature
+of the aforementioned selective collapsibility of settler colonial-nations states. Expressions such
+as “the Global South within the Global North” and “the Third World in the First World” neglect
+the Four Directions via a Flat Earth perspective and ambiguate First Nations with Third World
+migrants. For people writing on Third World decolonizations, but who do so upon Native land,
+we invite you to consider the permanent settler war as the theater for all imperial wars:
+● the Orientalism of Indigenous Americans (Berger, 2004; Marez, 2007)
+● discovery, invasion, occupation, and Commons as the claims of settler sovereignty (Ford,
+2010)
+● heteropatriarchy as the imposition of settler sexuality (Morgensen, 2011)
+● citizenship as coercive and forced assimilation into the white settler normative (Bruyneel,
+2004; Somerville, 2010)
+● religion as covenant for settler nation-state (A.J. Barker, 2009; Maldonado-Torres, 2008)
+● the frontier as the first and always the site of invasion and war (Byrd, 2011),
+● U.S. imperialism as the expansion of settler colonialism (ibid)
+● Asian settler colonialism (Fujikane, 2012; Fujikane, & Okamura, 2008, Saranillio, 2010a,
+2010b)
+● the frontier as the language of ‘progress’ and discovery (Maldonado-Torres, 2008)
+● rape as settler colonial structure (Deer, 2009; 2010)
+● the discourse of terrorism as the terror of Native retribution (Tuck & Ree, forthcoming)
+● Native Feminisms as incommensurable with other feminisms (Arvin, Tuck, Morrill,
+forthcoming; Goeman & Denetdale, 2009).
+Abolition 
+  
+The abolition of slavery often presumes the expansion of settlers who own Native land and life
+via inclusion of emancipated slaves and prisoners into the settler nation-state. As we have noted,
+it is no accident that the U.S. government promised 40 acres of Indian land as reparations for
+plantation slavery. Likewise, indentured European laborers were often awarded tracts of
+‘unsettled’ Indigenous land as payment at the end of their service (McCoy, forthcoming).
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+Communal ownership of land has figured centrally in various movements for autonomous, selfdetermined communities. “The land belongs to those who work it,” disturbingly parrots Lockean
+justifications for seizing Native land as property, ‘earned’ through one’s labor in clearing and
+cultivating ‘virgin’ land. For writers on the prison industrial complex, il/legality, and other forms
+of slavery, we urge you to consider how enslavement is a twofold procedure: removal from land
+and the creation of property (land and bodies). Thus, abolition is likewise twofold, requiring the
+repatriation of land and the abolition of property (land and bodies). Abolition means selfpossession but not object-possession, repatriation but not reparation:
+● “The animals of the world exist for their own reasons. They were not made for humans
+any more than black people were made for white, or women created for men” (Alice
+Walker, describing the work of Marjorie Spiegel, in the in the preface to Spigel’s 1988
+book, The Dreaded Comparison).
+● Enslavement/removal of Native Americans (Gallay, 2009)
+● Slaves who become slave-owners, savagery as enslavability, chattel slavery as a sign of
+civilization (Gallay, 2009)
+● Black fugitivity, undercommons, and radical dispossession (Moten, 2008; Moten &
+Harney, 2004; Moten & Harney, 2010)
+● Incarceration as a settler colonialism strategy of land dispossession (Ross, 1998; Watson,
+2007)
+● Native land and Native people as co-constituitive (Meyer, 2008; Kawagley, 2010)
+Critical 
+  pedagogies 
+  
+The many critical pedagogies that engage emancipatory education, place based education,
+environmental education, critical multiculturalism, and urban education often position land as
+public Commons or seek commonalities between struggles. Although we believe that “we must
+be fluent” in each other’s stories and struggles (paraphrasing Alexander, 2002, p.91), we detect
+precisely this lack of fluency in land and Indigenous sovereignty. Yupiaq scholar, Oscar
+Kawagley’s assertion, “We know that Mother Nature has a culture, and it is a Native culture”
+(2010, p. xiii), directs us to think through land as “more than a site upon which humans make
+history or as a location that accumulates history” (Goeman, 2008, p.24). The forthcoming special
+issue in Environmental Education Research, “Land Education: Indigenous, postcolonial, and
+decolonizing perspectives on place and environmental education research” might be a good
+starting point to consider the incommensurability of place-based, environmentalist, urban
+pedagogies with land education.
+● The urban as Indigenous (Bang, 2009; Belin, 1999; Friedel, 2011; Goeman, 2008;
+Intertribal Friendship House & Lobo, 2002)
+● Indigenous storied land as disrupting settler maps (Goeman, 2008)
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+●
+●
+●
+●
+●
+
+Novels, poetry, and essays by Greg Sarris, Craig Womack, Joy Harjo, Gerald Vizenor
+To Remain an Indian (Lomawaima & McCarty, 2006)
+Shadow Curriculum (Richardson, 2011)
+Red Pedagogy (Grande, 2004)
+Land Education (McCoy, Tuck, McKenzie, forthcoming)
+
+More 
+  on 
+  incommensurability 
+  
+Incommensurability is an acknowledgement that decolonization will require a change in the
+order of the world (Fanon, 1963). This is not to say that Indigenous peoples or Black and brown
+peoples take positions of dominance over white settlers; the goal is not for everyone to merely
+swap spots on the settler-colonial triad, to take another turn on the merry-go-round. The goal is
+to break the relentless structuring of the triad - a break and not a compromise (Memmi, 1991).
+Breaking the settler colonial triad, in direct terms, means repatriating land to sovereign
+Native tribes and nations, abolition of slavery in its contemporary forms, and the dismantling of
+the imperial metropole. Decolonization “here” is intimately connected to anti-imperialism
+elsewhere. However, decolonial struggles here/there are not parallel, not shared equally, nor do
+they bring neat closure to the concerns of all involved - particularly not for settlers.
+Decolonization is not equivocal to other anti-colonial struggles. It is incommensurable.
+There is so much that is incommensurable, so many overlaps that can’t be figured, that
+cannot be resolved. Settler colonialism fuels imperialism all around the globe. Oil is the motor
+and motive for war and so was salt, so will be water. Settler sovereignty over these very pieces of
+earth, air, and water is what makes possible these imperialisms. The same yellow pollen in the
+water of the Laguna Pueblo reservation in New Mexico, Leslie Marmon Silko reminds us, is the
+same uranium that annihilated over 200,000 strangers in 2 flashes. The same yellow pollen that
+poisons the land from where it came. Used in the same war that took a generation of young
+Pueblo men. Through the voice of her character Betonie, Silko writes, “Thirty thousand years
+ago they were not strangers. You saw what the evil had done; you saw the witchery ranging as
+wide as the world" (Silko, 1982, p. 174). In Tucson, Arizona, where Silko lives, her books are
+now banned in schools. Only curricular materials affirming the settler innocence, ingenuity, and
+right to America may be taught.
+In “No”, her response to the 2003 United States invasion of Iraq, Mvskoke/Creek poet
+Joy Harjo (2004) writes, “Yes, that was me you saw shaking with bravery, with a government
+issued rifle on my back. I’m sorry I could not greet you, as you deserved, my relative.” Don’t
+Native Americans participate in greater rates in the military? asks the young-ish man from Viet
+Nam.
+“Indian Country” was/is the term used in Viet Nam, Afghanistan, Iraq by the U.S.
+military for ‘enemy territory’. The first Black American President said without blinking, “There
+was a point before folks had left, before we had gotten everybody back on the helicopter and
+were flying back to base, where they said Geronimo has been killed, and Geronimo was the code
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+name for bin Laden.” Elmer Pratt, Black Panther leader, falsely imprisoned for 27 years, was a
+Vietnam Veteran, was nicknamed ‘Geronimo’. Geronimo is settler nickname for the Bedonkohe
+Apache warrior who fought Mexican and then U.S. expansion into Apache tribal lands. The Colt
+.45 was perfected to kill Indigenous people during the ‘liberation’ of what became the
+Philippines, but it was first invented for the ‘Indian Wars’ in North America alongside The
+Hotchkiss Canon- a gattling gun that shot canonballs. The technologies of the permanent settler
+war are reserviced for foreign wars, including boarding schools, colonial schools, urban schools
+run by military personnel.
+It is properly called Indian Country.
+
+Figure 1.3. Hotchkiss Revolving Cannon
+Ideologies of US settler colonialism directly informed Australian settler colonialism.
+South African apartheid townships, the kill-zones in what became the Philippine colony, then
+nation-state, the checkerboarding of Palestinian land with checkpoints, were modeled after U.S.
+seizures of land and containments of Indian bodies to reservations. The racial science developed
+in the U.S. (a settler colonial racial science) informed Hitler’s designs on racial purity (“This
+book is my bible” he said of Madison Grant’s The Passing of the Great Race). The admiration is
+sometimes mutual, the doctors and administrators of forced sterilizations of black, Native,
+disabled, poor, and mostly female people - The Sterilization Act accompanied the Racial
+Integrity Act and the Pocohontas Exception - praised the Nazi eugenics program. Forced
+sterilizations became illegal in California in 1964. The management technologies of North
+American settler colonialism have provided the tools for internal colonialisms elsewhere.
+So to with philosophies of state and corporate land-grabbing24. The prominence of “flat
+world” perspectives asserts that technology has afforded a diminished significance of place and
+borders. The claim is that U.S. borders have become more flexible, yet simultaneously, the
+physical border has become more absolute and enforced. The border is no longer just a line
+suturing two nation-states; the U.S. now polices its borders interior to its territory and exercises
+See also Arundhati Roy (2012) in Capitalism: A Ghost Story 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+sovereignty throughout the globe. Just as sovereignty has expanded, so has settler colonialism in
+partial forms.
+New Orleans’ lower ninth ward lies at the confluence of river channels and gulf waters,
+and at the intersection of land grabbing and human bondage. The collapsing of levies heralded
+the selective collapsibility of native-slave, again, for the purpose of reinvasion, resettlement,
+reinhabitation. The naturalized disaster of Hurricane Katrina’s floodwaters laid the perfect
+cover for land speculation and the ablution of excess people. What can’t be absorbed, can’t be
+folded in (because the settlers won't give up THEIR land to advance abolition), translates into
+bodies stacked on top of one another in public housing and prisons, in cells, kept from the labor
+market, making labor for others (guards and other corrections personnel) making money for
+states -human homesteading. It necessitates the manufacturing of crime at rates higher than
+anywhere in the world. 1 in 6 people in the state of Louisiana are incarcerated, the highest
+number of caged people per capita, making it the prison capital of United States, and therefore
+the prison capital of the world.
+Table 3
+Prison capital of the world25.
+Louisiana
+United States
+Russia
+Iran
+China
+Afghanistan
+
+Prisoners per 100,000 residents
+1,619
+450
+122
+The Yazoo and Mississippi Rivers’ delta flood plain was once land so fertile that it could
+be squeezed for excess production of cotton, giving rise to exceptionally large-scale plantation
+slavery. Plantation owners lived in houses like pyramids and chattel slavery took an extreme
+form here, even for the South, beginning with enslaved Chitimachas, Choctaw, Natchez,
+Chaoüachas, Natchez, Westo, Yamasee, Euchee, Yazoo and Tawasa peoples, then later replaced
+by enslaved West Africans. Literally, worked to death. This “most Southern on earth”(Cobb,
+1992) was a place of ultimate terror for Black people even under slavery (the worst place to be
+sold off too, the place of no return, the place of premature death). Black and Native people alike
+were induced to raid and enslave Native tribes, as a bargain for their own freedom or to defer
+their own enslavibility by the British, French, and then American settlers. Abolition has its
+incommensurabilities.
+The Delta is now more segregated than it was during Jim Crow in 1950 (Aiken, 1990).
+The rising number of impoverished, all black townships is the result of mechanization of
+Source: Chang (2012).
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+agriculture and a fundamental settler covenant that keeps black people landless. When black
+labor is unlabored, the Black person underneath is the excess.
+Angola Farm is perhaps the more notorious of the two State Penitentiaries along the
+Mississippi River. Three hundred miles upriver in the upper Delta region is Parchment Farm.
+Both State Penitentiaries (Mississippi and Louisana, respectively), both former slave plantations,
+both turned convict-leasing farms almost immediately after the Civil War by genius land
+speculators-cum-prison wardens. After the Union victory in the Civil War ‘abolished’ slavery,
+former Confederate Major, Samuel Lawrence James, obtained the lease to the Louisiana State
+Penn in 1869, and then bought Angola Farm in 1880 as land to put his chattel to work.
+
+ 
+  
+
+Figure 1.4. “The Cage: where convicts are herded like beasts of the jungle. The pan under it is
+the toilet receptacle. The stench from it hangs like a pall over the whole area” John Spivak,
+Georgia N_____, 1932.
+Cages on wheels. To mobilize labor on land by landless people whose crime was mobility
+on land they did not own. The largest human trafficker in the world is the carceral state within
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+the United States, not some secret Thai triad or Russian mafia or Chinese smuggler. The U.S.
+carceral state is properly called neo-slavery, precisely because it is legal. It is not simply a
+product of exceptional racism in the U.S.; its racism is a direct function of the settler colonial
+mandate of land and people as property.
+Black Codes made vagrancy - i.e. landlessness - illegal in the Antebellum South, making
+the self-possessed yet dispossessed Black body a crime (similar logic allowed for the seizure,
+imprisonment and indenture of any Indian by any person in California until 1937, based on the
+ideology that Indians are simultaneously landless and land-like). Dennis Childs writes “the slave
+ship and the plantation” and not Bentham’s panopticon as presented by Foucault, “operated as
+spatial, racial, and economic templates for subsequent models of coerced labor and human
+warehousing - as America’s original prison industrial complex” (2009, p.288). Geopolitics and
+biopolitics are completely knotted together in a settler colonial context.
+Despite the rise of publicly traded prisons, Farms are not fundamentally capitalist
+ventures; at their core, they are colonial contract institutions much like Spanish Missions, Indian
+Boarding Schools, and ghetto school systems26. The labor to cage black bodies is paid for by the
+state and then land is granted, worked by convict labor, to generate additional profits for the
+prison proprietors. However, it is the management of excess presence on the land, not the forced
+labor, that is the main object of slavery under settler colonialism.
+Today, 85% of people incarcerated at Angola, die there.
+
+Conclusion 
+  
+An ethic of incommensurability, which guides moves that unsettle innocence, stands in contrast
+to aims of reconciliation, which motivate settler moves to innocence. Reconciliation is about
+rescuing settler normalcy, about rescuing a settler future. Reconciliation is concerned with
+questions of what will decolonization look like? What will happen after abolition? What will be
+the consequences of decolonization for the settler? Incommensurability acknowledges that these
+questions need not, and perhaps cannot, be answered in order for decolonization to exist as a
+framework.
+We want to say, first, that decolonization is not obliged to answer those questions decolonization is not accountable to settlers, or settler futurity. Decolonization is accountable to
+Indigenous sovereignty and futurity. Still, we acknowledge the questions of those wary
+participants in Occupy Oakland and other settlers who want to know what decolonization will
+require of them. The answers are not fully in view and can’t be as long as decolonization
+remains punctuated by metaphor. The answers will not emerge from friendly understanding, and
+indeed require a dangerous understanding of uncommonality that un-coalesces coalition politics moves that may feel very unfriendly. But we will find out the answers as we get there, “in the
+As we write today, Louisiana has moved to privatize all of its public schools
+http://www.huffingtonpost.com/2012/06/01/louisiana-makes-bold-bid-_n_1563900.html
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+exact measure that we can discern the movements which give [decolonization] historical form
+and content” (Fanon, 1963, p. 36).
+To fully enact an ethic of incommensurability means relinquishing settler futurity,
+abandoning the hope that settlers may one day be commensurable to Native peoples. It means
+removing the asterisks, periods, commas, apostrophes, the whereas’s, buts, and conditional
+clauses that punctuate decolonization and underwrite settler innocence. The Native futures, the
+lives to be lived once the settler nation is gone - these are the unwritten possibilities made
+possible by an ethic of incommensurability.
+when you take away the punctuation
+he says of
+lines lifted from the documents about
+military-occupied land
+its acreage and location
+you take away its finality
+opening the possibility of other futures
+-Craig Santos Perez, Chamoru scholar and poet
+(as quoted by Voeltz, 2012)
+Decolonization offers a different perspective to human and civil rights based approaches to
+justice, an unsettling one, rather than a complementary one. Decolonization is not an “and”. It is
+an elsewhere.
+
+References 
+  
+Ahmed, S. (2000). Strange encounters: Embodied others in postcoloniality. New York:
+Routledge.
+Aiken, C. S. (1990). A new type of black ghetto in the plantation South. Annals of the
+Association of American Geographers, 80(2), 223-246.
+Alexander, J. (2002) Remembering this bridge, remembering ourselves. In G. Anzaldúa & A.
+Keating (Eds.), This place we call home: Radical visions for transformation (pp. 81-103).
+New York: Routledge.
+Anderson, B. (1991). Imagined communities: Reflections on the origin and spread of
+nationalism. London: Verso.
+Arvin, M., Tuck, E., and Morrill, A. (forthcoming). Decolonizing feminism: Challenging
+connections between settler colonialism and heteropatriarchy. Feminist Formations.
+Bang, M. (2009). Understanding students' epistemologies: Examining practice and meaning in
+community contexts. Unpublished Doctoral Dissertation, Northwestern University.
+
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+Barker, A.J. (2009). The contemporary reality of Canadian imperialism, settler colonialism, and
+the hybrid colonial state. The American Indian Quarterly, 33(3), 325-351.
+Barker, J. (2011). What does ‘Decolonize Oakland’ mean? What can ‘Decolonize Oakland’
+mean? Tequila Sovereign. Available at: http://tequilasovereign.blogspot.ca/2011/10/whatdoes-decolonize-oakland-mean-what.html
+Belin, E. G. (1999). Blues-ing on the brown vibe. In From the belly of my beauty: Poems (pp. 36). Tucson: University of Arizona Press.
+Berger, B.R. (2004). Indian policy and the imagined Indian woman. Kansas Journal of Law and
+Public Policy, 14, 103-115.
+Blackburn, R. (2006). Haiti, slavery, and the age of the democratic revolution. The William and
+Mary Quarterly, 63(4), 643-674.
+Bruyneel, K. (2007). The third space of sovereignty: The postcolonial politics of U.S.-Indigenous
+relations. Minneapolis, MN: University of Minnesota Press.
+Bruyneel, K. (2004). Challenging American boundaries: Indigenous people and the "gift" of U.S.
+citizenship. Studies in American Political Development, 18, 30-43.
+Butterfield, L. H. (January 01, 1954). Cooper's inheritance: The Otsego country and its founders.
+New York History, 35, 374-411.
+Byrd, J. A. (2011). The transit of empire: Indigenous critiques of colonialism. Minneapolis:
+University of Minnesota Press.
+Central Intelligence Agency. (May 12, 2012). Haiti. The World Factbook. Accessed on June 4,
+2012, from https://www.cia.gov/library/publications/the-world-factbook/geos/ha.html
+Césaire, A. (2000). Discourse on colonialism. New York: Monthly Review Press.
+Chang, C. (May 13, 2012). Louisiana is the world's prison capital. The Time-Picayune.
+Nola.com. Accessed on August 23, 2012 at
+http://www.nola.com/crime/index.ssf/2012/05/louisiana_is_the_worlds_prison.html
+Childs, D. (2009). "You ain't seen nothin' yet": Beloved, the American chain gang, and the
+Middle Passage remix. American Quarterly, 61(2), 271-297.
+Cobb, J. C. (1992). The most southern place on earth: The Mississippi Delta and the roots of
+regional identity. New York: Oxford University Press.
+Cooper, J. F. (2000). The last of the Mohicans: Volume 2. Charlottesville, VA: University of
+Virginia.
+Deer, S. (2010). Relocation revisited: Sex trafficking of Native women in the United States.
+William Mitchell Law Review, 36(2), 621-683.
+Deer, S. (2009). Decolonizing rape law: A Native feminist synthesis of safety and sovereignty.
+Wicazo Sa Review, 24(2), 149-167.
+Deloria, Jr. V. (1988). Custer died for your sins: An Indian manifesto. Norman, OK: University
+of Oklahoma Press.
+Deloria, P. (1998). Playing Indian. New Haven, CT: Yale University Press.
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+Etymoline. (2001). Equivocation. Douglas Harper. Accessed June 4, 2012, from
+http://www.etymonline.com/index.php?term=equivocation
+Fanon, F. (1963). The wretched of the earth. New York: Grove Press.
+Fellows, M. L. and Razack, S. (1998). The race to innocence: Confronting hierarchical relations
+among women. The Journal of Gender, Race & Justice, 1(4), 335- 555.
+Fiske, W. (August 18, 2004). The black-and-white world of Walter Ashby Plecker.
+Hamptonroads.com. Accessed on June 4, 2012
+http://hamptonroads.com/2004/08/blackandwhite-world-walter-ashby-plecker
+Ford, L. (2010). Settler sovereignty: Jurisdiction and indigenous people in America and
+Australia, 1788-1836. Cambridge, Mass: Harvard University Press.
+Freire, P. (2000). Pedagogy of the oppressed. New York: Continuum.
+Friedel, T. L. (2011). Looking for learning in all the wrong places: Urban Native youths' cultured
+response to Western-oriented place-based learning. International Journal of Qualitative
+Studies in Education, 24(5), 531-546.
+Fujikane, C. (2012). Asian American critique and Moana Nui 2011: securing a future beyond
+empires, militarized capitalism and APEC. Inter-asia Cultural Studies, 13(2), 189-210.
+Fujikane, C. & Okamura, J. Y. (2008). Asian settler colonialism: From local governance to the
+habits of everyday life in Hawai'i. Honolulu: University of Hawai'i Press.
+Gallay, A. (2009). Indian slavery in colonial America. Lincoln: University of Nebraska Press.
+Gaynor, T. (29 February 2012) Navajo file trademark suit against Urban Outfitters. Reuters.
+Last accessed June 3, 2012 http://www.reuters.com/article/2012/02/29/us-navajourbanoutfitters-idUSTRE81S2IT20120229
+Goeman, M. (2008). From place to territories and back again: Centering storied land in the
+discussion of Indigenous nation-building. International Journal of Critical Indigenous
+Studies, 1(1), 23-34.
+Goeman, M. R., & Denetdale, J. R. (Eds.). (2009). Native feminisms: Legacies, interventions,
+and Indigenous sovereignties [Special Issue]. Wicazo Sa Review, 24(2), 9-187.
+Grande, S. (2004). Red pedagogy: Native American social and political thought. Lanham, Md:
+Rowman & Littlefield Publishers.
+Harjo, J. (2004). No. Accessed Aug. 1, 2012 at: http://www.joyharjo.com/news/2004/09/no.html
+Hastings, A.W. (2007). L. Frank Baum’s editorials on Sioux Nation. Available at:
+http://web.archive.org/web/20071209193251/http://www.northern.edu/hastingw/baumedt
+s.htm
+Highest Common Denominator Media Group. (2009). The farm, 10 down. [DVD]. Highest
+Common Denominator Media Group.
+Intertribal Friendship House (Oakland, Calif.), & Lobo, S. (2002). Urban voices: The Bay Area
+American Indian community. Tucson, Ariz: University of Arizona Press.
+Jacobs, A. (2009). Undoing the harm of white supremacy. Masters Thesis, The Gallatin School,
+New York University.
+
+ 
+  
+
+ 
+  
+
+Decolonization 
+  is 
+  not 
+  a 
+  metaphor 
+Kawagley, A. O. (2010). Foreword. In R. Barnhardt & A.O. Kawagley, (Eds.) Alaska Native
+education: Views from within. Fairbanks, AK: Alaska Native Knowledge Network,
+University of Alaska Fairbanks.
+Latour, F. (June 1, 2012). The myth of Native American blood. Boston.com, Last accessed June
+4, 2012 at
+http://www.boston.com/community/blogs/hyphenated_life/2012/06/the_myth_of_native_
+american_bl.html
+Lee, T. S. (2011). Teaching Native youth, teaching about Native Peoples: Shifting the paradigm
+to socioculturally responsive education. In A.F. Ball & C. A. Tyson (Eds.), Studying
+diversity in teacher education (pp. 275-293). Lanham, Maryland: Towman & Littlefield
+Publishing Group, Inc.
+Lomawaima, K. T. & McCarty, T. L. (2006). To Remain an Indian: Lessons in democracy from
+a century of Native American education. New York: Teachers College Press.
+Lorde, A. (1984). Sister outsider: Essays and speeches. Trumansburg, NY: Crossing Press.
+Maldonado, T. N. (2008). Against war: Views from the underside of modernity. Durham: Duke
+University Press.
+Marez, C. (2007). Looking beyond property: North Americans and photography. Rikkyo
+American Studies, 29, 9-28. Available at:
+http://www.rikkyo.ac.jp/research/laboratory/IAS/ras/29/marez.pdf
+Mawhinney, J. (1998). 'Giving up the ghost': Disrupting the (re)production of white privilege in
+anti-racist pedagogy and organizational change. Masters Thesis, Ontatio Institutue for
+Studies in Education of the University of Toronto. Available at:
+http://www.collectionscanada.gc.ca/obj/s4/f2/dsk2/tape15/PQDD_0008/MQ33991.pdf
+McCoy, K., Tuck, E., & McKenzie, M. (forthcoming). Land education: Indigenous,
+postcolonial, and decolonizing perspectives on place and environmental education
+research. Special Issue of Environmental Education Research.
+Memmi, A. (1991). The colonizer and the colonized. Boston, MA: Beacon Press.
+Meyer, M. A. (2008). Indigenous and authentic: Hawaiian epistemology and the triangulation of
+meaning. In N. K. Denzin, Y. S. Lincoln, & L. T. Smith (Eds.), Handbook of critical and
+Indigenous methodologies (pp. 217-232). Los Angeles: Sage.
+Morgensen, S. L. (2011). Spaces between us: Queer settler colonialism and indigenous
+decolonization. Minneapolis: University of Minnesota Press.
+Moten, F. (2008). Black op. PMLA, 123(5), 1743-1747. Available at:
+http://www.mlajournals.org/doi/pdf/10.1632/pmla.2008.123.5.1743
+Moten, F., & Harney, S. (2004). The university and the undercommons: Seven theses. Social
+Text, 79, 101-116.
+Moten, F., & Harney, S. (2010). Debt and Study. E-flux, 14, 1-5. Available at: http://worker01.eflux.com/pdf/article_119.pdf
+Neegangwedgin, E. (2012). Chattling the Indigenous other: A historical examination of the
+enslavement of Aboriginal Peoples in Canada. AlterNative, 8(1).
+  E. 
+  Tuck 
+  & 
+  K.W. 
+  Yang 
+  
+ 
+  
+Razack, S. (Ed.). (2002). Race, space, and the law. Toronto, Ont. Canada: Between the Lines.
+Razack, S. (2007), Stealing the pain of others: Reflections on Canadian humanitarian responses.
+The Review of Education, Pedagogy and Culture Studies, 29, 375-394.
+Richardson, T. (2011). Navigating the problem of inclusion as enclosure in Native culture-based
+education: Theorizing shadow curriculum. Curriculum Inquiry, 41(3), 332-349.
+Ross, L. (1998). Inventing the savage: The social construction of Native American criminality.
+Austin: University of Texas Press.
+Roy, A. (2012, March 26). Capitalism: A ghost story. Outlook India Magazine, online. Last
+Accessed June 3, 2012 at
+http://www.outlookindia.com/article.aspx?280234#.T2pIet94UTk
+Said, E. (1978). Orientalism. New York: Pantheon Books.
+Saranillio, D.I. (2010a). Kēwaikaliko's Benocide: Reversing the Imperial Gaze of Rice v.
+Cayetano and its Legal Progeny. American Quarterly, 62(3), 457-476.
+Saranillio, D.I. (2010b). Colliding histories: Hawai‘i statehood at the intersection of Asians
+“ineligible to citizenship” and Hawaiians “unfit for self-government”. Journal of Asian
+American Studies, 13(3), 283-309.
+Schuller, M. (2007). Haiti's 200-year ménage-à-trois: Globalization, the state, and civil society.
+Caribbean Studies, 35(1), 141-179.
+Shapiro, T. M. (2004). The hidden cost of being African American: How wealth perpetuates
+inequality. New York: Oxford University Press.
+Silko, L. M. (1982). Ceremony. New York: Penguin.
+Silva, D. F. (2007). Toward a global idea of race. Minneapolis: University of Minnesota Press.
+Somerville, S. (2011, April 4). Staging citizenship: Race and the queer history of naturalization
+in the U.S. Lecture given at UC Berkeley, April 4, 2011.
+Spiegel, M. (1988). The dreaded comparison: Human and animal slavery. Mirror Books.
+Spivak, G.C. 1985. Scattered speculations on the question of value. Diacritics, 15(4), 73–93.
+Tuck, E. & Ree, C. (forthcoming). A Glossary of haunting. In S. Holman-Jones, T. Adams & C.
+Ellis (Eds), Handbook of Autoethnography. SAGE Publications.
+Villegas, M. (11 April 2012). Data quality as an essential element of sovereignty: Education
+researchers linking hands with policymakers. Paper presented at the Hands Forward:
+Sharing Indigenous Intellectual Traditions Conference, University of British Columbia,
+Vancouver, Canada.
+Voeltz, F. (April 25, 2012). Body of work / when you take away punctuation. detail collector.
+Accessed on June 4, 2012, at http://frantelope.wordpress.com/2012/04/25/body-of-workwhen-you-take-away-punctuation/
+Watson, I. (2007). Settled and unsettled spaces: Are we free to roam? In A. Moreton-Robinson
+(Ed.), Sovereign subjects: Indigenous sovereignty matters (pp. 15-32). Crows Nest,
+NSW: Allen and Unwin, Australia.
+Wolfe, P. (2007). Settler colonialism and the elimination of the native. Journal of Genocide
+Research, 8(4), 387-409.
