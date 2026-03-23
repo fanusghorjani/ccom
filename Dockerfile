@@ -54,7 +54,10 @@ RUN pip install --no-cache-dir \
 # Custom additional packages
 RUN pip install --no-cache-dir \
     faiss-cpu \
-    sentence-transformers
+    sentence-transformers \
+    torch \
+    numpy \
+    tqdm
 
 # User/Group Setup (DS01 - baked into image to avoid docker commit at container creation)
 ARG DS01_USER_ID
