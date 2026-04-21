@@ -20,11 +20,12 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple
 
-# -----------------------------
-# Frozen experiment parameters.
-# Keep these constant for reproducibility across Condition 1 runs.
-# -----------------------------
-SYSTEM_PROMPT = "You are a helpful assistant. Answer clearly and concretely."
+# We keep these constant for reproduceibility across Condition 1 runs.
+# ----
+SYSTEM_PROMPT = (
+    "You are a helpful assistant. Answer clearly and concretely."  # Warum dieser prompt?
+)
+
 TEMPERATURE = 0.2
 TOP_P = 0.9
 MAX_NEW_TOKENS = 350
@@ -83,44 +84,6 @@ class OllamaBackend(GenerationBackend):
         return data["message"]["content"].strip()
 
 
-class OpenAICompatibleBackend(GenerationBackend):
-    """Backend for OpenAI API or any OpenAI-compatible chat endpoint.
-
-    Supports:
-    - OpenAI API (`https://api.openai.com/v1`)
-    - llama.cpp server in OpenAI-compatible mode
-    - vLLM / LM Studio / other compatible servers
-    """
-
-    def __init__(self, model: str, base_url: str, api_key: str):
-        self.model = model
-        self.base_url = base_url.rstrip("/")
-        self.api_key = api_key
-
-    def model_name(self) -> str:
-        return self.model
-
-    def generate(self, question: str, settings: GenSettings) -> str:
-        payload = {
-            "model": self.model,
-            "messages": [
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": question},
-            ],
-            "temperature": settings.temperature,
-            "top_p": settings.top_p,
-            "max_tokens": settings.max_new_tokens,
-            # Kept fixed; ignored by providers that do not support deterministic seed.
-            "seed": settings.seed,
-        }
-        headers = {
-            "Authorization": f"Bearer {self.api_key}",
-            "Content-Type": "application/json",
-        }
-        data = _post_json(f"{self.base_url}/chat/completions", payload, headers=headers)
-        return data["choices"][0]["message"]["content"].strip()
-
-
 def _post_json(url: str, payload: Dict, headers: Optional[Dict[str, str]] = None) -> Dict:
     body = json.dumps(payload).encode("utf-8")
     request_headers = {"Content-Type": "application/json"}
@@ -172,7 +135,7 @@ def iter_generate(
             try:
                 answer = backend.generate(question=question, settings=settings)
                 break
-            except Exception as exc:  # noqa: BLE001
+            except Exception as exc:
                 last_error = f"{type(exc).__name__}: {exc}"
                 if attempt <= retries:
                     jitter = random.uniform(0, 0.25)
@@ -235,20 +198,9 @@ def write_errors_jsonl(path: Path, errors: List[Dict[str, str]]) -> None:
 
 
 def build_backend(args: argparse.Namespace) -> GenerationBackend:
-    if args.backend == "ollama":
-        model = args.model or os.getenv("OLLAMA_MODEL", "mistral:latest")
-        base_url = args.base_url or os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434")
-        return OllamaBackend(model=model, base_url=base_url)
-
-    if args.backend == "openai_compatible":
-        model = args.model or os.getenv("LLM_MODEL") or "gpt-4o-mini"
-        base_url = args.base_url or os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1")
-        api_key = args.api_key or os.getenv("OPENAI_API_KEY")
-        if not api_key:
-            raise ValueError("OPENAI_API_KEY is required for backend=openai_compatible")
-        return OpenAICompatibleBackend(model=model, base_url=base_url, api_key=api_key)
-
-    raise ValueError(f"Unsupported backend: {args.backend}")
+    model = args.model or os.getenv("OLLAMA_MODEL", "mistral:latest")
+    base_url = args.base_url or os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434")
+    return OllamaBackend(model=model, base_url=base_url)
 
 
 def parse_args() -> argparse.Namespace:
@@ -263,13 +215,12 @@ def parse_args() -> argparse.Namespace:
     )
     p.add_argument(
         "--backend",
-        choices=["ollama", "openai_compatible"],
+        choices=["ollama"],
         default="ollama",
         help="LLM backend type",
     )
     p.add_argument("--model", default=None, help="Model name for chosen backend")
     p.add_argument("--base-url", default=None, help="Override backend base URL")
-    p.add_argument("--api-key", default=None, help="API key (for openai_compatible backend)")
     p.add_argument("--retries", type=int, default=2, help="Retries after first failed request")
     p.add_argument("--retry-delay", type=float, default=1.5, help="Base delay between retries")
     return p.parse_args()

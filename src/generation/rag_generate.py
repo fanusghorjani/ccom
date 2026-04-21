@@ -134,6 +134,7 @@ def load_chunk_texts(path: Path) -> List[str]:
         return [json.loads(line)["text"] for line in f if line.strip()]
 
 
+# was passiert hier konzeptuell?
 def retrieve_topk(
     query: str,
     top_k: int,
@@ -178,7 +179,9 @@ def build_rag_user_prompt(question: str, retrieved: Sequence[RetrievedChunk]) ->
     ]
 
     for c in retrieved:
-        lines.append(f"[{c.rank}] doc_id={c.doc_id} chunk_id={c.chunk_id} score={c.score:.6f}")
+        lines.append(
+            f"[{c.rank}] doc_id={c.doc_id} chunk_id={c.chunk_id} score={c.score:.6f}"
+        )
         lines.append(c.text)
         lines.append("")
 
@@ -204,7 +207,9 @@ def iter_generate_rag(
     for item in queries:
         qid = item["qid"]
         question = item["query"]
-        timestamp_utc = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
+        timestamp_utc = (
+            dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
+        )
 
         retrieved = retrieve_topk(
             query=question,
@@ -222,7 +227,7 @@ def iter_generate_rag(
             try:
                 answer = backend.generate(user_content=user_prompt, settings=settings)
                 break
-            except Exception as exc:  # noqa: BLE001
+            except Exception as exc:
                 last_error = f"{type(exc).__name__}: {exc}"
                 if attempt <= retries:
                     jitter = random.uniform(0, 0.25)
