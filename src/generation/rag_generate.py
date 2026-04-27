@@ -24,10 +24,9 @@ import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
 
-# -----------------------------
-# Frozen experiment parameters.
+
 # Keep these constant for reproducibility across Condition 2 runs.
-# -----------------------------
+
 SYSTEM_PROMPT = "You are a helpful assistant. Answer clearly and concretely."
 TEMPERATURE = 0.2
 TOP_P = 0.9
@@ -133,7 +132,6 @@ def load_chunk_texts(path: Path) -> List[str]:
         return [json.loads(line)["text"] for line in f if line.strip()]
 
 
-# was passiert hier konzeptuell?
 def retrieve_topk(
     query: str,
     top_k: int,

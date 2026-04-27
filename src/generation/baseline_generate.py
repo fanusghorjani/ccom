@@ -21,9 +21,8 @@ from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple
 
 # We keep these constant for reproduceibility across Condition 1 runs.
-# ----
 SYSTEM_PROMPT = (
-    "You are a helpful assistant. Answer clearly and concretely."  # Warum dieser prompt?
+    "You are a helpful assistant. Answer clearly and concretely."
 )
 
 TEMPERATURE = 0.2

@@ -12,9 +12,7 @@ def create_theory_tech_diagram():
     ax.set_ylim(0, 1)
     ax.axis("off")
 
-    # --------------------
     # Colors
-    # --------------------
     neutral_fill = "#F7F7F7"
     neutral_edge = "#333333"
 
@@ -24,9 +22,7 @@ def create_theory_tech_diagram():
     muted = "#666666"
     text = "#111111"
 
-    # --------------------
     # Helpers
-    # --------------------
     def add_box(x, y, w, h, title, subtitle, edge_color=neutral_edge):
         box = FancyBboxPatch(
             (x, y), w, h,
@@ -80,9 +76,7 @@ def create_theory_tech_diagram():
             color=color,
         )
 
-    # --------------------
     # Title
-    # --------------------
     ax.text(
         0.5,
         0.94,
@@ -104,9 +98,7 @@ def create_theory_tech_diagram():
         color=muted,
     )
 
-    # --------------------
     # Pipeline
-    # --------------------
     x = 0.30
     w = 0.36
     h = 0.065
@@ -143,9 +135,7 @@ def create_theory_tech_diagram():
                 labels[i][1],
             )
 
-    # --------------------
     # Theory anchors
-    # --------------------
     ax.text(
         0.08,
         0.135,
@@ -206,9 +196,7 @@ def create_theory_tech_diagram():
         linespacing=1.25,
     )
 
-    # --------------------
     # Compact legend
-    # --------------------
     legend_x = 0.735
     legend_y = 0.79
 
@@ -251,7 +239,6 @@ def create_theory_tech_diagram():
             color=muted,
         )
 
-    # --------------------
 
     plt.tight_layout()
     plt.savefig(OUTPUT_DIR / "fig_01_theory_tech_diagram.png", dpi=300, bbox_inches="tight")

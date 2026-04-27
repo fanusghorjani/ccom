@@ -188,13 +188,13 @@ def plot_grouped_score_comparison(file_path):
 
     plt.close()
 
-    print("Plot saved to:", output_dir)
+    print("Plot saved to:", OUTPUT_DIR)
     print("\nMeans:")
     for d, b, r in zip(source_cols, baseline_means, rag_means):
         print(f"{d}: Baseline={b:.2f}, RAG={r:.2f}")
 
-
+#??
 if __name__ == "__main__":
     plot_grouped_score_comparison(
-        r"C:\Users\SinaElBasiouni\Documents\3_Semester\Thesis\data\class_conscious_organization_files\results\evaluation\full_30_coding_filled.xlsx"
+        "results/evaluation/full_30_coding_filled.xlsx"
     )

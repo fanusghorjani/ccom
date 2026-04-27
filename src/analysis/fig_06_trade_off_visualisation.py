@@ -9,9 +9,7 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 def plot_tradeoff_grounding_coherence(file_path):
     file_path = Path(file_path)
 
-    # -----------------------
     # Load data
-    # -----------------------
     df = pd.read_excel(file_path)
 
     required_cols = [
@@ -34,9 +32,7 @@ def plot_tradeoff_grounding_coherence(file_path):
 
     df = df.dropna(subset=["Theoretical Grounding", "Coherence", "Condition"])
 
-    # -----------------------
     # Style
-    # -----------------------
     baseline_color = "#B0B0B0"
     rag_color = "#2E86C1"
     edge = "#333333"
@@ -65,9 +61,7 @@ def plot_tradeoff_grounding_coherence(file_path):
 
     means = {}
 
-    # -----------------------
     # Scatter points
-    # -----------------------
     for condition, spec in condition_specs.items():
         subset = df[
             df["Condition"].astype(str).str.lower() == condition.lower()
@@ -122,9 +116,7 @@ def plot_tradeoff_grounding_coherence(file_path):
             zorder=7,
         )
 
-    # -----------------------
     # Arrow between means
-    # -----------------------
     if "Baseline" in means and "RAG" in means:
         bx, by = means["Baseline"]
         rx, ry = means["RAG"]
@@ -154,9 +146,7 @@ def plot_tradeoff_grounding_coherence(file_path):
             zorder=7,
         )
 
-    # -----------------------
     # Labels
-    # -----------------------
     ax.set_title(
         "Epistemic Trade-off: Grounding Increases, Coherence Varies",
         fontsize=13,
@@ -177,9 +167,7 @@ def plot_tradeoff_grounding_coherence(file_path):
     ax.set_xticklabels(["0\nlow", "1\npartial", "2\nhigh"], fontsize=9)
     ax.set_yticklabels(["0\nlow", "1\npartial", "2\nhigh"], fontsize=9)
 
-    # -----------------------
     # Clean style
-    # -----------------------
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     ax.spines["left"].set_color(edge)
@@ -188,9 +176,7 @@ def plot_tradeoff_grounding_coherence(file_path):
     ax.grid(alpha=0.16, linewidth=0.8)
     ax.set_axisbelow(True)
 
-    # -----------------------
     # Clean legend
-    # -----------------------
     handles, labels = ax.get_legend_handles_labels()
 
     # keep only response clouds, not mean markers
@@ -212,9 +198,7 @@ def plot_tradeoff_grounding_coherence(file_path):
         borderaxespad=0.0,
     )
 
-    # -----------------------
     # Save
-    # -----------------------
     output_dir = file_path.parent / "figures"
     output_dir.mkdir(exist_ok=True)
 
@@ -228,8 +212,7 @@ def plot_tradeoff_grounding_coherence(file_path):
 
     print("Trade-off plot saved to:", OUTPUT_DIR)
 
-
 if __name__ == "__main__":
     plot_tradeoff_grounding_coherence(
-        r"C:\Users\SinaElBasiouni\Documents\3_Semester\Thesis\data\class_conscious_organization_files\results\evaluation\full_30_coding_filled.xlsx"
+        "results/evaluation/full_30_coding_filled.xlsx"
     )

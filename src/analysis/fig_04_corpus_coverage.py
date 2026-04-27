@@ -21,9 +21,7 @@ def parse_doc_ids(entry):
 def plot_coverage(file_path):
     file_path = Path(file_path)
 
-    # -----------------------
     # Load data
-    # -----------------------
     df = pd.read_excel(file_path)
 
     column = "rag_retrieved_doc_ids"
@@ -31,26 +29,19 @@ def plot_coverage(file_path):
     if column not in df.columns:
         raise ValueError(f"Column '{column}' not found")
 
-    # -----------------------
     # Extract retrieved docs
-    # -----------------------
     retrieved_docs = set()
 
     for entry in df[column].dropna():
         retrieved_docs.update(parse_doc_ids(entry))
 
-    # -----------------------
     # Total corpus size
-    # -----------------------
-    # 🔴 WICHTIG: anpassen falls nötig
-    total_docs = 50   # <-- HIER ggf. ändern!
+    total_docs = 50
 
     retrieved_count = len(retrieved_docs)
     not_retrieved = total_docs - retrieved_count
 
-    # -----------------------
     # Plot
-    # -----------------------
     labels = ["Retrieved", "Not Retrieved"]
     values = [retrieved_count, not_retrieved]
 
@@ -73,9 +64,7 @@ def plot_coverage(file_path):
         linewidth=1.2
     )
 
-    # -----------------------
     # Labels
-    # -----------------------
     ax.set_title(
         "Limited Corpus Coverage in Retrieval",
         fontsize=12.5,
@@ -86,9 +75,7 @@ def plot_coverage(file_path):
 
     ax.set_ylabel("Number of documents", fontsize=10, color=text)
 
-    # -----------------------
     # Value labels
-    # -----------------------
     for bar in bars:
         height = bar.get_height()
         ax.text(
@@ -101,9 +88,7 @@ def plot_coverage(file_path):
             color=text
         )
 
-    # -----------------------
     # Clean style
-    # -----------------------
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     ax.spines["left"].set_color(edge)
@@ -112,19 +97,16 @@ def plot_coverage(file_path):
     ax.grid(axis="y", alpha=0.15)
     ax.set_axisbelow(True)
 
-    # -----------------------
-    # Save
-    # -----------------------
-
     plt.tight_layout()
 
+    # Save
     plt.savefig(OUTPUT_DIR / "fig_04_corpus_coverage.png", dpi=300, bbox_inches="tight")
     plt.savefig(OUTPUT_DIR / "fig_04_corpus_coverage.pdf", bbox_inches="tight")
     plt.savefig(OUTPUT_DIR / "fig_04_corpus_coverage.svg", bbox_inches="tight")
 
     plt.close()
 
-    print("Coverage plot saved to:", output_dir)
+    print("Coverage plot saved to:", OUTPUT_DIR)
     print(f"Retrieved: {retrieved_count}")
     print(f"Not retrieved: {not_retrieved}")
 
