@@ -1,8 +1,8 @@
 import re
 from pathlib import Path
 
-IN_DIR = Path("data_raw_txt")
-OUT_DIR = Path("data_clean_txt")
+IN_DIR = Path("corpus") / "raw_txt"
+OUT_DIR = Path("corpus") / "clean_txt"
 OUT_DIR.mkdir(exist_ok=True)
 
 def fix_mojibake(s: str) -> str:

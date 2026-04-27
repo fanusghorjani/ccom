@@ -6,3 +6,10 @@ numpy
 scikit-learn
 tqdm
 faiss-cpu
+
+#preprocessing
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+torch

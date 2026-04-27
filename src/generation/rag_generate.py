@@ -36,13 +36,12 @@ SEED = 42
 TOP_K = 5
 RETRIEVER_MODEL_NAME = "sentence-transformers/all-mpnet-base-v2"
 
-DEFAULT_INPUT = Path("eval_queries.jsonl")
+DEFAULT_INPUT = Path("data/queries/eval_queries.jsonl")
 DEFAULT_OUTPUT = Path("rag_results.csv")
 DEFAULT_ERRORS = Path("rag_errors.jsonl")
-DEFAULT_INDEX = Path("chunks") / "faiss.index"
-DEFAULT_META = Path("chunks") / "embeddings_meta.jsonl"
-DEFAULT_CHUNKS = Path("chunks") / "chunks.jsonl"
-
+DEFAULT_INDEX = Path("processed/chunks") / "faiss.index"
+DEFAULT_META = Path("processed/chunks") / "embeddings_meta.jsonl"
+DEFAULT_CHUNKS = Path("processed/chunks") / "chunks.jsonl"
 
 @dataclass
 class GenSettings:

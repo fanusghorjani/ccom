@@ -5,9 +5,9 @@ import faiss
 from sentence_transformers import SentenceTransformer
 
 MODEL_NAME = "sentence-transformers/all-mpnet-base-v2"
-INDEX_PATH = Path("chunks") / "faiss.index"
-META_PATH = Path("chunks") / "embeddings_meta.jsonl"
-CHUNKS_PATH = Path("chunks") / "chunks.jsonl"
+INDEX_PATH = Path("processed") / "chunks" / "faiss.index"
+META_PATH = Path("processed") / "chunks" / "embeddings_meta.jsonl"
+CHUNKS_PATH = Path("processed") / "chunks" / "chunks.jsonl"
 
 TOPK = 5
 QUERY = "How should a revolutionary organization structure cadre work and discipline?"

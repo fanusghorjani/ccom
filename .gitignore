@@ -1,12 +1,10 @@
-.cache/
 .venv/
+.cache/
+
 __pycache__/
 *.pyc
-*.log
+
 .ipynb_checkpoints/
 
-.keep-alive
-*.swp
-
-.keep-alive
+*.log
 *.swp

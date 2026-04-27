@@ -1,9 +1,8 @@
 from pathlib import Path
 import numpy as np
 import faiss
-
-EMB_PATH = Path("chunks") / "embeddings.npy"
-INDEX_PATH = Path("chunks") / "faiss.index"
+EMB_PATH = Path("processed") / "chunks" / "embeddings.npy"
+INDEX_PATH = Path("processed") / "chunks" / "faiss.index"
 
 def main():
     if not EMB_PATH.exists():
@@ -16,6 +15,8 @@ def main():
     # If embeddings were normalized, inner product == cosine similarity
     index = faiss.IndexFlatIP(d)
     index.add(X)
+    # falls ordner mal fehlt
+    INDEX_PATH.parent.mkdir(parents=True, exist_ok=True)
 
     faiss.write_index(index, str(INDEX_PATH))
     print("Saved index:", INDEX_PATH.resolve())

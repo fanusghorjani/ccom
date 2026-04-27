@@ -5,8 +5,8 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 
 # Paths
-CHUNKS_PATH = Path("chunks") / "chunks.jsonl"
-OUT_DIR = Path("chunks")
+CHUNKS_PATH = Path("processed") / "chunks" / "chunks.jsonl"
+OUT_DIR = Path("processed") / "chunks"
 EMB_PATH = OUT_DIR / "embeddings.npy"
 META_PATH = OUT_DIR / "embeddings_meta.jsonl"
 

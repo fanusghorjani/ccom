@@ -3,8 +3,8 @@ import re
 from pathlib import Path
 
 # === Config ===
-IN_DIR = Path("data_clean_txt")
-OUT_DIR = Path("chunks")
+IN_DIR = Path("corpus") / "clean_txt"
+OUT_DIR = Path("processed") / "chunks"
 OUT_JSONL = OUT_DIR / "chunks.jsonl"
 
 TARGET_WORDS = 400       # chunk size target

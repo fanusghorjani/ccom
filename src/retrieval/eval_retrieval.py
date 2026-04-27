@@ -6,10 +6,10 @@ import faiss
 from sentence_transformers import SentenceTransformer
 
 # === Paths ===
-INDEX_PATH = Path("chunks") / "faiss.index"
-META_PATH = Path("chunks") / "embeddings_meta.jsonl"
-CHUNKS_PATH = Path("chunks") / "chunks.jsonl"
-QUERY_PATH = Path("eval_queries.jsonl")
+INDEX_PATH = Path("processed") / "chunks" / "faiss.index"
+META_PATH = Path("processed") / "chunks" / "embeddings_meta.jsonl"
+CHUNKS_PATH = Path("processed") / "chunks" / "chunks.jsonl"
+QUERY_PATH = Path("data") / "queries" / "eval_queries.jsonl"
 OUT_PATH = Path("retrieval_results.csv")
 
 MODEL_NAME = "sentence-transformers/all-mpnet-base-v2"
