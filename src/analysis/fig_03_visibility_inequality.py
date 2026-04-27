@@ -23,9 +23,7 @@ def parse_doc_ids(entry):
 def plot_visibility_inequality(file_path):
     file_path = Path(file_path)
 
-    # -----------------------
     # Load data
-    # -----------------------
     df = pd.read_excel(file_path)
 
     column = "rag_retrieved_doc_ids"
@@ -33,9 +31,7 @@ def plot_visibility_inequality(file_path):
     if column not in df.columns:
         raise ValueError(f"Column '{column}' not found")
 
-    # -----------------------
     # Flatten retrieved document IDs
-    # -----------------------
     all_docs = []
     for entry in df[column].dropna():
         all_docs.extend(parse_doc_ids(entry))
@@ -45,9 +41,7 @@ def plot_visibility_inequality(file_path):
     if not counts:
         raise ValueError("No retrieved document IDs found.")
 
-    # -----------------------
     # Lorenz curve calculation
-    # -----------------------
     values = np.array(sorted(counts.values()))
 
     cumulative = np.cumsum(values)
@@ -59,9 +53,7 @@ def plot_visibility_inequality(file_path):
     # Gini coefficient
     gini = 1 - 2 * np.trapezoid(cumulative_share, document_share)
 
-    # -----------------------
     # Style
-    # -----------------------
     foucault_color = "#2E86C1"
     neutral = "#B0B0B0"
     edge = "#333333"
@@ -73,9 +65,7 @@ def plot_visibility_inequality(file_path):
         "font.size": 10,
     })
 
-    # -----------------------
     # Plot
-    # -----------------------
     fig, ax = plt.subplots(figsize=(7.5, 6.5))
 
     ax.plot(
@@ -95,9 +85,7 @@ def plot_visibility_inequality(file_path):
         label="Equal visibility"
     )
 
-    # -----------------------
     # Labels & title
-    # -----------------------
     ax.set_title(
         "Unequal Visibility in Retrieval",
         fontsize=13,
@@ -119,9 +107,7 @@ def plot_visibility_inequality(file_path):
         color=text
     )
 
-    # -----------------------
     # Clean style
-    # -----------------------
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     ax.spines["left"].set_color(edge)
@@ -139,10 +125,8 @@ def plot_visibility_inequality(file_path):
     ax.set_xlim(0, 1)
     ax.set_ylim(0, 1)
 
-    # -----------------------
-    # Save
-    # -----------------------
    
+    # Save
 
     plt.tight_layout()
 

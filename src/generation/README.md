@@ -23,23 +23,23 @@ The only experimental difference is the inclusion of retrieved context.
 
 ## Scripts
 
-* `01_generate_baseline.py`
+* `baseline_generate.py`
   Generates responses without retrieval.
 
-* `02_generate_rag.py`
+* `rag_generate.py`
   Generates responses with retrieved context.
 
 ## Input
 
-* `data/evaluation_questions.csv`
-  Contains the 30 evaluation queries.
+* `data/queries/eval_queries.jsonl`
+  Contains the 30 evaluation queries (one JSON object per line with fields `qid` and `query`).
 
-* (RAG only) retrieved chunks from `src/retrieval/`
+* (RAG only) FAISS index, embedding metadata, and chunks under `processed/chunks/` (produced by `src/retrieval/`).
 
 ## Output
 
-* `results/baseline_outputs.csv`
-* `results/rag_outputs.csv`
+* `baseline_results.csv`
+* `rag_results.csv`
 
 Each output file contains model responses for all evaluation questions.
 
@@ -48,8 +48,8 @@ Each output file contains model responses for all evaluation questions.
 Run from project root:
 
 ```bash
-python src/generation/01_generate_baseline.py
-python src/generation/02_generate_rag.py
+python src/generation/baseline_generate.py
+python src/generation/rag_generate.py
 ```
 
 Alternatively, run the full pipeline:

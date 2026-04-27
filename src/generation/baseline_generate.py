@@ -31,7 +31,7 @@ MAX_NEW_TOKENS = 350
 SEED = 42
 
 DEFAULT_INPUT = Path("data/queries/eval_queries.jsonl")
-DEFAULT_OUTPUT = Path("rag_baseline_results.csv")
+DEFAULT_OUTPUT = Path("baseline_results.csv")
 DEFAULT_ERRORS = Path("baseline_errors.jsonl")
 
 

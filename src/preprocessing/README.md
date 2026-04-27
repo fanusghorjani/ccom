@@ -1,113 +1,62 @@
-# Retrieval
+# Preprocessing
 
-This module implements the retrieval pipeline used in the Retrieval-Augmented Generation (RAG) condition.
-
-It encodes text chunks into vector representations, builds a similarity index, and retrieves the most relevant chunks for a given query.
-
+This module prepares the raw corpus for retrieval. It cleans extracted text and segments documents into overlapping chunks suitable for embedding.
 
 ## Overview
 
-The retrieval process consists of the following steps:
-
 ```text
-chunks → embeddings → FAISS index → query → top-k chunks
+raw_txt → cleaned text → paragraph-aware chunks (jsonl)
 ```
-
 
 ## Scripts
 
-### `embed_chunks.py`
+### `clean_texts.py`
 
-Encodes all text chunks into dense vector embeddings using a pretrained sentence transformer model.
-
-**Input:**
-
-* `chunks/chunks.jsonl`
-
-**Output:**
-
-* `chunks/embeddings.npy`
-* `chunks/embeddings_meta.jsonl`
-
-The embeddings are normalized, enabling cosine similarity search via inner product.
-
-
-### `build_faiss.py`
-
-Builds a similarity search index over the embeddings using FAISS.
+Normalizes raw text extracted from PDFs.
 
 **Input:**
 
-* `chunks/embeddings.npy`
+* `corpus/raw_txt/*.txt`
 
 **Output:**
 
-* `chunks/faiss.index`
+* `corpus/clean_txt/*.txt`
 
-The index uses inner product similarity (equivalent to cosine similarity for normalized embeddings). 
+Operations:
 
+* repair common mojibake patterns (e.g. `â€™` → `’`)
+* normalize line endings
+* rejoin words split across hyphenated line breaks
+* collapse repeated whitespace
+* drop standalone page-number lines
+* collapse excessive blank lines
 
-### `eval_retrieval.py`
+### `chunk_texts.py`
 
-Runs retrieval for a set of evaluation queries and stores the results.
+Splits cleaned documents into chunks for retrieval.
 
 **Input:**
 
-* `chunks/faiss.index`
-* `chunks/embeddings_meta.jsonl`
-* `chunks/chunks.jsonl`
-* `eval_queries.jsonl`
+* `corpus/clean_txt/*.txt`
 
 **Output:**
 
-* `retrieval_results.csv`
+* `processed/chunks/chunks.jsonl` — one JSON record per chunk with fields `doc_id`, `chunk_id`, `text`, `word_count`.
 
-For each query, the script retrieves the top-k most relevant chunks (k = 5, 10) and records:
+Chunking parameters (defined at the top of the script):
 
-* similarity score
-* document ID
-* chunk ID
-* rank
+* `TARGET_WORDS = 400` — target chunk size
+* `MIN_WORDS = 200` — small tail chunks are merged into the previous chunk
+* `MAX_WORDS = 520` — hard cap to prevent oversized chunks
+* `OVERLAP_WORDS = 60` — token overlap between adjacent chunks
 
-This script implements the main retrieval process used in the analysis. 
+The chunker is paragraph-aware (it tries to keep paragraphs intact) and applies heuristics to strip table-of-contents blocks and dot-leader TOC lines.
 
+## Usage
 
-### `test_retrieval.py`
+Run from project root:
 
-Runs retrieval for a single query and prints the top results.
-
-Used for debugging and qualitative inspection of retrieved chunks.
-
-### `analyze_retrieval.py`
-
-Analyzes retrieval results to identify structural patterns.
-
-Examples of analysis:
-
-* document dominance (which texts are retrieved most often)
-* concentration of results across documents
-* distribution of retrieved sources
-
-This supports the evaluation of retrieval bias and visibility effects.
-
-## Retrieval Logic
-
-Retrieval is performed using dense vector similarity:
-
-1. Queries are encoded into embeddings
-2. The FAISS index is queried
-3. Top-k most similar chunks are returned
-
-```python
-scores, indices = index.search(query_vector, k)
+```bash
+python src/preprocessing/clean_texts.py
+python src/preprocessing/chunk_texts.py
 ```
-
-This operation determines which parts of the corpus become visible to the model.
-
-## Notes
-
-* Retrieval is implemented within `eval_retrieval.py` and `test_retrieval.py` rather than as a separate function.
-* The system uses dense retrieval based on semantic similarity rather than keyword matching.
-* The retrieved chunks define the context available to the model in the RAG condition.
-
-From an epistemic perspective, retrieval is the central mechanism that structures visibility: it determines which knowledge becomes accessible and how different sources are represented in generated outputs.

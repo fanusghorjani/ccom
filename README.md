@@ -1,4 +1,4 @@
-# Retrieval-Augmented Generation as an Epistemic Intervention  
+# Retrieval-Augmented Generation as an Epistemic Intervention
 ### A Case Study on Class-Conscious Organizational Management
 
 This repository contains the full experimental pipeline and analysis for a master's thesis investigating retrieval-augmented generation (RAG) as an epistemic intervention in large language models (LLMs).
@@ -15,7 +15,7 @@ This project introduces the concept of **Epistemic Correction**, defined as:
 
 The central research question is:
 
-> To what extent does retrieval-augmented generation (RAG) function as a form of Epistemic Correction by reshaping the structure of knowledge in LLM outputs compared to a baseline without retrieval? :contentReference[oaicite:0]{index=0}
+> To what extent does retrieval-augmented generation (RAG) function as a form of Epistemic Correction by reshaping the structure of knowledge in LLM outputs compared to a baseline without retrieval?
 
 ---
 
@@ -35,22 +35,22 @@ The study follows a **controlled comparative setup**:
 ## Evaluation Setup
 
 - **30 evaluation questions**
-- Covering practical and theoretical aspects of class-conscious organizing :contentReference[oaicite:1]{index=1}  
+- Covering practical and theoretical aspects of class-conscious organizing
 - Structured across multiple thematic domains
 
 ### Analytical Dimensions
 
 Outputs are evaluated along four epistemic dimensions:
 
-1. Theoretical grounding  
-2. Political positioning  
-3. Specificity  
-4. Epistemic coherence :contentReference[oaicite:2]{index=2}  
+1. Theoretical grounding
+2. Political positioning
+3. Specificity
+4. Epistemic coherence
 
 Each dimension is coded using a simple ordinal scheme:
 
-- 0 = absent  
-- 1 = partial  
+- 0 = absent
+- 1 = partial
 - 2 = strong presence
 
 ---
@@ -59,7 +59,7 @@ Each dimension is coded using a simple ordinal scheme:
 
 - **49 curated documents**
 - Focus: class-conscious organization and critical theory
-- Includes Marxist and Black radical traditions :contentReference[oaicite:3]{index=3}  
+- Includes Marxist and Black radical traditions
 
 The dataset is:
 
@@ -67,7 +67,7 @@ The dataset is:
 - deliberately constructed
 - a **situated epistemic intervention**
 
-> The dataset itself functions as an epistemic interface that shapes what becomes visible and articulable within the model. :contentReference[oaicite:4]{index=4}
+> The dataset itself functions as an epistemic interface that shapes what becomes visible and articulable within the model.
 
 ---
 
@@ -77,3 +77,4 @@ The full pipeline is implemented in this repository:
 
 ```text
 corpus → preprocessing → chunking → embeddings → retrieval → generation → analysis → evaluation
+```

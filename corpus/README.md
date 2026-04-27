@@ -26,7 +26,7 @@ These texts were selected to reflect a specific theoretical and political perspe
 * `raw_pdfs/`
   Contains the original source documents (if included).
 
-* `class_conscious_organization_files.bib`
+* `references.bib`
   Bibliographic metadata for all texts included in the corpus.
 
 ---
