@@ -1,147 +1,79 @@
-# Retrieval-Augmented Generation as an Epistemic Intervention
+# Retrieval-Augmented Generation as an Epistemic Intervention  
+### A Case Study on Class-Conscious Organizational Management
 
-## Overview
-
-This repository contains the implementation of a Retrieval-Augmented Generation (RAG) pipeline developed as part of a master's thesis.
-
-The project investigates whether retrieval can function as an **epistemic correction mechanism** for large language models. The empirical case focuses on class-conscious organizational management questions within a curated corpus of political and critical theory texts.
-
-The current repository reflects the **implementation and initial results stage**. Evaluation is ongoing.
+This repository contains the full experimental pipeline and analysis for a master's thesis investigating retrieval-augmented generation (RAG) as an epistemic intervention in large language models (LLMs).
 
 ---
 
-## Research Question
+## Research Focus
 
-The central research question of this project is:
+Large Language Models do not only retrieve information — they actively structure and produce knowledge. Their outputs are shaped by probabilistic inference, data bias, and infrastructural constraints.
 
-> To what extent does a RAG pipeline act as an epistemic correction for a Mistral-7B LLM, compared to a no-RAG baseline — on the example of class-conscious organizational management questions?
+This project introduces the concept of **Epistemic Correction**, defined as:
 
-This project builds on a critical understanding of AI systems as socio-technical infrastructures and evaluates model outputs in terms of their **epistemic structure**, not only correctness.
+> an intervention into the structure of knowledge production in LLMs by reorganizing visibility, relational positioning, and comparability through curated retrieval.
 
----
+The central research question is:
 
-## Theoretical Framing
-
-The thesis is situated at the intersection of:
-
-* Critical Data Studies
-* Political Theory
-* Applied Natural Language Processing
-
-Large language models are understood as systems that reorganize and reproduce knowledge rather than generating new epistemic insight. Following this perspective, retrieval is conceptualized as a potential intervention that can re-anchor generated outputs in external, theory-grounded knowledge.
+> To what extent does retrieval-augmented generation (RAG) function as a form of Epistemic Correction by reshaping the structure of knowledge in LLM outputs compared to a baseline without retrieval? :contentReference[oaicite:0]{index=0}
 
 ---
 
-## Current Project Status
+## Experimental Design
 
-The repository currently includes:
+The study follows a **controlled comparative setup**:
 
-* Implementation of a RAG pipeline (`rag_generate.py`)
-* Generated outputs for two experimental conditions:
-
-  * Baseline (no retrieval): `rag_baseline_results.csv`
-  * RAG condition: `rag_results.csv`
-* Initial qualitative comparison:
-
-  * `comparison_table.md`
-  * `comparison_full.md`
-
-The formal evaluation framework is under development.
+- Same model: **Mistral-7B**
+- Two conditions:
+  - Baseline (no retrieval)
+  - RAG (retrieval-augmented generation)
+- Same prompts, parameters, and evaluation set
+- Only difference: **injected retrieved context**
 
 ---
 
-## Experimental Setup
+## Evaluation Setup
 
-Two experimental conditions are compared:
+- **30 evaluation questions**
+- Covering practical and theoretical aspects of class-conscious organizing :contentReference[oaicite:1]{index=1}  
+- Structured across multiple thematic domains
 
-### 1. Baseline (No Retrieval)
+### Analytical Dimensions
 
-* Direct generation with Mistral-7B
-* No access to external documents
-* Serves as control condition
+Outputs are evaluated along four epistemic dimensions:
 
-### 2. RAG (Retrieval-Augmented Generation)
+1. Theoretical grounding  
+2. Political positioning  
+3. Specificity  
+4. Epistemic coherence :contentReference[oaicite:2]{index=2}  
 
-* Retrieval of relevant text chunks from a curated corpus
-* Retrieved context is injected into the prompt
-* Model generates grounded responses
+Each dimension is coded using a simple ordinal scheme:
 
-All other parameters are held constant across both conditions.
-
----
-
-## Data
-
-The dataset consists of a curated selection of texts related to class-conscious organizational management and critical theory.
-
-The corpus includes foundational works from:
-
-* Marxist theory
-* Feminist theory
-* Anti-colonial and revolutionary theory
-
-The texts are preprocessed and segmented into retrievable chunks used by the RAG pipeline.
-
-*Note: The dataset is purpose-built and not intended to be exhaustive.* 
+- 0 = absent  
+- 1 = partial  
+- 2 = strong presence
 
 ---
 
-## Pipeline Overview
+## Dataset
 
-The current pipeline consists of:
+- **49 curated documents**
+- Focus: class-conscious organization and critical theory
+- Includes Marxist and Black radical traditions :contentReference[oaicite:3]{index=3}  
 
-1. Text preprocessing (PDF → clean text)
-2. Chunking of documents
-3. Embedding-based retrieval
-4. Answer generation using retrieved context
+The dataset is:
 
----
+- not representative
+- deliberately constructed
+- a **situated epistemic intervention**
 
-## Evaluation (Work in Progress)
-
-Evaluation is currently ongoing and follows a mixed approach:
-
-* **Qualitative assessment (primary method)**
-
-  * Grounding in source texts
-  * Use of domain-specific concepts
-  * Coherence and relevance
-
-* **Simple automated signal (secondary)**
-
-  * Classification of outputs as in-domain vs. out-of-domain
-
-At this stage, the repository includes preliminary comparison files:
-
-* `comparison_table.md`
-* `comparison_full.md`
-
-Final evaluation criteria and interpretation will be developed in the thesis.
+> The dataset itself functions as an epistemic interface that shapes what becomes visible and articulable within the model. :contentReference[oaicite:4]{index=4}
 
 ---
 
-## Reproducibility
+## Pipeline
 
-To run the generation pipeline:
+The full pipeline is implemented in this repository:
 
-```bash
-python rag_generate.py
-```
-
-Environment setup is defined in the `Dockerfile`.
-
----
-
-## Notes
-
-* Cache files and model weights are excluded via `.gitignore`
-* Outputs are stored as CSV files for transparency
-* The repository reflects an intermediate research stage
-
----
-
-## Author
-
-Fanus Ghorjani
-Master’s Thesis, Hertie School
-
+```text
+corpus → preprocessing → chunking → embeddings → retrieval → generation → analysis → evaluation
