@@ -191,12 +191,4 @@ python src/generation/rag_generate.py
 - `src/generation/README.md` — baseline vs. RAG generation details
 - `data/queries/README.md` — evaluation query set rationale
 
----
-
-## Citation / usage
-
-If you use this repository in academic work, please cite the associated thesis/project and clearly distinguish between:
-
-1. model-internal (parametric) knowledge, and
-2. externally retrieved corpus-grounded context.
 
