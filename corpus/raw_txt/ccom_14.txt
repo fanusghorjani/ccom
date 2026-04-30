@@ -1,0 +1,932 @@
+[CIS 10.1 (2014) 87–109]
+doi: 10.1558/cis.29642
+
+Comparative Islamic Studies (print) ISSN 1740-7125
+Comparative Islamic Studies (online) ISSN 1743-1638
+
+Communal Democracy:
+The Social Contract and Confederalism in Rojava
+Michael Knapp1 and Joost Jongerden2
+1. Wageningen University
+2. Wageningen University and Kyoto University
+michael.knapp@wur.nl; joost.jongerden@wur.nl
+
+The article engages with the question of identity and self-government and its implications for the concept of citizenship in Rojava.
+A short overview of the historical development of the political idea
+of democratic autonomy as applied in Rojava is given, a model that
+claims to be on the way to creating a stateless model of radical
+democracy whose realization involves forms of emancipation of the
+citizen, from a subject of a state to an active participant. The social
+contract and the structure of self-government in Rojava is examined from this perspective and the conclusion drawn that citizenship, which has been seized by the statist model, is currently being
+reclaimed by the people in Rojava through democratic autonomy.
+This is being effected through participative action and self-education as acts of citizenship and aims to separate the idea of government from the idea of the state.
+
+Introduction
+In its 1978 manifesto, the PKK declared the establishment of an independent
+state the only correct political goal. Following a critique of the character of
+national liberation struggles and real existing socialism, the party started to
+Keywords: Rojava, Kurdistan, self-administration, democratic-confederalism,
+citizenship, assemblies, democracy
+© Equinox Publishing Ltd. 2016, Office 415, The Workstation, 15 Paternoster Row, Sheffield, S1 2BX
+
+88
+
+Communal Democracy
+
+question whether independence should be conceptualized and practised as
+state/nation-state construction. This eventuated in a redeinition of the party’s
+political strategy according to which the PKK disconnected the idea of selfdetermination from that of state establishment. Arguing that the ideas of the
+state and government are not the same, the PKK developed a political strategy
+based on the self-governing capacities of people. The key-concepts in the PKK
+discourse on self-government that developed were “democratic confederalism”
+and “democratic autonomy.” From the mid-2000s onwards, the Kurdish liberation movement started organising assemblies for self-government throughout
+Kurdistan.
+This article will engage with the development of self-government in Rojava,
+a region in the north of Syria that became known internationally after ierce
+battles against forces of the so called islamic state attacking the border town
+of Kobanê. While the pictures of armed women as antithesis to the patriarchal,
+however, misogynous posture of IS were broadcast around the world, the political dimensions of the struggle in Rojava remained somewhat obscure. A foundational document, the Social Contract, declared the ideas of democratic autonomy
+and democratic confederalism a corner-stone of the region’s political architecture. Though the region is mainly inhabited by Kurds, other populations are
+living in the area and involved in the development of this new political architecture, including Arabs, Assyrians, Chaldeans, Arameans, Turkmen, Armenians and Chechens. In this article, we argue that this social contract disconnects
+the idea of the state from that of government, and frees citizenship from state
+capture to redeine it in terms of relations among and the self-administrative
+capacities of people (citizens).
+The development of this new political architecture is of particular importance against the background of what was referred to as a crisis among Kurdish
+political parties on the eve of the uprising in Syria. Some of the reasons why the
+popularity of political parties in general had fallen at that time were factionalism, weaknesses in ideology and practise, the domination of personality issues
+and an inability to achieve concessions from the state (Allsop 2014, 176–177). At
+the same time the levels of Kurdish national consciousness and youth activism
+were high. It was from out of this contradiction between a crisis in traditional
+party politics and high political consciousness that the Democratic Union Party
+(Partiya Yekîtiya Demokrat, PYD) developed its political alternative of bottom-up
+self-administration. When traditional political parties established the Kurdish
+National Council KNC in 2011 under the political guidance of the president of
+the Kurdistan Regional Government (in Northern Iraq), Massoud Barzani, this
+was not only to unite these parties against the Syrian regime but also a response
+against the PYD and the rapidly spreading popularity of its conception of a postparty politics. In this article, we will not discuss the strained relations between
+© Equinox Publishing Ltd. 2016
+
+Michael Knapp and Joost Jongerden
+
+89
+
+the PYD and KNC, whose leadership resides in Erbil and associated political parties have a limited presence in Rojava (Gunes and Lowe 2015, 5), but focus on
+the emerging practice of self-administration.
+The structure of this article is as follows. First we present an overview of the
+historical development of the concept of democratic autonomy, focussing on
+the ideas of Abdullah Öcalan, and then we look at its application in Rojava following the revolution there, concentrating on the institutions and practice of
+democratic autonomy and self-administration. A main conclusion we draw is
+that the decentralization of power, economy and administration in Rojava—in
+short, a transformation of the idea of democracy—leads to a new kind of social
+contract, one that is not based on a necessary connection to the national state,
+but on connections between people within and among local communities, representing a social contract which reclaims citizenship from the state.
+Data for this article has been collected by means of study of primary sources,
+observation and interviews. Interviews were conducted with the PKK in Qandil
+and the authors made various visits to Rojava. Michael Knapp visits Rojava regularly, where he is doing his PhD research on the concept of citizenship in democratic autonomy. He stayed there one month in May, 2014 and, most recently
+at the time of writing, two weeks in October 2015, undertaking interviews
+with a wide variety of interlocutors. Joost Jongerden stayed there also for one
+week in October 2015 (separately) making observations and doing interviews.
+
+Backgrounds
+“The great social measure of the commune,” wrote Karl Marx in The Civil War in
+France, “was its own working existence” (Marx 2009 [1871], 46). Yet, the commune was more than a “working laboratory of political inventions” and also
+more and something other than an ‘uprising’ (Ross 2015, 18, 27). Importantly, the
+commune broke with the modernist view that civilized societies are organized
+in the form of states, thus distinguishing state-craft from government. “Under
+the Commune, Paris wanted to be not the capital of France but an autonomous
+collective in a universal federation of peoples,” states Ross (2015, 18, 27); “It did
+not wish to be a state but rather an element, a unit in a federation of communes
+that was ultimately international in scale.” This was referred to as “voluntary
+association of all local initiatives,” as “a free union of autonomous collectives,”
+and as a “confederation of free peoples” (Ross 2015, 38). Today, the voluntary
+association of people in a confederal union of communes lies at the basis of government in the three “cantons” of Rojava (Cezîre, Kobanê and Afrin).1
+1.
+
+When the canton system was announced, it was thought to be the best option to
+overcome the concept of a centralized state, which had subjects, not citizens. In
+the social contract, three cantons are mentioned: Cêzire, Kobanê and Afrin, but
+the option of other regions joining the confederation is explicitly left open. In the
+
+© Equinox Publishing Ltd. 2016
+
+90
+
+Communal Democracy
+
+It was the imprisoned PKK leader, Abdullah Öcalan, who initiated a debate
+among Kurds about a confederal union of communes as alternative to the
+nation-state. In his work developed in the 2000s, but going back to the 1980s,
+Öcalan questioned the relationship between self-determination and nationstate formation. He started to consider the nation-state not only as a particular
+historical construction, but also as a problematic one. His critique was directed
+both at the centralized character of the state, which came to equate both
+government and society, and its actual functioning as assimilation machine,
+inscribing a (pre)conceived culture onto the population—and he came to the
+conclusion that the nation-state does not liberate the subject from colonial status, but subjugates it (Öcalan 2010a, 193). Inspired by the work of the libertarian
+ecologist Murray Bookchin (Öcalan 2008; Biehl 2012, 10), Abdullah Öcalan introduced the concepts of democratic autonomy and democratic confederalism, the
+irst referring to a status of people (that of determining their own future), the
+second to a bottom-up council system of self-administration (through which
+self-determination is to be practiced) (Akkaya and Jongerden 2013; Jongerden
+and Akkaya 2013).
+Öcalan connects practice and ideology to an underground current of what
+Bookchin (1991) calls the “Athens model.” Following Kropotkin (1947 [1897]),
+Bookchin differentiates between two ideas or models of politics, the Hellenic
+and the Roman, as having given rise to two different imaginaries of politics
+and understandings of government. The irst, the Hellenic model, stands for a
+participatory-communal form of politics, with which Bookchin aligns himself,
+while the second, the Roman model, stands for a centralist and statist form,
+which he rejects (White 2008, 159). The statist, centralized Roman model has
+a “herd of subjects” (Kropotkin 1947 [1897], 10), while the Hellenic model has
+an “active citizenship” (Bookchin 1991, 11). Unfortunately, Bookchin argues,
+it is the Roman model that has become the dominant form in modern society,
+informing the American and French constitutionalists of the eighteenth century. The Athens model exists as a counter- and underground current, however,
+inding expression in the Paris Commune of 1871, in the initial councils (soviets) that emerged in the spring-time of the revolution in Russia in 1917 and in
+the Spanish Revolution between 1936 and 1939.
+Though coming from a Marxist tradition, Öcalan criticizes historical-materialism and its construction of a teleological determinism, in which societies
+canton system, the idea is that decision making is allocated as much as possible to
+the local level, in line with the idea of democratic confederalism. The cantons border Turkey in the north and are separated by territory controlled by Islamic State
+and other Jihadi groups. Kobanê and Cizîre were connected in June, 2015, with the
+liberation of the city of Tel Abyad (Girê Sipî), which is now part of the Canton of
+Kobanê.
+
+© Equinox Publishing Ltd. 2016
+
+Michael Knapp and Joost Jongerden
+
+91
+
+pass through evolutionary “stages” of political organization to the present of
+nation-states. In his work developed from his court “defence” on trial in Athens
+and subsequent “prison writings” through the 2000s, Öcalan rejects the idea of
+a linear societal development and its basis of material conditions (the development of production forces), arguing that history is driven by social struggles.
+The development of capitalism and class relations are not a necessary steppingstone to socialism, and can be by-passed:
+The emergence of hierarchy and class rule has not been inevitability but the product of force. Hierarchy and, based on it, the formation of statehood were implemented by the use of massive force and
+deceit. The important forces of natural society untiringly resisted and
+were steadily forced pushed back and their room to move maximally
+reduced. Some areas they [hierarchy and class rule] were never able to
+access. [Nevertheless,] the policy and propaganda of the ruling system
+has succeeded to the extent that one sees the whole society exclusively
+formed out of class- and state hierarchy. (Öcalan 2010a, 20)2
+Instead of taking capitalist society and relatedly the proletariat as the leading
+agent of change, Öcalan started to orient himself towards what he referred to
+as “natural” or “organic” society, a society untouched by commodiication and
+assimilative bureaucracies, which he thought to have existed in the Neolithic
+period some 10,000 years ago: “During the Neolithic period a complete communal social order, so called ‘primitive socialism,’ was created around woman,”
+a social order that ‘saw none of the enforcement practices of the state order’
+(Öcalan 2010, 9). Institutional hierarchies, Öcalan argues, did not exist at that
+time, in that stage of development. This idea of a natural or organic society
+bears clear resemblances to the concept of ‘primitive Communism’ developed
+by Morgan (1881), as well as by Engels (1894, 155), Childe (1948, 12) and others.
+From the Marxist viewpoint of historical materialism, however, the phase of
+primitive communism had necessarily to be overcome by statist society on the
+journey through feudalism and capitalism to socialism and communism.
+Although Öcalan and the PKK had been strongly inluenced by Marxism-Leninism, they thus replaced the dialectic-materialist principal informing the necessary passage through the stages of economically based socio-political development with the concept of building up radical democracy in the here and now
+– and, moreover, viewing the social fabric in the Middle East, which has not
+been totally absorbed by capitalism, as an advantage. The less “advanced” polity of the area in which Kurds live – arrogantly negated in the discourse of the
+Turkish state that Öcalan grew up with, of course – now becomes a relatively
+fertile ground for development along a different, non-modernist line. Öcalan is
+2.
+
+Authors’ translation (and below, for all Öcalan 2010a and 2010b quotations).
+
+© Equinox Publishing Ltd. 2016
+
+92
+
+Communal Democracy
+
+implying in his argument, therefore, a destruction that commodiication and
+assimilation does to the people in the statist societies of capitalist modernity,
+isolating them from one another and deining them as amorphous masses to
+be ruled under the tutelage of elites around concepts of national statehood.
+Therefore, the linking of people together in councils and creation of a kind of
+active and activist citizenship is one of the bases on which the alternative to
+nation-state and capitalist modernity can—and should—be built.
+In the proposed system of democratic autonomy and democratic confederalism, the former refers to a re-grounding of the political status of people, on the
+basis of self-government rather than on peoples’ relations with the state.3 Democratic confederalism aims at the strengthening of local administrative capacities organized in the form of councils at the very local level, of streets and then
+neighbourhood, through district/village and town/city to region. Thus, democratic confederalism may be regarded as the form of self-administration in
+which autonomy is organized. Öcalan considers this a necessary and decisively
+break from centralized and representative systems, which turn politics from
+collective decision-making to individual choice and are based not on social relations among people but on individual relations of people with the state, turning
+politics into a private activity:
+As opposed to the binding the people to the state with election rituals,
+democratic practice operates to empower the people to their own existence, freedom and self-administration. To pursue position within state
+power and have the people accept the continuation of power based
+relationships equate to the striking of a heavy blow at democracy. I
+characterize the development of democracy in this particular way in
+the 19th and 20th centuries as treason to Democracy. The democratic
+struggle in Kurdistan only makes sense if it is fought according the
+primary deinition of democracy. The game of electing some to rule is
+nothing other than that slaves’ coming together from time to time to
+conirm the rule of the same masters. (Öcalan 2010b, 498)
+Instead, of deining democracy through the state, Öcalan searches for a formulation of democracy without it:
+The organization of the democratic society in form of a network of
+organs of civil self-administration means a movement from democratic
+city councils to quarter and village communes, from cooperatives to
+NGOs with a wide social base, from human rights and children’s rights
+and animal rights organizations to vanguard organizations of women´s
+liberation, ecology and youth. (Öcalan 2010b, 205)
+3.
+
+Duran Kalkan, personal communication, 28–10–2014. Kalkan is a member of the
+executive council of the PKK.
+
+© Equinox Publishing Ltd. 2016
+
+Michael Knapp and Joost Jongerden
+
+93
+
+The project of democratic confederalism can be considered a sedimentation
+of this networked character of self-administration. In practice, this has meant
+that with the beginning of the revolution in Rojava, peoples’ councils were
+introduced at the level of city quarters, cities and cantons.
+
+The revolution in Rojava
+The PYD was established in 2003, following a reorganization and organizational
+differentiation within the PKK. This reorganization and differentiation followed debates on the centralized character of the party and was one of the irst
+products of the paradigm shift from state building to self-government. The PYD
+was one of the new organizations in the new complex of political organizations
+following the dissolution of the PKK as centralized party. The PKK transformed
+into a party-complex, a formation of parties and organizations comprising several parties (including the PKK as a party), a co-party that separately organizes
+women, and sister parties in Iraq, Iran as well as in Syria, the PYD, and selfdefence forces. Alongside this cluster of parties, the PKK established institutions through which the integration and coordination of political practices is
+facilitated. The most important of these today is the Association of Communities in Kurdistan (Koma Civakên Kurdistan, KCK), which is basically a network
+of village, city, and regional councils, whose assembly is called the Kurdistan
+People’s Congress KONGRA-GEL. TEV-DEM is part of this KCK. In short, the
+PKK today is a movement that has institutionalized itself in diverse areas and
+expresses itself in a radical democratic discourse.
+After the Turkish government broke its relations with the Syrian government
+in 2011, allegations were made of collaboration between the Ba’ath party and
+the PYD (Allsopp 2014, 41), mainly by competing forces in Syria, e.g. nationalist
+Arab opposition and Kurdish forces collaborating with Turkey. Moreover, Kurdish parties have also been negotiating with the Syrian government for more
+political rights over the last 50 years (Allsopp 2014, 197). Yet the political outlook of the PYD, defending a strengthening of society vis-a-vis the state through
+a form of active citizenship and self-government stood square to the objective
+of Assad to restore centralized state rule in Syria, the idea of self-rule was also
+received negatively by the conservative Arab opposition. On several occasions
+YPG/YPJ (and later SDF) forces clashed with pro-Assad forces, among others
+in Aleppo, Qamislo and Hasakeh. Moreover, since 1999 relations between the
+Syrian government and the PKK had deteriorated following the extradition of
+PKK leader Abdullah Öcalan in 1998, and from its inception in 2003, the Syrian
+regime considered the PYD as distrustful (Tejel 2009, 117; 122). The PYD (and
+Yekiti), unlike other Kurdish political parties, succeeded in politicizing Kurdish
+identity because of the repression (Tejel 2009, 123).
+
+© Equinox Publishing Ltd. 2016
+
+94
+
+Communal Democracy
+
+The councils in Rojava did not just appear in the summer of 2012, when YPG
+forces took Kobanê on July 19, followed by Amude and Afrin on July 20, and
+Derik and Qamislo in the days after. In less than two weeks, regime forces pulled
+back to the periphery of Rojava, though keeping strongholds in Hasakeh and
+Qamislo. The councils had been a work in process since at least 2004. This was
+partly in response to the so-called Massacre of Qamislo (Al-Qamishli) in 2004,
+when after a football match between teams from Qamislo and Deir-el-Zor, whose
+tribal population is known to have strong sympathies for the regime of Saddam
+Hussein, Arabs attacked Kurds, leading to the deaths of more than 70 people
+and injuring hundreds.4 This incident came at the same time that, inspired by
+Abdullah Ocalan, the new paradigm started to land within the organization. In
+2005, the Association of Associations in Kurdistan KKK (Kôma Komalên Kurdistan) was established, later renamed into KCK, or Association of Communities in
+Kurdistan (Koma Civakên Kurdistan), which aimed at the development of a selfgovernment system based on the establishment of a council-democracy. This is
+understood as a move of and toward activist citizenship or the “transformation
+of subjects into actors on a huge scale” (Isin 2008, 18).5
+The so-called “Arab Spring” had a big effect in Syria. Due to the strength of the
+Syrian regime, its backing from Iran and Russia and its brutal reaction to the irst
+uprisings, followed by the militarization of opposition forces by regional powers like Turkey, Qatar and Saudi Arabia along with the EU, UK and the USA as
+international powers, the protest and the struggle for democratic change became
+4.
+
+Then in north-east Syria, Qamishlo is on the Turkish border; the attack, initially
+by supporters of Saddam Hussein at a football match, continued as the violence
+spread and regime security forces took control of the city.
+
+5.
+
+Importantly, this occurred in a context that Kurdish political parties were in the midst
+of a crisis when the Syrian uprising took place in 2011 while Kurdish political consciousness was higher than ever (Allsopp 2014, 176). Harriet Allsopp relates the crisis,
+among others, to factionalism, elitism, ideological weakness and political inabilities,
+while consciousness was high as a result of increasing internet access and Kurdish satellite TV, providing accessibility to information on the struggle of the Kurdish national
+movement elsewhere. The PYD, who acted as a catalyst of the TEV-DEM movement,
+very well sensed this situation, investing in grass-roots political development. When
+the uprising in Syria took place, in most Kurdish cities youngsters took the street,
+reclaiming the streets (Allsopp 2014, 196). Kurds, however, were suspicious about the
+Arab opposition, which, in the irst year was dominated by the Turkey-supported Muslim brotherhood and that adhered to a Arab nationalist agenda and rejected political
+decentralization and Kurdish political rights. Not alleged ties with Assad, but the antiKurdish attitude was a reason for the resistance of the PYD against the Free Syrian
+Army. Salih Muslim, in 2011, declared that they did not only want a regime change, but
+a system change: “We demand a fundamental change to the oppressive system. There
+are some who hold up the slogan: the fall of the regime. In contract we demand the fall
+of the oppressive authoritarian system” (cited in Allsopp 2014, 209).
+
+© Equinox Publishing Ltd. 2016
+
+Michael Knapp and Joost Jongerden
+
+95
+
+transformed into a protracted civil and sectarian war. In Rojava, meanwhile, the
+movement for a Democratic Society (Tevgera Demokratîk, TEV-DEM) had been
+founded by cadres previously active in the PKK and later in its sister-party, the
+PYD. While TEV-DEM was developing an assembly structure in secret in Rojava,
+the war was approaching too when the Syrian oposition took the cities of Cerablus (Jarablus) and Minbij (Manbij) to the west of the Euphrates. In response to
+this development, PYD/TEV-DEM decided to drive the Syrian state out of Kobanê,
+which ignited the Revolution of Rojava in the two other cantonal regions, Cizîrê
+and Afrin. The People’s Defence Forces (Yekîneyên Parastina Gel, YPG), previously
+an underground organization bound to the councils, became the oficial defence
+force (now bound also to the parliamentarian structure). It is important here to
+note the kind of defence force the YPG is, as a new development in the Kurdish
+area, itself also a part of the system of democratic autonomy.6
+Normally, military units in the Kurdish area have a history and operate as
+party militias, such as the (Iraqi Kurdish) Peshmerga attached to the Kurdish
+Democratic Party (KDP, or Partiya Demokrat a Kurdistanê, PDK) or the Patriotic
+Union of Kurdistan (PUK) or some also to the Gorran Party. Therefore, the YPG
+is often misinterpreted as the party militia of the PYD—which is not the case,
+since it is under the democratic control of councils and their parliament, and
+its members and commanders come from various parties and ethno-cultural
+backgrounds—as conirmed by our observations during several visits to Rojava.
+Furthermore, the YPG is sworn to the principles of democratic autonomy of
+gender equality, radical democracy and social ecology. In that sense, one could
+interpret the self-defence units as places of education, which is valued highly in
+all the democratic autonomy institutions of Rojava.
+When people together with the YPG surrounded military bases at the start of
+the open rebellion and revolution in northern Syria, the state retreated from
+the region mostly without bloodshed, though keeping control over certain
+neighbourhoods in Qamislo and Hasaka. When the regime in Rojava imploded,
+people had to organize themselves. In this context, we can identify two factors
+at work in the application of the model of democratic autonomy in the region.
+On the one hand, there is the need to organize daily life without an existing
+administration—and we know from many examples of such forms of organization in times of crisis that humans tend to spontaneously initiate collective
+solution process to secure basic alimentation, energy and security needs. On
+the other hand, there is the long history of the PKK in the region and the development of its paradigm of radical democracy and council systems, since at least
+1999. People did not give up in resignation, but immediately took power in the
+form of councils at every stage. Parties exist, too, but have lost much of their
+6.
+
+Remo, Hesen, http://tr.hawarnews.com/rojava-devriminin-3-yili/.
+
+© Equinox Publishing Ltd. 2016
+
+96
+
+Communal Democracy
+
+importance as mechanisms of representation. The PYD in particular became
+more an institution to support the development of radical democracy then the
+classical model of political party.
+
+Social contract and council democracy
+On the 29th January, 2014, the social contract of Rojava, developed by people
+from all socio-ethno-religious identities in Rojava, was ratiied by the councils
+and the parliament in Amude. This document has the character of a draft to be
+discussed and revised but securing the institutions of council democracy and
+the values of secularism, gender-liberation and multi-identity. The preamble of
+the contract runs thus:
+We, the people of the Democratic Autonomous Regions of Afrin, Cezîre
+and Kobanê, a confederation of Kurds, Arabs, Assyrians, Chaldeans,
+Arameans, Turkmen, Armenians and Chechens, freely and solemnly
+declare and establish this Charter, which has been drafted according to
+the principles of Democratic Autonomy.
+In pursuit of freedom, justice, dignity and democracy and led by
+principles of equality and environmental sustainability, the Charter
+proclaims a new social contract, based upon mutual and peaceful coexistence and understanding between all strands of society. It protects
+fundamental human rights and liberties and reafirms the peoples’
+right to self-determination.
+Under the Charter, we, the people of the Autonomous Regions, unite in
+the spirit of reconciliation, pluralism and democratic participation so
+that all may express themselves freely in public life.7
+Social contracts since Rousseau (2002 [1762]) have always been concerned with
+how the relationship between state and people as sovereign is organized, where
+the people is the sum of the individuals living in the territory to which the contract applies (over which it has jurisdiction). This dissolves the will of the individual into the state, and the ensuing representative democratic discussion places
+the individual at the centre in the context of the rise of protestant ethics and capitalism (Weber 2005: 84). The social contract of Rojava goes beyond state and individualism and thus redeines democracy in two interrelated ways. First, the model
+of the national state is clearly rejected: “The regional administrations of democratic autonomy do not accept the understanding of national, religious or militarist statehood and, at the same time, reject central administration and centralized
+power.”8 Stepping back from a centralized understandings of power involves all
+7.
+
+http://peaceinkurdistancampaign.com/charter-of-the-social-contract/.
+
+8.
+
+http://kantonrojava.com/peymanameya-hevpeymana-civaki/ Translation by authors.
+
+© Equinox Publishing Ltd. 2016
+
+Michael Knapp and Joost Jongerden
+
+97
+
+regions and localities inding, as far as possible, their own way of tackling the
+issues of administration and government as appropriate to the social composition
+and general situation of the community. This leads us to the second point, that
+people are related to one another by the idea of community organization.
+This model emphasizes the concept of organising the cohabitant singularities of the multitude in line with the models of self-representation and selforganization, as explained below, wherein the institutions of self-organization
+are not conined to cultural and ethnic categories of identity, which are composed by monistic national states, but open also to the constitution of new entities of identity. Thus, the duality of individuum-state is overcome, horizontally
+as opposed to hierarchically linking individuals through collectives to form a
+political will developed from multiplicities (or a multitude born of pluralities)
+rather than singularities. Therefore, the social contract does not produce a
+state, or a sovereign power, vis-a-vis individual people, but is based on the idea
+that politics emerges from relations among (territorially deined) groups of
+people. This represents a radical break from mainstream social contract thinking, based as it is on a methodological individualism and statism.
+Bookchin (1990, 11) argued that confederalism reaches its fullest development in relation to a project of autonomy, “when placing local farms, factories, and other enterprises in local municipal hands” or “when a community (…)
+begins to manage its own economic resources in an interlinked way with other
+communities.” In this model, the economy is placed in the custody of the confederal councils, and thus “neither collectivized nor privatized, it is common”
+(1990, 10). In Rojava, buildings, land and infrastructure that were formerly the
+property of the Syrian state were given to the control of the city councils in
+2012. The councils implemented what is referred to as ownership by use, which
+grants individuals usage rights to the buildings, land and infrastructure, but
+not the right to sell and buy on the market or convert them private enterprises.
+This usage ownership or stewardship is intended to prevent speculation and
+the concentration of the wealth in the hands of a few (Strangers in a Tangled
+Wilderness 2015, 26). In the cantons of Afrin and Cizîre, many cooperatives have
+already been developed. Most of them, according to the decentralist concept of
+democratic autonomy, are small cooperatives, but there are also some agricultural cooperatives in which more than 2,000 households participate, near the
+city of Amude. The big cooperatives operate among villages satisfying the need
+for agricultural subsistence and even producing a surplus for exchange with
+other cooperatives, like reineries, and for sale at the markets.9
+Parallel to this declaration of democratic autonomy with the social contract,
+the organization of people’s councils and especially communes grew more
+9.
+
+Interview, Economic Commission, Canton of Cizîre, 2 November, 2015.
+
+© Equinox Publishing Ltd. 2016
+
+98
+
+Communal Democracy
+
+intense.10 While before, the development of self-administration in Rojava had
+involved the establishment of peoples’ councils at the level of city and quarter, now streets and neighbourhoods started formalising their organization as
+institutions of democratic autonomy. According to TEV-DEM member Abdulselam Ahmed, there had been a gap between quarter councils and the population
+before, so the system of the “commune” as smallest unit for the organization of
+society was initiated from the beginning of 2014.11 Thus, the commune may be
+identiied as the most important part of the process of self-administration and
+self-government in the system of democratic autonomy.12
+To deine the smallest unit of representation as the most important is striking
+and a key to the philosophy of communalism and democratic confederalism. The
+anti-statist ideology of the Kurdish movement is to take the power of the state
+and return it to the individual, employing the commune as the medium for this.
+Every commune has to be seen as a political and moral unit of society. Radical democracy is seen as the opposite of the statist system, in
+which the parliament is implementing rules on society. The system
+of the communes means a system in which the executive comes from
+below; it is formed by the city quarters and villages, where councils
+are set up to give every individual the opportunity to participate in the
+mechanisms of decision-making.13
+We have seen, communes which constituted out of around 20–50 households,
+although they can even be bigger, depending on the grade of social organization. This is also visible in the size of communes from 7–300 households, more
+than 1500 communes in the Canton Cizîre and 18 communes in the small city
+of Amude which form two quarter councils. Nobody is obliged to join a commune but everybody is able to use the services of the commune. Our (May
+2014) research made in Hasaka, a city with a pre-war population approaching
+two-hundred thousand, suggests an average of 50 households per commune in
+16 quarters, with 29 communes in the quarter of Mifti, one of the most well10. Steps to widen the model of Democratic Autonomy were taken on the October 10,
+2015 when the Syrian Defence Forces, a united multi-ethnic and multi-identical
+defence force was founded, and on the March 17, 2016, when the committee for the
+foundation of a Democratic Federation of Northern Syria/Rojava was proclaimed.
+With this proclamation, it was underlined that democratic confederalism and democratic autonomy are not Kurdish projects, but projects for Syria as a whole. In
+regions which aren´t predominantly Kurdish inhabited, like the region around Gîrê
+Sipî (Tall Abyad), they are being implemented too.
+11. Interview, Abdulselam Ahmed (Cochair of TEV-DEM), Hasaka, 21 May, 2014.
+12. Cf. http://tr.hawarnews.com/rojava-devriminin-3-yili-5/.
+13. Demokratik Özerklik (Demokratik Öz Yönetim), 2015, p.3
+
+© Equinox Publishing Ltd. 2016
+
+Michael Knapp and Joost Jongerden
+
+99
+
+organized.14 While the communes and quarter councils are institutions of selfrepresentation of the population only, the city councils have a more expanded
+make-up. In Hasaka, together with 101 individuals from the 16 quarter councils, a total of 30 individuals from civil society organizations were active on the
+city council (comprising ive members of the PYD, ive of the liberal party, ive
+of other parties, ive of the “civil institutions of families of martyrs,” ive of
+the women’s movement Yekîtiya Star and ive of the youth movement Ciwanên
+Șoreșger). The city council meets every two months and has elected 21 people
+as a leading committee. While in the councils we can see decision-making performed through a combination of consensus and vote, the leading committee
+only takes decisions by consensus.15
+In the small town of Dêrîk (Al Malikiya) also, there is an average density of
+around 50 households per commune. The density of communes is higher in
+quarters with mainly a Kurdish population at the moment, but Arabic and Suryoye16 have started organizing themselves in communes, too.17 If one counts an
+average of 20 communes per thousand (adult) inhabitants, then 50 people can
+participate in each commune meeting.18 From our personal experience, the
+actual attendance igure is much smaller, but still very reasonable in general,
+with 10–25 participants. A 20–50% participation rate may be considered problematic; we would argue, the contrary, that it is strikingly high as a measure of
+routine involvement in local politics. Also, as one of the thinkers of democratic
+confederalism, Murray Bookchin (2015, 51–52), noted, full participation of the
+half million or so residents in the Commune of Paris would have been logistically impossible, and as in Paris in 1793 so in Rojava today, participation cannot
+be compulsory—not only because such an obligation would contradict the very
+ethos of radical democracy. Rather, therefore, the focus is on building a working structure with people who want to participate.
+The system of communes is very much in the process of development and one
+can observe the creation of new communes and councils over the years. In the
+normal practice of this system, the people are being empowered and encouraged to participate in the meetings of the commune and especially to go and take
+14. The commune/quarter igure is an estimate and valid only for the areas under control of the self-administration; the relatively low quarter number is due to control
+of part of the city by the Syrian state, and of some neighbourhoods by IS even; the
+situation is constantly changing (only in the quarters under self-administration
+was there a relative stability).
+15. Interview, TEV-DEM, Hasaka, 21 May, 2014.
+16. General name for the Christian population of various confessions.
+17. Interview, Silvan Afrin, May 2014, Derik.
+18. The minimum age for commune meeting participation is 16.
+
+© Equinox Publishing Ltd. 2016
+
+100
+
+Communal Democracy
+
+part when decisions against their will and interest are made. This means that
+the entire decision-making process regarding needs and issues in the commune
+vicinity is locally determined and completely accessible. Therefore, moreover,
+commune activities extend beyond decision-making, as members interact and
+become involved in cultural and social activities and also systematically visit
+households to explain and discuss the decisions of the commune and to build
+up a network to organize society. As a member of the quarter council of Hileli
+in Qamislo explains, “Through the system of communes we know every single
+family; we know their economic situation, who is beating his wife or his children,
+and we go there and speak to the people affected, until a solution can be found.”19
+In the ideology of the PKK as in the council movement in Rojava, women’s liberation plays a major role in democratising society. To this end, all structures
+have a gender quota. No commune is able to decide anything without fulilling a
+40% gender quota. All structures in democratic autonomy work like this and use
+the model of co-chairpersonship (Hevserokatî). All posts at all levels of the selfadministration have to be co-occupied by at least one male and one female. For
+example, the co-mayors of the city of Gire Sipî (Tall Abyad) are an Arab man and
+a Kurdish woman.20 The women also represent the decisions of the autonomous
+women’s movement, which has its own parallel structure at every stage of the system. In one discussion at a commune meeting witnessed by the irst author, the
+people present were talking about a family who mistreated their young daughter
+by locking her in at home. The women’s council of the commune explained their
+decision to speak with the parents and the daughter and to observe the situation.
+If the situation did not change and the girl agreed, they explained, then some sort
+of a solution outside of the family would have to be found for the girl.
+Discussions like the one above, on the young girl’s domestic situation, exemplify the idea of the commune as a practical means of democratising society to
+some depth, not just as a supericial process paying lip-service to abstract ideas
+about “the people.” To do this, the commune has its own public centres, the
+people’s houses (Mala Gel) and parallel women’s house (Mala Jinan):
+The mala gel was founded in 2012. When our cities were liberated these
+were the irst [institutions] to be established. The mala gel is... well, it is
+not a court, but a place where we people can ile our complaints. If you
+have complaints about the government, if you have complaints about
+your brother or neighbour, you can go to the mala gel. The mala gel tries
+to resolve those complaints. If the mala gel can’t solve a problem, they’ll
+make a ile and send it to the court. If the mala gel comes up with a solution and one or both of the parties doesn’t accept the solution, then the
+19. Interview, Shirin Ibrahim Omar, Qamishlo, May 2014.
+20. Research in Girê Sipî. MK, October 2015.
+
+© Equinox Publishing Ltd. 2016
+
+Michael Knapp and Joost Jongerden
+
+101
+
+case will go to the court, together with an evaluation by the mala. (...)
+So, the mala gel is an institution that listens to complains and problems,
+and offers mediation. (...) Most of the complaints at the mala gel are
+about problems between husbands and wives or about land conlicts.21
+The commune has become the most important part of the system of selfadministration in Rojava. In order to be able to address all kinds of problems,
+the commune has taken up the model of committees. There are committees
+for social-economy, health, defence and security, civil society, human rights,
+women’s liberation, ecology, understanding, education, justice and youth. This
+system of committees derives in part from a suggestion made by Abdullah
+Öcalan in 2013 and adapted to the structures of democratic autonomy generally, such as the Congress for a Democratic Society (Demokratik Toplum Kongresi,
+DTK)22 in northern Kurdistan/southeast Turkey.23 Silvan Afrin, from Yekîtiya
+Star, described the commune committee structure and its operation thus:
+The commune builds various committees. At least three people are
+responsible for each committee… The committees are developed
+according to their needs. If a committee can’t solve a problem, it will be
+handed over to the quarter council. Peace committees have been set up,
+and if there is dispute in the quarter it’s discussed and solved.24
+In many cases, we observe more than ive people on committees, especially
+in the defence committees.25 These committees try to cope with all the problems that can come up in society. At Hasaka, for example, the committee for
+the economy is building up cooperatives under the control of the community,
+while the commune for health looks at the medical needs of the population; the
+defence committee functions as the irst line against attacks on the community,
+including criminality, while the education committee is organizing teach-ins
+every Friday and long term seminars for members.
+Another example of the commune/committee system in its role of problem
+identiication and resolution, as witnessed by the irst author in May, 2014, was
+that of the organization of the electricity supply in the Xerbî quarter of Qamislo.
+In this quarter, there are six communes with 25–30 people in each actively par21. Personal communication, SH, 27 November 2015.
+22. The DTK is a platform of civil society groups, councils, and other parties working
+for the creation of democratic autonomy in Northern Kurdistan as a confederation of the organizations of Kurdish society. On 14th July, 2011, an assembly of 800
+organization representatives on the DTK declared democratic autonomy in Northern Kurdistan.
+23. http://ozgur-gundem.com/haber/109668/kongreden-ilk-adim-8-komisyon.
+24. Interview, Silvan Afrin, Derik, May 2014.
+25. Çimen, Ahmet, http://yeniozgurpolitika.org/index.php?rupel=nuce&id=32757.
+
+© Equinox Publishing Ltd. 2016
+
+102
+
+Communal Democracy
+
+ticipating. The communes came together at a quarter council assembly to solve
+the problem of pollution caused by generators operating at every house and
+collected money from NGOs and the population to buy a generator which is
+now providing electricity for more than 230 households at least ten hours a day.
+A committee of ive people was created to look after the generator (turn it on
+and off, organize its fuel provisioning and deal with any maintenance issues).
+Here, we observe how the “higher institutions,” like quarter councils, operate
+at the system of commune confederation to handle problems that a single commune cannot. The communes link to the quarter councils by reporting on their
+activities and meeting weekly in the Mala Gel. The quarter councils report to the
+city council and meet monthly with the city assembly, at which the city council
+as communal institution participates and executes the decisions of the assemblies, and a plan for the next month is made.26 Importantly, the self-administrative structures with the greatest power are the smaller, local structures,
+because they both directly solve problems and deine the discussions made in
+the higher councils. Indeed, one may say, the higher the council, the lesser its
+power in democratic confederalism. (c.f. Bookchin 1996, 320).
+This brings us to the topic of social acceptance and dual power. Rojava is a
+region of diverse cultural and religious backgrounds, and even in the Kurdish community there is a wide spectrum of asynchrony in the development of
+the concept of active citizenship. A study made by the Institute for Strategic
+Research based in Qamislo on the support for democratic autonomy in Cizîre
+Canton in December 2013 found that 84% of the population had a positive view
+on that model.27 We cannot say how representative this statistic is, but clearly
+there is at least a signiicant minority that appears not to accept the model of
+democratic autonomy and self-representation through the council system, or
+at least its present operation there. This might be one of the reasons why a
+parallel, dual structure is being established. Besides the council system there is
+a parliament, with its seat in Amude. There, all parties ready to participate are
+represented, forming, together with the councils and NGOs, the government of
+Rojava. Elections at canton level have thus far not been possible because of the
+war situation and the permanent luctuation of the population.
+The cooperation of this dual structure is manifested in the parliament of
+Amude, where the traditional parties, as well as TEV-Dem council delegates
+and civil society organizations participate. TEV-Dem is playing a big role in the
+administration of Rojava as an umbrella organization for democratic autonomy. On one hand, it is an alliance of 56 councils, civil society organizations and
+26. Çimen, Ahmet, yeniozgurpolitika.org/index.php?rupel=nuce&id=32757.
+27. www.navendalekolin.com/haber-3836-JI-SEDI-611-HIKUMETA-HEREMA-KURDISTANE-LI-DIJI-REVEBIRIYA-XWESERE.html
+
+© Equinox Publishing Ltd. 2016
+
+Michael Knapp and Joost Jongerden
+
+103
+
+political parties28. A PYD representative explains: “TEV-DEM is mainly a consultative body that deals with the relationships between the entities [a concept
+referring to ethnic, cultural or religious groups] and a dialogue between political parties, but it has no executive power.”29 On the other hand, it does provide
+the initiative for establishing and building new councils and supporting new
+communes. Civil society participates through TEV-Dem and through its own
+organizations themselves in the parliament, too, with women’s, religious and
+other social groups. All ministerial chair posts in the parliament are occupied
+by at least one man and one women, as mentioned (above), but positive discriminating in favour of minorities like Ezîdîs (Yezidis). Unlike in conventional
+parliamentarism, however, parties are not dominant; they are represented in
+the same way as, for example, teachers unions or other NGOs.
+Six parties participate in TEV-Dem: the PYD (the party with the most support
+in Rojava), the Liberal Party, the Communist Party of Kurdistan, the National
+Kurdistan Union Party (Muhammed Abbas), the Peace and Democracy Party
+(Adulkerim Zekho) and one wing of the PDKS (the wing of PDKS which refers to
+the Barzani family to Mustafa Barzani but is critical on the policy of Mesud Barzani). Arabic and Syriac parties, like the National Arabic Commission and the
+Syriac Union party, also participate in the administration. Members of the parties that do not boycott the system of Rojava in general acquire high positions,
+up to the Kobanê Canton’s co-minister for foreign affairs Idriss Nassan (Syria
+Kurdistan Democratic Party, Suriye Kürdistan Demokrat Partisi, PDK-S). This integration of parties into the self-administration of Rojava has led to splits in many
+parties with one wing siding with Rojava and one wing with the PDK of Barzani.
+Finally, the multitude of identities in society is also represented at various levels. In the parliament, as in every council, there are various methods employed to
+facilitate this. People represent themselves in the communes and councils irst,
+as people of Rojava or as inhabitants of a canton, a city, quarter or street. Then,
+as mentioned, women´s councils are constructed parallel to every structure and
+elect their own chairwomen and have their own representation in the councils. In councils that include a population of mixed major identities, like Ezîdîs,
+Suryoyes or Arabs, there will be always a quota of people from that group on the
+board of the council. Finally, there is the sector of civil society, where all identity
+groups organize their own autonomous institutions that represent themselves
+28. Apart from the Democratic Union Party PYD, the following parties are member of
+TEV-DEM: Partiya Aştiya Demokratîk Kurdi li Sûriyeyê (Peace and Democracy Party
+of Kurdish Syria), Partiya Kumonîst a Kurdistanê (Communist Party of Kurdistan),
+Kombuna Niştimanî Kurdistanî (National Assembly of Kurdistan), Partiya Yekîtiya
+Lîbralî ya Kurdistanî (Liberal Union Party of Kurdistan), Partiya Demokratîk Kurdistantî li Sûriyeyê (Kurdistan Democrati Party in Syria)
+29. Personal communication, SH, 27 November 2015.
+
+© Equinox Publishing Ltd. 2016
+
+104
+
+Communal Democracy
+
+together with the political parties, labour organizations and other structures,
+like human rights groups, at all levels and stages of democratic autonomy and
+work as a kind of control against discrimination and sectarianism.
+
+Discussion
+Doing research on the development of the council system in Rojava means taking series of snapshots and witnessing a process unfolding. This is part of the
+logic of democratic confederalism, which is constructed bottom-up. Smaller cities, like Derik, of around 26 thousand inhabitants according to the 2004 census,
+are organized as several “communes” (komun) at the level of neighbourhoods,
+which have their representatives in a city council (meclise bajar). The city council has its representatives again in the council of the Canton of Cezîre, which
+again has its representatives in the Coordination of the Rojava Cantons, which
+includes the Cezîre, Kobanê and Afrin cantons. Larger cities, like Qamislo, with
+a population of 184 thousand according to the 2004 census, may have several
+communes in a neighbourhood, and therefore not only communes and a city
+council, but in between also a forum for deliberation between communes at the
+neighbourhood level. The idea is that communes take responsibility over their
+own neighbourhoods, and that when the city-council wants a project executed
+in a neighbourhood, this is done in consultation and with the approval of the
+communes. In our experience, every visit to the region gives new insights into
+the unfolding reality and relations of institutions and people to one another
+(in the war situation). Therefore we see democratic autonomy not so much as
+model of being, but as a working practise based on the idea of self-government,
+and if one likes, a model of becoming. Institutions are lexible and adaptable,
+changing their roles in time and space. Therefore, all deinitions of institutions
+are methodologically provisional. This shows us the impossibility of giving a
+ixed deinition on a status quo in Rojava and its administrative structuring.
+The Rojava experience—if we may call it that—is above all a radicalization of
+the idea of democracy. It is not based on the idea of state and its individualized
+relations with citizens but on the idea of social subjects. As such, it contrasts
+with the social contract or contractarian model, based on the idea of “an atomic
+individual coming into society as a contracting agent” (Ferguson 2007), which
+creates a direct personal submission towards the state and a destruction of relations among people, bringing democracy into the early modern conception,
+when it was considered to be the rule of everyone by everyone (for a discussion
+see: Jongerden 2015). This brings to the fore the tension between democracy
+as the rule of everyone by everyone and democracy as a system of representation (Hardt and Negri 2004, 240). Representation not only implies a connection
+between the represented and representative, but also disconnects the rulers
+from the ruled: “When our power is transferred to a group of rulers, then we no
+© Equinox Publishing Ltd. 2016
+
+Michael Knapp and Joost Jongerden
+
+105
+
+longer rule, we are separated from power and government” (Hardt and Negri
+2004, 244). Representation does not only separate people from power, but also
+turns politics from a public capacity into a private one, resulting in a separation
+of people from one another, the second problem.
+The ballot box engages the capacity of private choice, since it is based on
+giving people a right in their private capacity, the right to vote. But political
+action, Hannah Arendt argues, involves standing in front of others to form
+opinions, the space of a plurality of perspectives on which proper opinions on
+political topics can be formed (Sitton 1987). The ballot box does not provide
+a space to be public and political, but only one to act privately and express a
+preference among alternatives presented. Political activity cannot be narrowed
+down to the individual right of choice, since is also about a public engagement
+with others; as Arendt (1958, 57) notes, the signiicance of being seen and being
+heard by others derives signiicance from the fact that everybody sees and
+hears from a different position. For Arendt, freedom is the freedom to act as citizens, and this means to participate, to be heard, to debate, to exchange views
+and to make decisions. Freedom, therefore, is not about giving people power
+in the private capacity, but about people being empowered in their capacity
+as citizens though the establishment of a public space. Thus does Arendt (1990
+[1963], 253) refer to council democracy as a treasure of the revolutionary tradition, the public space that people historically created to form opinion and make
+decisions, to rule themselves as related to one another.
+Assembly democracy implies the forming of opinions “in a process of open discussion and public debate;” people need to become proactive, to lead the process,
+since it would not sufice were we merely ‘supporting, while action remained the
+prerogative of government.’ (Arendt, 1990 [1963]: 268-9, 271) It is precisely this relationship that the co-chair of the PYD, Salih Müslüm, criticizes, arguing that the
+relations between state and people in the Middle East over the past decades have
+been conceptualized and practiced in terms of an active state with the people as
+its objects, while the new model of democratic autonomy and democratic confederalism is based on active citizenship, with people as subjects in their capacity to decide and act, debating problems and enacting solutions by the people
+and for the people.30 In a similar vein, Cemil Bayık31 (personal communication,
+Ocotober 30, 2014) and Duran Kalkan (personal communication, Ocotober 30,
+2014) argue that this paradigm shift includes, among other things, a move from
+state-building to society-building, and, relatedly, from taking power (“iktidar,”
+30. Salih Müslüm speaking at the Conference on New Models and a Solution of the Kurdish
+Issue, Flemish Parliament, Brussels, 19 September, 2013.
+31. Cemil Bayik is the co-chairperson of the KCK, the umbrella organization for democratic autonomy working in all parts of Kurdistan and among the diaspora.
+
+© Equinox Publishing Ltd. 2016
+
+106
+
+Communal Democracy
+
+as in state or sovereign power) to the development of societal self-governing
+capacities.
+We may refer to the ruling of ourselves as the art of citizenship, or the art of
+democracy. One problem resulting from the separation of people from politics in
+representative democracy is that people do not acquire the skills for self-administration. Such a reskilling is also a part of council democracy, as revealed in the
+words of one of its practitioners. “Our aim,” explained the chair of a council in
+a poor neighbourhood in Diyarbakir, “is to face the problems in our lives, in our
+neighbourhood, and solve them by ourselves without being dependent on or in
+need of the state.” A member of the council added, “We try to live without the
+state”—but, he tempered, “the idea of the state is nestled in the minds of people
+and it is dificult to make people think about politics without referring to the
+state, so we are both practicing self-organization and learning to understand
+what it is by doing it” (Jongerden and Akkaya 2013, 183–184).
+Many of our interlocutors told us that it was very dificult to build up an
+autonomous self-administration, since the Syrian state had been very centralist and the people were used to being cared for by the state and its communal
+services: “The people were not used to taking their own decisions, to solve their
+own needs by themselves… We overcome that attitude with education.”32 The
+statist model is interpreted historically by the Kurdish movement to have taken
+power from the people not only in the form of the right of self-administration
+but also in the form of knowledge. Knowledge has been specialized and access
+reduced to a class of “experts.” We can interpret this method, too as a way of
+breaking with the individualism of capitalist modernity, which produces competing individuals who are kept unable to understand the context in which they
+act. Most people feel like they are unable to participate on an equal level in matters of policy or economy. This process is thought to be reversed in the democratic autonomy model by a network of academies. Many of the topics that are
+currently discussed in these academies concern the building of a democratic,
+gender-equal society and economy. This aim also involves changing the notion
+of citizenship—because under the modern regimes in Syria and Turkey, many
+kinds of self-organization had been criminalized and institutions and necessities taken over and provided by the state. Therefore, education in this sense
+means empowerment and self-empowerment/self-government.
+
+32. Interview, Silvan Afrin, Derik, May 2014.
+The education is organized by the youth movement and the self-administered Nurî
+Dersimî [Lesson] academies Ahmet Çimen, http://yeniozgurpolitika.org/index.
+php?rupel=nuce&id=32757.
+
+© Equinox Publishing Ltd. 2016
+
+Michael Knapp and Joost Jongerden
+
+107
+
+Conclusions
+In this article, we started with a general discussion about council democracy,
+beginning with the Paris Commune and then moving to the development of
+the concept of democratic autonomy based on the historical background of the
+Middle East. Rojava is then presented as an example of the practical implementation of democratic autonomy. The idea of allocating decision-making powers to local councils (communes) does not come with an inwardly oriented or
+parochial form of militant particularism. On the contrary, the concept of confederalism evokes a sense of connectedness, locally based and in an ascending
+order of territorial size. This is a conceptualization of places and the people
+who live there not thought of in terms of discrete and separate entities, but
+as related to and thence comprising one another. This potentially has major
+implications. “Most of the scholarship on citizenship,” argues Sassen (2002,
+277), “has claimed a necessary connection to the national state.” In the social
+contract developed in the context of the struggle in Rojava, it is not the relation
+between state and people that operates but that of people in local communities.
+This is a social contract that reclaims citizenship from the state, an inclusive
+and emancipatory citizenship.
+The realization of the project of democratic autonomy comes in part from the
+necessities of surviving in a war situation, as well as the grass-roots work the
+Kurdish movement has undertaken in the last decades in the region. To hinder
+parochialism and the methodological individualism and to realize such a confederate system, a change to a system of active and activist citizenship is being
+realized through education and the appeal of the social practice of the project
+—active in the manner of participating in the already established and operative
+councils under the social contract of Rojava, and activist in the sense of developing new creative forms of coexistence, civil society and self-representation.
+We can already see the results of this still unfolding development in shared
+self-organization and self-representation by all ethnicities and identities of the
+region representing a strong alternative to the monistic national state.
+Local self-government within the context of democratic confederalism is not
+based on separation from others, but on extending itself. This then foregrounds
+the issue of how we relate to one another, including what Massey (2004, 17)
+refers to as a “responsibility towards the wider relations on which we depend.”
+What this means in practice, of course, remains to be seen, since, in the words
+of Marx on the meaning of the Paris Commune, it entails a “practical learning
+of extending relations” (quoted in Ross 2015, 90). Manifestly, any replacement
+of the state by a confederal system represents a thorough transformation of
+the very essence of the body politic. Yet it is impelled. The emphasis on active
+citizenship and interconnectivity in the project of democratic autonomy and
+© Equinox Publishing Ltd. 2016
+
+108
+
+Communal Democracy
+
+democratic confederalism has the potential to create inclusive geographies;
+democratic confederalism brings into focus the rights of people to take control
+over their own affairs as well as the way to relate to others in so doing.
+
+References
+Akkaya, A. H. and J. Jongerden. 2013. “Confederalism and autonomy in Turkey:
+The Kurdistan Workers’ Party and the reinvention of democracy.” The
+Kurdish Question in Turkey: New Perspectives on Violence, Representation and
+Reconciliation, edited by C. Gunes and W. Zeydanlioglu, 186–214. London, Routledge.
+Allsopp, H. 2014. The Kurds of Syria: Political Parties and Identity in the Middle East.
+New York: IB Taurus.
+Arendt, H. 1958. The Human Condition. Chicago, IL: The University of Chicago
+Press.
+———. 1990 [1963]. On Revolution. London: Penguin Press.
+Biehl, J. 2012. “Bookchin, Öcalan, and the Dialectics of Democracy.” Challenging
+Capitalist Modernity: Alternative Concepts and the Kurdish Quest, 3-5 February 2012. Hamburg.
+Bookchin, M. 1990. “The meaning of confederalism.” Green Perspectives 20.
+http://dwardmac.pitzer.edu/Anarchist_Archives/bookchin/gp/perspectives20.html
+———. 1991. ‘Libertarian Municipalism: an overview.’ Green Perspectives October.
+http://dwardmac.pitzer.edu/Anarchist_Archives/bookchin/
+gp/perspectives24.html
+———. 1996. Die Agonie der Stadt. Grafenau: Trotzdem Verlag.
+———. 2015. The Next Revolution. London: Verso.
+Ferguson, S. C. 2007. “Social Contract as Bourgeois Ideology.” Cultural Logic: An
+Electronic Journal of Marxist Theory and Practice, 1–19.
+Gunes, C. and R. Lowe. 2015. The Impact of the Syrian war on Kurdish Politics Across
+the Middle East: London: Chatham House.
+Hardt, M. and T. Negri. 2004. Multitude. New York, Penguin Press.
+Isin, E. 2008. Theorizing Acts of Citizenship. London: Zed Books.
+Jongerden, Joost. 2015. “Radicalizing Democracy.” In Research Turkey, March
+17, 2015.
+Jongerden, J. and A. H. Akkaya. 2013. “Democratic Confederalism as a Kurdish
+Spring: the PKK and the quest for radical democracy.” In The Kurdish
+Spring: Geopolitical Changes and the Kurds, edited by M. Ahmet and M.
+Gunter, 163–185. Costa Mesa, Mazda Publishers.
+Kropotkin, P. 1947 [1897]. The State: It’s Historical Role. London: Freedom Press.
+Marx, K. 2009. Civil War in France. Gloucester: Dodo Press.
+Massey, D. 2004. “Geographies of Responsibility.” Geograiska Annaler Series B, 86,
+Part 1: 5–18. http://dx.doi.org/10.1111/j.0435-3684.2004.00150.x
+
+© Equinox Publishing Ltd. 2016
+
+Michael Knapp and Joost Jongerden
+
+109
+
+Morgan, L. H. 1881. Houses and House-Life of the American Aborigines. Chicago, IL:
+University of Chicago Press.
+Öcalan, A. 2008. Prison Notes, June 18, 2008. (unpublished).
+———. 2010a. Demokratik Uygarlık Manifestosu: ortaduğu’da uygarlik krizi ve
+demokratik uygarlık çözümü. Neuss: Mezopotamya Yayınları.
+———. 2010b. Jenseits von Staat, Macht und Gewalt. Neus: Mesopotamien Verlag.
+———. 2013. Liberating Life: Women’s Revolution. Neus: Mesopotamien Publishers.
+Ross, K. 2015. Communal Luxury, the political imaginary of the Paris Commune. London: Verso.
+Rousseau J-J. 2002 [1762]. The Social Contract and First and Second Discourses. New
+Haven, CT: Yale University Press.
+Sassen, S. 2002. “Towards Post-National and Denationalized Citizenship.” In
+Handbook of Citizenship Studies, edited by E. F. Isin and B. S. Turner, 277–
+291. London: Sage. http://dx.doi.org/10.4135/9781848608276.n17
+Sitton, J. F. 1987. “Hannah Arendt’s Argument for Council Democracy.” Polity
+20(1): 80–100. http://dx.doi.org/10.2307/3234938
+Strangers In A Tangled Wilderness. 2015. A Small Key Can Open A Large Door: The
+Rojava Revolution. Oakland: AK Press.
+Tejel, J. 2009. Syria’s Kurds: History, Politics and Society. London: Routledge.
+Weber, M. 2000. Die protestantische Ethik und der Geist des Kapitalismus. Weinhem:
+Beltz Atheneum Verlag.
+———. 2005. Wirtschaft und Gesellschaft. Frankfurt am Main: Zweitausendeins.
+White, D. 2008. Bookchin: A Critical Appraisal. London: Pluto Press.
+
+© Equinox Publishing Ltd. 2016
+
+

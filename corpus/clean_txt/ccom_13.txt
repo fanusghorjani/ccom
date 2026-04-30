@@ -1,0 +1,852 @@
+The transnational Zapatista solidarity network:
+an infrastructure analysis
+
+THOMAS OLESEN
+Abstract In this article I present a descriptive and qualitative analysis of the infrastructure of the global Zapatista solidarity network that has emerged since the
+Zapatista uprising in Chiapas, Mexico in January 1994. Most studies dealing with
+this network have looked at it from the outside without specifying what it means to
+speak about a network with regard to global Zapatista solidarity. I address this
+lacuna by examining the network from the inside. The analysis focuses on how the
+infrastructure of the network serves as a computer-mediated circuit for the circulation
+of information and identifies five levels of actors according to their roles as either
+information gatherers, information processors, information distributors or information recipients. I argue that the infrastructure of the networks is not only computer
+mediated but that it also has a significant physical dimension that stands in a
+reciprocal relationship with the computer-mediated dimension.
+
+When the indigenous Zapatista Army of National Liberation (EZLN), popularly
+known as the Zapatistas, staged its uprising in the southern Mexican state of Chiapas
+on 1 January 1994 it immediately caught the imagination of people both in Mexico
+and abroad. The first efforts of this nascent solidarity network called for a peaceful
+solution to the armed confrontations that ensued between the Mexican Army and the
+Zapatistas in the weeks following the uprising. These activities mainly sought to put
+pressure on the Mexican government and to inform the public, especially in Europe
+and the USA, about events in Chiapas. They were undoubtedly part of the reason why
+the Mexican government decided to sign a ceasefire and start negotiations with the
+Zapatistas after 12 days of fighting. Rather than disappearing after this apparent
+success the transnational solidarity network surrounding the Zapatistas has remained
+active and engaged in a wide variety of activities aimed at supporting the Zapatistas
+and the indigenous people of Chiapas. The Zapatistas acknowledge the importance of
+the solidarity network as a kind of protection against repressive measures from local
+and national authorities and they have entered into an intimate relationship with it.
+Communiqués are almost always addressed to (among others) international civil
+society; the Zapatistas have staged a number of public events in which solidarity
+activists have been invited to participate and, to this day, solidarity activists stay in
+Zapatista communities as peace observers.
+It is possible to identify a number of different phases in the development of the
+transnational Zapatista solidarity network in the period from 1994 to 2001. Phase 1
+
+Global Networks 4, 1 (2004) 89–107. ISSN 1470–2266
+© 2004 Blackwell Publishing Ltd & Global Networks Partnership
+(January 1994 to February 1995) began when the incipient solidarity network was
+created. Transnational activists converged on Mexico to protest against the armed
+confrontations in the wake of the uprising. The network did not have an infrastructure
+of its own at the time, and activities were built on existing networks and movements,
+for example those related to protests against NAFTA as well as those engaged in
+solidarity work with Central America. During Phase 2 (February 1995 to summer
+1996) the network started to develop an infrastructure of its own. The very intense
+activities of the network in this phase were mainly aimed at monitoring the human
+rights situation in Chiapas following the failed attempt by the Mexican Army to
+capture the Zapatista leadership in February 1995. In Phase 3 (summer 1996 to
+December 1997) the network became more politicized and began to overlap with
+other transnational networks. The politicization was largely a result of the Zapatistas’
+call for the First Intercontinental Encounter for Humanity and against Neoliberalism
+in Chiapas in 1996. This encounter also became a meeting place for some of the
+activists who took part in the Battle in Seattle a few years later. Phase 4 (December
+1997 to mid-1998) followed the Acteal massacre in Chiapas in December 1997, in
+which a paramilitary group murdered 45 indigenous men, women and children. After
+this the solidarity network experienced what was probably its most intense period of
+activities. The major concern once again became the human rights violations in
+Chiapas and the militarization of Chiapas following the Acteal massacre. Phase 5
+(mid-1998 to April 2001) was fairly ‘quiet’ in terms of transnational solidarity activities, partly due to prolonged periods of silence on the part of the Zapatistas. It did,
+however, experience a significant revival with the March for Indigenous Dignity in
+February/March 2001.
+The most common observation in the literature dealing with transnational
+Zapatista solidarity regards its externally oriented activities, namely the attempts to
+pressure the Mexican government and to sway public opinion in Mexico and other
+countries. This stands in stark contrast to the almost complete lack of attention to
+what this transnational Zapatista solidarity network looks like on the inside. This type
+of question needs to be addressed if we are to take the network concept seriously as a
+description of social action. The network concept is gaining increasing popularity as a
+way of describing forms of social action without a central organizational basis.
+Network analysis does not discard the study of organizations but takes the analysis to
+a higher level of abstraction where the relationships between organizations and other
+types of actors take centre stage. This potential is, however, in danger of being lost
+because of the way the network concept is used ‘free of charge’ to describe all kinds
+of social action. This limitation can only be addressed if we make our analyses more
+attentive to what networks look like inside. While much work remains to be done on
+networks from a theoretical angle, the aim of this article is not to advance a specific
+theoretical definition of networks. Rather it encourages analysts to answer the question of what is actually networked about the network they are dealing with; or echoing
+the title of this article, it calls for more analytical energy to be devoted to the study of
+the infrastructures of networks. The discussion here also has theoretical dimensions,
+but its main concern is presenting a descriptive and empirical account of the infrastructure of the transnational Zapatista solidarity network.
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Thomas Olesen
+
+The Zapatista uprising and its transnational repercussions have inspired an
+extraordinary amount of social scientific work in a relatively short period. In many of
+these accounts, especially Cleaver (1998, 2000a) and Ronfeldt and Arquilla (1998),
+the network concept is invoked to describe the nature of the transnational relations
+between the Zapatistas and activists in other parts of the world, but never in any
+systematic way or with detailed attention to the network infrastructure. The use of the
+term ‘infrastructure’ may seem misplaced given that the transnational Zapatista
+solidarity network is a loose and informal network and not a consciously formed
+structure, as the term infrastructure may indicate. Instead, the term is used to suggest
+that while the network does not have an infrastructure in a formal and organizational
+sense it does have an infrastructure in a weaker and more informal sense, and one in
+which it is possible to discern patterns of centres and ties. The very use of the term
+network rests on this argument. It is my primary aim in this article to provide a
+tentative map of these patterns in the period from January 1994 to April 2001.
+The article is based on two kinds of data: personal and e-mail interviews with key
+solidarity activists in the USA, Europe and Mexico and extensive Internet based
+research. First, all interviewees were asked about their main sources of information as
+well as about their own efforts in the information circuit of the network. This made it
+possible to establish if the specific actor were mainly involved in providing, gathering, processing, distributing or consuming information. Moreover, this type of
+question facilitated the identification of certain information hubs, when various actors
+repeatedly pointed to the same information sources. Second, the Internet was
+examined. Analysing the content of organization websites and listservs thus revealed
+a clear pattern of where information comes from and how it is used. In general, the
+research presented here points to great diversity in the sources of information despite
+some actors being more central than others.
+Networks in general and transnational networks in particular are information
+circuits. The analysis below of the transnational Zapatista solidarity network is
+therefore chiefly concerned with what we could call the informational infrastructure
+of the network. The main emphasis of the article is on the computer-mediated aspects
+of the informational infrastructure. This is the theme of the first three sections. A
+number of the central actors in the transnational Zapatista solidarity network are
+presented in sections one and two; then a definition of the network’s informational
+infrastructure is proposed in the third section. The reciprocal relationship that exists
+between the computer-mediated and physical aspects of the network are discussed in
+the fourth and last section.
+Organizations and groups in the network
+There are a large number of small organizations working in or with the indigenous
+communities of Chiapas today, but here we will only discuss those with the most
+developed transnational relations. The Zapatista Front of National Liberation (or
+FZLN) was formed in 1996 following the 1995 National Consultation for Peace and
+Democracy, in which the Zapatistas asked the Mexican population to express its view
+on the Zapatistas and their future direction (EZLN 1995a). The views expressed in the
+consultation made it clear that the voters opted for the creation of non-military
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The transnational Zapatista solidarity network: an infrastructure analysis
+
+organization related to the Zapatistas (EZLN 1995b). This eventually resulted in the
+formation of the FZLN. One of the important functions of the FZLN today with
+regard to the transnational Zapatista solidarity network is the distribution of daily
+e-mail messages primarily containing excerpts from Mexican newspapers relevant to
+Chiapas and Zapatista as well as links to the full story. The FZLN also distributes
+action alert messages calling for national and transnational solidarity activities when
+events in Chiapas and Mexico seem to demand action. The FZLN, moreover, maintains
+pages in English, French and Portuguese on its website and generally pays attention to
+transnational Zapatista related activities.
+Other Mexican organizations providing vital information for the circuits of the
+transnational Zapatista solidarity network include Enlace Civil, CIEPAC and Melel
+Xojobal, all of them located in San Cristóbal de las Casas, Chiapas. Enlace Civil is an
+organization seeking to connect the indigenous communities of Chiapas with the
+world around them. Enlace Civil also provides an e-mail mediated information list,
+which has over 200 subscribers in more than 40 countries (Enlace Civil 2001). The
+messages distributed on the Enlace Civil list are mainly denouncements of human
+rights violations perpetrated against the indigenous communities of Chiapas. In this
+way, Enlace Civil creates a very direct link between the indigenous communities and
+the transnational Zapatista solidarity network activists outside Mexico. CIEPAC
+(Centre for Economic and Political Investigations of Community Action), founded in
+1998, is a centre for analysis of the political situation in Chiapas that maintains a
+more neutral position in relation to the Zapatistas than for example the FZLN and
+Enlace Civil (Castro Soto, interview 2001). CIEPAC’s main contribution to the transnational Zapatista solidarity network is to distribute a weekly bulletin, Chiapas al
+Día, which is published in Spanish and English and goes out to recipients in more
+than 40 countries. According to information on its website, CIEPAC maintains relationships with a number of non-Mexican organizations, including Global Exchange
+and the Mexico Solidarity Network (CIEPAC 2001). Melel Xojobal is an organization
+founded by Dominican monks in 1997. The aim of Melel Xojobal is to provide the
+indigenous communities of Chiapas (not only those related to the Zapatistas) with
+educational and informational resources to help them communicate better among
+themselves and with their external environment. With regard to the transnational
+Zapatista solidarity network this is reflected in the distribution of a daily news
+summary based on publications in local and national newspapers and magazines. This is
+distributed via e-mail to recipients outside Mexico but also, by way of personal
+delivery, to the indigenous communities of Chiapas (Jiménez, interview 2001; Melel
+Xojobal 2001).
+As demonstrated by the above examples, information about the situation in
+Chiapas and Mexico is mainly provided by organizations with a physical presence in
+these areas. In the following, we turn to some of the major non-Mexican organizations
+serving as information providers in the transnational Zapatista solidarity network.
+These organizations have different ways of obtaining information that are often
+combined. In some cases, organizations will send people to work as observers or as
+peace camp volunteers in Chiapas and these will in turn report back to their home
+organizations. In other cases, foreign organizations will rely on Mexican organiz-
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Thomas Olesen
+
+ations and newspapers for information. Typically, non-Mexican organizations will use
+the information to produce newsletters and updates mainly distributed via e-mail.
+Global Exchange is based in San Francisco and was founded in 1988. The
+organization works on issues of human rights and democracy around the globe, and
+mainly bases its Chiapas and Mexico activities on the physical presence of volunteers
+in the area. According to Ted Lewis (interview 2000), director of the Global
+Exchange Mexico programme until 2002, the organization has had a presence in San
+Cristóbal de las Casas, Chiapas since 1995 in the form of an office with permanent
+staff. Apart from the permanent staff, Global Exchange sends a number of short-term
+volunteers to stay as observers in the civilian peace camps in the indigenous
+communities of Chiapas. This volunteer work is channelled through the Chiapas
+office but takes place in close cooperation with the Fray Bartolomé de las Casas
+Human Rights Centre in San Cristóbal de las Casas. These people on the ground,
+Lewis explains, are the main sources of information for Global Exchange. The
+information gathered by Global Exchange is distributed in a variety of ways, but the
+most important outlet for the Global Exchange Mexico Program is the organization
+website as well as an e-mail list of about 2500 recipients. These recipients in turn, will
+forward the messages to other people who are not on the list, in that way reaching an
+even larger audience and one that lies outside the immediate transnational Zapatista
+solidarity network.
+A range of other non-Mexican organizations also distributes widely received
+newsletters on events in Chiapas and Mexico via e-mail and through their websites.
+Among these are the Mexico Solidarity Network and SIPAZ (International Service for
+Peace). The Mexico Solidarity Network involves about 85 US organizations with
+central offices in Chicago and Washington. Like Global Exchange, the mandate of the
+Mexico Solidarity Network is broader than Chiapas and the Zapatistas, but the
+Zapatista uprising inspired much of its initial work. The network was consequently
+created in 1998 in response to the Acteal massacre in Chiapas in December 1997. The
+Mexico Solidarity Network is also involved in labour issues, human rights questions
+and fair trade in Mexico (Hansen, interview 2000). The MSN produces a weekly
+newsletter distributed via e-mail and through the organization website. SIPAZ, based
+in Santa Cruz, California, is a coalition of North American, Latin American and European organizations. SIPAZ was formed in 1995 as a direct response to the situation in
+Chiapas. Working from a religious point of view, SIPAZ maintains a rather neutral
+approach to the conflict in Chiapas and does not directly support the Zapatistas.
+Instead, it attempts to contribute to a peaceful solution to the conflict in Chiapas by
+working with all parties involved. SIPAZ sends volunteers to Chiapas whose duties
+include the preparation of updates on the peace process in Chiapas (SIPAZ 2001).
+The organization produces a quarterly report, as well as action alerts when events in
+Chiapas seem to require transnational action. This information is mainly disseminated
+via e-mail and through the SIPAZ website.
+E-mail, websites and listservs in the network
+It is not only formal organizations or groups but also individuals who have played a
+prominent part in the distribution of information on the Zapatistas. Molly Molloy
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The transnational Zapatista solidarity network: an infrastructure analysis
+
+(interview 2000), a librarian at the New Mexico State University, became involved in
+these efforts at a very early point when e-mail was still quite rare and often supplemented by, for example, faxes. She received the first messages through some of
+the early Mexico related lists and started forwarding these to other potentially interested individuals and lists. Molloy recounts how some of these messages were
+destined, inter alia, to the Mexican Rural Development (MRD) discussion group
+under the Applied Anthropology Computer Network operated from Oakland,
+California since 1992. Gerardo Otero, a social scientist involved in the MRD,
+explains (interview 2001) how the first messages related to Chiapas and the Zapatistas
+distributed to the group appeared on 4 January 1994 and soon started coming in a
+steady flow. James Dow, an anthropologist involved in the MRD at the time of the
+uprising, recalls how the first messages about the uprising came from graduate
+students in San Cristóbal de las Casas (Dow, interview 2001). The majority of the
+messages posted to the MRD list were articles and excerpts from newspapers,
+television and news agencies, but also personal accounts by people in the discussion
+group with personal and professional experiences in Chiapas. The MRD discussion
+group was mainly active on issues regarding the Zapatistas and Chiapas during the
+first years of the uprising. By that time, the transnational Zapatista solidarity network
+started having an infrastructure of its own in the form of information distributors
+focused mainly on the Zapatistas and Chiapas (Dow, interview 2001).
+The MRD discussion group was obviously not the only source of information on
+Chiapas and the Zapatistas in the first months of the uprising. Information was spread
+on countless listservs and news conferences in operation, for example through lists
+dealing with opposition to NAFTA (Cleaver 1994), and through the PeaceNet news
+conference reg.mexico. The World Wide Web was not fully developed at the time of
+the uprising and dissemination of information mainly took place through e-mail and
+the forwarding of e-mail. E-mail based information distribution may take place in a
+private circuit (among acquaintances) or through e-mail lists, which are semi-public
+in nature. E-mail lists have subscribers and it is therefore relatively easy to trace the
+spread of e-mails to this immediate audience. But from the moment an e-mail is sent
+to a list of subscribers, it takes on a life of its own, and one that is almost impossible
+to trace. The forwarding of e-mails often takes place through informal and indirect
+ties. These are not necessarily weak ties. On the contrary, weak ties are ‘strong’ ties in
+the sense that they connect and traverse a large portion of a given social field
+(Granovetter 1973). Kerry Appel (interview 2000), a Denver based importer of coffee
+from the Zapatista cooperative Mut Vitz, describes how computer-mediated information takes on a life of its own beyond the immediate transnational Zapatista solidarity
+network through the process of forwarding and posting to different lists:
+This has all started from writing one thing and putting it on one list, and then
+travelling around, now it is in four languages, I have seen some writings that I
+had written in 1996, I have found them on Eastern European websites,
+Norwegian websites and Sufi websites, it is the whole life of its own the
+Internet has, it strikes a chord with some groups somewhere, resonates
+somehow with something they are doing.
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Thomas Olesen
+
+But in the case of the Zapatistas, does this mean that anyone who receives messages
+about Chiapas and the Zapatistas is part of the transnational Zapatista solidarity
+network? This obviously depends on what the person does with the information in
+question. If someone deletes it, no connection to the transnational Zapatista solidarity
+network is made. If, on the other hand, someone decides to forward the message or to
+participate in a demonstration called for in the e-mail message, they becomes a node
+in the network, albeit only temporarily. However, it is also possible that the received
+e-mail may inspire a more direct and stable participation in the network. The recipient
+may for example decide to join a listserv dedicated to the Zapatistas and Mexico or
+get involved in local organizing efforts on the part of the Zapatistas and Chiapas.
+E-mail forwarding in electronic circuits, and indirect personal ties in physical settings,
+may thus have the effect of drawing new actors into the network. In computermediated circuits of information, the potential for reaching new audiences is almost
+unlimited but it is also very easy for an individual to disconnect from the network if
+he or she only has an electronically-mediated position in the network. In other words,
+the transnational Zapatista solidarity network is an unstable structure that is in
+constant flux, especially when it comes to its computer-mediated form. In a critique of
+Internet based solidarity Judith Hellman (1999: 179) has argued that the sense of
+being connected, through the Internet, with other Zapatista and Chiapas solidarity
+activists and with the Zapatistas and the indigenous communities of Chiapas is
+illusory. This is because activities via and on the Internet are primarily solitary acts
+that do not bring people together. Stephen (2002) makes a similar point. She admits
+that activities carried out on and via the Internet are important, but in the same breath
+she warns that these should not be substitutes for face-to-face interaction and organization at the grassroots level. These reservations, however, create a false dichotomy
+(Cleaver 2000a). In fact, as is argued further in the last section of the article, the
+computer-mediated and physical dimensions of the solidarity network are closely
+related.
+The Chiapas95 listserv created in late 1994 has played an especially important role
+in the informational infrastructure of the transnational Zapatista solidarity network.
+Chiapas95 is strictly concerned with the passing on of information, and the messages
+posted to Chiapas95 are mainly culled from other listservs or news conferences on the
+Internet or contain articles from magazines and journals. In continuation of the above
+discussion of the role of e-mail forwarding, Harry Cleaver (interview 2000b), an
+economist at the University of Texas at Austin and a moving spirit in the creation of
+the Chiapas95, mentions that a large number of the subscribers also function as gateways who forward messages on to other lists and to personal acquaintances. In
+contrast, the other major listserv on Chiapas and the Zapatistas still operating, the
+Chiapas-L, is also a discussion list where subscribers can engage in debates about
+issues relating to Chiapas, Mexico and the Zapatistas.
+As indicated earlier, the World Wide Web was in an early phase of development
+when the Zapatistas launched their uprising, but it soon started playing an important
+role in the informational infrastructure of the transnational Zapatista solidarity network. One of the first attempts to make use of the World Wide Web distributed
+information was the Ya Basta! website. In March 1994, Justin Paulson, then a
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The transnational Zapatista solidarity network: an infrastructure analysis
+
+student at the University of Pennsylvania, decided to establish the Ya Basta! website
+after having had difficulties obtaining reliable information about the Zapatistas in the
+first months following the uprising. Paulson (interview 2001) recalls the early phases
+in the creation of the Ya Basta! website and the special role played by the Mexican
+daily La Jornada:
+It started slowly, but in November of 1994, I was asked by La Jornada to help
+them develop a website … and in return I would not only have access to their
+paper before it even hit the newsstands in Mexico, but I also had permission to
+reprint news articles and graphics. Since La Jornada was also the first place
+EZLN communiqués were printed, this vastly increased the amount of information I had at my fingertips, and I was much more quickly and thoroughly able
+to add news and communiqués to the web page as soon as they became
+available. This became especially important when the government offensive
+began in February 1995; at the time, the Mexican government had no
+significant presence on the Internet, and the Ya Basta! site contributed, along
+with several other websites, e-mail lists, etc., to countering successfully the
+misinformation being spread by the Mexican government.
+The transnational Zapatista solidarity network as a circuit of information rests on the
+idea that the information obtained through it is more reliable than information
+provided by mainstream media often considered to be dependent on financial or
+political interests. This vision is reflected, for example, by Indymedia-Chiapas.
+Indymedia-Chiapas is a node in the global network of Independent Media Centres that
+have sprung up since the Seattle protests against the WTO in November 1999. During
+and after the protests, the original Independent Media Centre was widely recognized
+for its coverage of events in Seattle. Indymedia-Chiapas (2001) is located in San
+Cristóbal de las Casas, Chiapas. Its website states that its ‘goal is to break the
+monopoly of the corporate-controlled press, and guarantee a space for those voices
+not heard in the mainstream media’. In the words of a representative of IndymediaChiapas (interview 2001), the centre thus tries to:
+open a space where the indigenous people, social and civil groups, solidarity
+groups, may have access to publish and present information on their struggle,
+and on how they are affected by the conflict created by the government and the
+paramilitaries. In the sense that we do not censor information, and open doors
+to Zapatista support bases, as well as many other social organizations, in order
+to create autonomous media, directed and maintained by the people them13
+selves, we have similar objectives as the Zapatistas.
+The aim of the Indymedia-Chiapas is thus also to provide a link between the local level
+(Chiapas) and the national and transnational levels. This demonstrates how a watertight distinction between different spatial levels is untenable with regard to the
+transnational Zapatista solidarity network. The ability to cross these spatial boundaries is to a large extent a result of the development of the Internet. One of the main
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Thomas Olesen
+
+advantages of the Internet with regard to transnational activism lies in the blurring of
+the producer–recipient dichotomy present in traditional mass media communication
+(Slevin 2000). The Internet, in other words, allows for more unmediated communication between those who require information about certain events and those who are
+directly involved in, or at least close to, these events. As mentioned above, information
+of this type is what has the highest status and value within the circuits of the transnational Zapatista solidarity network. It is the access to this type of information, and
+the ambition to facilitate the distribution of it, that induces people and organizations to
+engage in networked forms of interaction with other individuals and organizations.
+We should be careful, however, not to overstate the role and importance of the
+Internet. Despite opportunities such as those provided by Indymedia-Chiapas, the
+social and political reality of Chiapas also sets important limitations. Extreme poverty
+and lack of resources make participation in Internet based communication a distant
+prospect for the large majority of the indigenous population of Chiapas. Those who
+engage in communication are often community leaders with some language and educational skills. This is probably most evident in the communiqués issued by the
+Zapatista leadership. The messages from the leadership are often formulated by
+Subcomandante Marcos and tend to speak on a more general and metaphoric level
+about the situation in Chiapas and Mexico and in a way that is accessible to an urban
+Western audience. But as noted in relation to Indymedia-Chiapas and the denouncements distributed through Enlace Civil these are supplemented with information
+coming directly from the Zapatista base communities. Even if these are still written
+by community leaders they do provide a more direct insight into the daily life of
+ordinary people than the messages from Subcomandante Marcos and other better
+known Zapatistas. In general, solidarity activists seem aware of this distinction and
+tend to value both sources of information.
+Definition of the network
+This section positions the actors described above in a five-level structure. Position in
+this structure is a reflection of the kind of role played in the process of providing,
+gathering, processing, distributing and consuming information in the network and
+does not say anything about the content of this information. Placing actors in a
+structure like the one suggested below obviously involves a degree of simplification.
+For example, in reality one actor may be present on a number of different levels at the
+same time. This definition is an abstraction and its main idea is not to place specific
+actors rigidly at only one level. The point is to distinguish analytically between
+different ideal typical roles in the information circuit. The fact that one actor may
+operate on more than one of these levels does not undermine the underlying argument, but in fact allows us to identify more precisely the often very diverse activities
+in which an organization is engaged.
+Before we proceed a number of analytical and theoretical points need to be
+made. First, the existence of a tie does not necessarily imply reciprocity, but may
+refer simply to the sending of a message from one actor to another. Second,
+connections between actors may be direct as well as indirect. Third, networks may be
+centralized or decentralized. Fourth, networks display varying levels of segmentation.
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The transnational Zapatista solidarity network: an infrastructure analysis
+
+Inspired by Diani (1992a, 2003b), Figure 1 illustrates three ways of conceptualizing
+networks along some of these distinctions. As will be evident, these distinctions are
+relevant in conceptualizing the infrastructure of the transnational Zapatista solidarity
+network.
+Figure 1: Network types
+
+Clique
+
+Star
+
+Policephalous
+
+In the clique network, all actors are connected directly through intense, direct and
+reciprocal ties (Burt 1978; Diani 1992a). The clique network is highly decentralized
+and, as all nodes are adjacent to each other, has a low level of segmentation. The
+policephalous network is centralized and segmented and combines direct and indirect
+ties. It is centralized because certain nodes in the network have a more central position than others. At the same time it is segmented due to the relatively long distance
+between several of the network nodes. In the star network, all actors bar one are connected to only one other actor (the centre of the network). The star network is highly
+centralized as network activities revolve around one node while the rest of the network
+nodes do not have direct ties. Consequently, it has a low level of segmentation.
+Let us now turn more specifically to the five-level structure. The first two levels
+comprise two types of actors, both of them located in Chiapas and Mexico. The first
+level includes the indigenous communities of Chiapas that provide first hand
+information on what is going on in the area. At the second level we have a range of
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Thomas Olesen
+
+organizations staffed by a combination of indigenous and non-indigenous activists.
+The majority of these are Mexican organizations but some non-Mexican organizations, such as Global Exchange and SIPAZ, also have a presence in Chiapas and
+Mexico. The second-level organizations mainly function as gatherers and processors
+of the information coming from the indigenous communities. People working in the
+second-level organizations are often well-educated and experienced people who
+possess the necessary social tools to help overcome some of the cultural and language
+barriers between the indigenous communities and non-indigenous publics in and
+outside Mexico.
+The information gathered and processed by the second-level organizations is often
+distributed to actors beyond the borders of Chiapas and Mexico. As shown above, this
+sometimes involves translation into other languages. In some cases, Mexicans carry
+out this work but in other cases translations are made by bilingual non-Mexicans who
+do not necessarily have a physical presence in Chiapas and Mexico. The information
+distributed by the second-level organizations then reaches what we may refer to as
+third-level organizations or nodes in the information circuit. These are primarily some
+of the larger non-Mexican organizations in the transnational Zapatista solidarity
+network such as the Mexico Solidarity Network, Global Exchange and SIPAZ. These
+organizations have centrality in the network because they produce widely received
+newsletters and bulletins. However, as should be clear by now, these newsletters and
+bulletins are primarily written on the basis of information received from second-level
+organizations but also to some extent on the basis of media like for example La
+Jornada. As suggested above, some of these actors may also be simultaneously
+located at the second level because they are engaged in the collection of primary
+information material in Chiapas. This is especially true of organizations such as
+Global Exchange and SIPAZ. Websites and listservs such as Ya Basta!, Chiapas95 and
+Chiapas-L are another type of third-level actors. The listservs Chiapas95 and Chiapas-L
+also receive information from the second-level organizations, as well as from papers
+and magazines, but this is mostly passed on to the list in its raw form. The second and
+third levels in information circuit of the transnational Zapatista solidarity network
+may also be referred to as the ‘core’ of the network. Core actors are distinguished by
+three characteristics. First, they have regular ties with a large number of other actors
+regarding the Zapatistas and Chiapas; second, they devote a significant part of their
+time and resources to these issues; and finally, they have centrality as gatherers,
+processors and distributors of information within the network.
+Recipients of information from the second and third levels constitute what we may
+refer to as the fourth level in the network’s information circuit. These actors belong to
+the periphery of the network. Periphery actors, then, are actors with regular ties to a
+small number of core actors who devote a significant part of their time and resources
+to these issues but who are dependent on other actors for information regarding these
+issues. In the periphery we therefore often find smaller groups and organizations with
+fewer resources as well as individuals. Periphery actors have fewer ties to other actors
+than, for example, core actors and may rely on a single core actor for much of their
+information input. Making a distinction between core and periphery actors in the
+network contradicts the common conception of networked forms of interaction as flat
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The transnational Zapatista solidarity network: an infrastructure analysis
+
+structures without asymmetries and differentiation (Diani 2003b: 306). Actors at the
+core are thus typically more influential in relation to actors outside the network, for
+example the media (Diani 2003a).
+Last, it is also possible to speak of a fifth level constituted by actors who belong to
+the transitory level of the information circuit of the network. Transitory actors are
+actors who have irregular and ad hoc ties to periphery or core actors in the network,
+devote little time to the issue of Chiapas and the Zapatistas, and are dependent on
+other actors for information regarding these issues. At the transitory level we thus find
+individuals and organizations that only temporarily devote a small portion of their
+time to the primary issues of the network. When fifth-level transitory actors connect
+to the network they rely mainly on one source of information. The above arguments
+may be summed up as follows:
+•
+•
+•
+
+•
+•
+
+First level: the indigenous communities of Chiapas who provide first hand
+information about social problems, human rights violations, and military and
+paramilitary activities in Chiapas. 14
+Second level and core: Chiapas and Mexico based organizations that gather and
+process information from the first level to make it accessible to audiences outside
+Chiapas and Mexico.
+Third level and core: non-Mexican organizations that primarily draw information
+from second-level actors or Mexican media in order to produce information for
+non-Mexican audiences, or listservs and websites that pass on information from
+second-level actors in its raw form.
+Fourth level and periphery: recipients of information from second- or third-level
+actors who are not themselves information producers or distributors.
+Fifth level and transitory: actors such as politicians and representatives of official
+bodies, for example, who take part in network activities on an occasional or oneoff basis.
+
+The informational infrastructure of the transnational Zapatista solidarity network
+resembles the star and policephalous networks illustrated above. Or, put differently,
+the transnational Zapatista solidarity network is composed of a number of subnetworks of the star and policephalous type that all revolve around one or more
+information hubs. These sub-networks are both relatively centralized, though they are
+so in different ways. The overall network, in contrast, is relatively decentralized as it
+consists of several sub-networks. What characterizes the star and policephalous networks, as opposed, for example, to the clique-network, is that not all nodes are
+directly related. In some cases, nodes in the network may be connected to only one
+other network actor. On the other hand, the majority of actors are indirectly related
+because they often rely on some of the same sources of information. The existence of
+several star and policephalous sub-networks also point to a rather high level of
+segmentation as nodes in the overall network, especially at the periphery and
+transitory levels, are relatively distant from each other.
+Diani (1992b and 2003b) has argued that social movements are networks. The
+reverse, however, is not true. Despite the existence of networked patterns and ties, the
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Thomas Olesen
+
+transnational Zapatista solidarity network is not a social movement. What is lacking is
+the element of collective identity that Diani sees as central to social movements.
+While actors in the transnational Zapatista solidarity network obviously share a
+number of common concerns it would stretch a point to speak of a collective identity.
+The solidarity network is primarily a network of information exchange and less one of
+identity exchange and construction. Communication and information networks are in
+many ways the least integrated network form, at least compared with networks of
+influence and joint action (Oliver and Myers 2003). Processes of influence and joint
+action require a stronger element of collective identity and commitment. Expressive
+and ideological processes of this type are most likely to take place in networks that
+resemble the clique network (Diani 2003b: 307), while mainly informational processes will typically take place in networks of the star and policephalous type. This
+does not suggest, of course, that expressive or ideological processes cannot take place
+also in star and policephalous networks.
+The reciprocity of the physical and mediated aspects of the network
+In the above section I focused almost exclusively on the infrastructure of the transnational
+Zapatista solidarity network as a computer-mediated information circuit. The
+computer-mediated information circuit lies at the heart of the network argument
+advanced in this article, but as shown above it is at the same time intimately
+connected to concrete physical actors and events on the ground. Moreover, the emphasis
+on the computer-mediated aspects of the network should not lead us to overlook the
+fact that the nodes making up the transnational Zapatista solidarity network do not
+only have computer-mediated relations. In this section I discuss different aspects of the
+network that cannot be limited to the computer-mediated information circuit.
+The first major phase of solidarity activity with regard to the Zapatistas obviously
+happened in the wake of the uprising. Activities during this period were largely
+organized through the incipient computer-mediated circuits of information as well as
+by fax and phone. On the other hand, these information circuits were widely used to
+disseminate calls for physical action. As early as 8 and 10 January 1994, there were
+reports of between 100 and 200 people taking part in protests outside Mexican
+consulates in Los Angeles and Sacramento (Casa 1994; Wilkinson and Darling
+1994). As already mentioned, this incipient physical manifestation of the transnational Zapatista solidarity network was to a large extent facilitated through e-mail
+distribution of messages onto already existing lists, but also through interpersonal ties
+in the local setting of the activists. These physical encounters also brought people
+together who had never met before. This often led to the exchange of e-mail addresses
+and suggestions about how to obtain more information about events in Chiapas at a
+time when the accessibility of information was much more limited than activists have
+become accustomed to today.
+In other words, the relationship between the computer-mediated information
+circuit and the physical aspect of the transnational Zapatista solidarity network is
+reciprocal. Computer-mediated information may facilitate and convene physical
+encounters (Slevin 2000: 79). These, in turn, may result in new awareness, knowledge
+and inspiration perhaps leading to the establishment of new electronic relationships
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The transnational Zapatista solidarity network: an infrastructure analysis
+
+once the physical meeting is over. The large number of demonstrations and protests in
+the first years of the Zapatista uprising and the increasing number of people travelling
+to Chiapas thus kept bringing new nodes into the network through a combination of
+electronic and physical encounters. Since 1994 there has, moreover, been a wide
+range of other occasions when people have met physically in Chiapas or elsewhere
+through participation in peace camp work, delegations, caravans and specific projects
+in Chiapas. These initiatives have provided ample opportunity for the establishment
+of interpersonal and inter-organizational contacts.
+The early protests mentioned above, as well as other local activities, were mostly
+based in local and physical networks. In the incipient period (1994–95) of the transnational Zapatista solidarity network, these networks of activists already existed.
+Today, specialized local networks of activists are not uncommon, especially in the
+larger cities where there is a wider range of groups and organizations. These
+constitute a kind of sub-network within the larger network and provide a prominent
+example of the physical aspects of the transnational Zapatista solidarity network. The
+Chiapas Coalition in Denver, started in 1995 for example, involves a number of local
+groups that all have some interest in the Zapatistas and Chiapas. In the words of one
+of its prime activists, Kerry Appel (interview 2000), the Chiapas Coalition, however,
+is not a formal organization:
+[W]e started it as a horizontally organized coalition of people who are mostly
+involved in other organizations … and we come together occasionally to have
+an assembly as they do in the communities in Chiapas and then decide by
+consensus … so there isn’t any formal rules or charter … we don’t have any
+newsletters or other ways of formally formulating our policy … everybody is
+autonomous and have their own main focus and get together occasionally and
+depending on the people and the needs at the time try to make a policy or
+action.
+At a national level in the USA, the Mexico Solidarity Network provides another
+example of a network within the network. The Mexico Solidarity Network has held
+physical conferences on two occasions, including its founding conference in April
+1998. In Europe there have been more physical meetings between transnational
+Zapatista solidarity network activists and groups than in the USA, where the MSN
+represents the only nation-wide attempt to establish a formal relationship between
+solidarity groups and organizations. The European meetings are not formalized, but
+they have taken place with a certain degree of regularity, especially in the period
+between 1995 and 1997.
+Over the years, there have also been a number of gatherings in Chiapas called by
+the Zapatistas. The first event of this type was the National Democratic Convention
+convened by the Zapatistas in their Second Declaration of the Lacandon Forest
+(EZLN 1994). The meeting, which took place in August 1994, drew about 6000
+people from a large number and variety of organizations. The majority of the participants were Mexican but also a number of non-Mexicans were present (Stephen
+1995). A visible outcome of the CND was the formation of the USA-based National
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Thomas Olesen
+
+Commission for Democracy in Mexico (NCDM) (Callahan, interview 2000). During the
+first years after the Zapatista uprising, the NCDM played a central role as a distributor of
+information, especially in the USA. In later years the NCDM has come to play a less
+conspicuous role in the transnational Zapatista solidarity network.
+The idea of convening people from Mexico and the rest of the world to go to
+Chiapas and visit the heartland of the Zapatista uprising was also reflected in two
+encounters held in Chiapas during 1996. The first was the Continental American
+Encounter for Humanity and against Neo-liberalism. The encounter took place in
+Chiapas in April 1996 and drew about 300 participants from all over the American
+continent to discuss the effects of the neo-liberal development model and to start a
+debate about alternatives. This encounter was in many ways a preparatory meeting
+for the more ambitious First Intercontinental Encounter for Humanity and against
+Neo-liberalism convened by the Zapatistas in their First Declaration of La Realidad
+(EZLN 1996). The encounter attracted more than 3000 people from all over the
+world to the Lacandon forest. During the stay in Chiapas, new personal and
+organizational ties were established that would later lead to the exchange of
+information and experience via the computer-mediated information circuit. On the
+other hand, the large turnout would hardly have been possible without the use of the
+Internet (Cleaver 1998).
+Conclusion
+The article has provided a tentative map of the infrastructure of the transnational
+Zapatista solidarity network in the period from January 1994 to April 2001. In
+contrast to other research on the transnational Zapatistas solidarity network, it has
+presented a view, so to speak, from the inside of the network. In doing so, the analysis
+focused on the information circuit forming the central feature of the infrastructure.
+This analysis revealed five levels, distinguishing between different roles in relation to
+the information circuit (providers, gatherers, processors, distributors and consumers)
+and network centrality (core, periphery and transitory). The network infrastructure
+was mainly viewed as a computer-mediated information circuit, but attention was also
+directed to the reciprocal relationship between the mediated and physical aspects of
+the network.
+Infrastructure analyses must be given more attention if we are to advance our
+understanding of networked social forms. Too often the term network is used in a
+loose and undefined manner. All kinds of transnational social phenomena are described as networks without specifying exactly what is networked about them. This
+development obviously entails a risk that the concept becomes inflated to the extent
+that it loses its analytical relevance and imaginative potential. Paying attention to the
+infrastructure of the network must therefore be an indispensable part of any network
+analysis. Network infrastructures may obviously be very different but they all have
+one; if they do not it becomes untenable to speak about networks at all.
+Infrastructure analyses may be conducted in a number of ways. The discussion
+here has been primarily descriptive and built on qualitative analysis. It suggests one
+way of doing infrastructure analysis. But the descriptive and qualitative approach also
+points to important limitations. First of all, there is as yet no firm theoretical ground
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The transnational Zapatista solidarity network: an infrastructure analysis
+
+for analysing transnational network infrastructures of the kind discussed in this
+article, although important inspiration may be found within the so-called social network analysis approach and within some quarters of social movement and globalization studies where attention to the network aspects seems to be on the rise. Second,
+we still need to develop tools that will allow us to present a more quantitative picture
+of the relations and nodes in transnational networks. Again, it might prove useful in
+this regard to explore the insights of social network analysis studies in more detail.
+The main challenge for future studies of transnational network infrastructures thus
+seems to lie in advancing a greater degree of exchange between the different
+theoretical insights from globalization studies, social movement studies and social
+network analysis.
+Thomas Olesen is at the Department of Political Science,
+University of Aarhus, Aarhus, Denmark.
+Acknowledgements
+I wish to thank the editors of Global Networks and two anonymous reviewers for their
+constructive comments. I also wish to thank the solidarity activists and observers who were
+kind enough to take the time to answer my questions. The data and discussions presented in this
+article build on a Ph.D. thesis, ‘Long distance Zapatismo: globalization and the construction of
+solidarity’. The thesis was submitted and defended in 2002. A revised edition of the thesis is
+published by Zed Books under the title International Zapatismo: the construction of solidarity
+in the age of globalization.
+
+Notes
+1. The network consists of non-Mexican actors who have an interest in the impact of the
+Zapatista uprising, share some of the political views of the Zapatistas and engage in
+political activities, information distribution, material aid delivery, human rights observation
+and lobbying efforts in relation to Chiapas and the Zapatistas, or Mexican actors with the
+above characteristics whose activities involve regular contact with actors outside Mexico.
+These actors may be groups and organizations as well as individuals.
+2. For transnational approaches to the network concept, see for example Arquilla and Ronfeldt
+(1997) and Keck and Sikkink (1998). For a more sociological perspective on networks, see
+the work of Diani (1992a, 1992b, 2003a, 2003b) as well as the recent volume edited by
+Diani and McAdam (2003).
+3. See for example Berger (2001); Bob (2001); Cleaver (1998, 2000a); De Angelis (2000);
+Froehling (1997); Hellman (1999); Holloway (1998); Johnston (2003); Johnston and Laxer
+(2003); Morton (2000); Paulson (2000); Ronfeldt and Arquilla (1998); Schulz (1998) and
+Stephen (2002).
+4. While the solidarity network has remained active since this time it has done so at a
+comparably lower level, partly due to the public silence of the Zapatistas from April 2001
+to late 2002. At the time of writing these lines (spring 2003) there are, however, signs of
+reactivation as the Zapatistas once again begin to take part in public dialogue. The Zapatista
+public silence came after serious disagreements with the Mexican government over the
+issue of indigenous rights reform. At present there is still no contact between the Zapatistas
+and the government.
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Thomas Olesen
+
+5. The relative dependence on the Internet has a potential bias in that it overlooks people and
+organizations without an Internet presence. Since this is often the case with people and
+organizations from less developed countries, Internet-based research has important limitations.
+6. This point contrasts with Judith Hellman’s (1999: 174) assertion that a few sources, mainly
+Harry Cleaver and the Chiapas95 listserv, monopolize information about Chiapas and the
+Zapatistas. See Cleaver (2000a) and Paulson (2000) for critical replies and Hellman (2000)
+for a reply to Paulson.
+7. These are obviously not the only organizations engaged in this type of activity, but only
+some of the larger and more well known. In Europe for example, the Barcelona based
+Collective of Solidarity with the Zapatista Uprising plays a central role as an information
+processor and distributor.
+8. The archive of the MRD, or the Anthap1, which is the technical name for MRD, is available at
+http://anthap.oakland.edu/anthap1/Chiapas_News_Archive.
+9. The Chiapas95 has an extensive archive of all postings to the list. The archive can be
+accessed at http://www.eco.utexas.edu/~hmcleave/chiapas95.html.
+10. The Chiapas-L is run by the BURN collective at the University of California at San Diego.
+The archive of Chiapas-L is accessible at http://burn.ucsd.edu/archives/chiapas-l.
+11. The Ya Basta! website is located at http://www.ezln.org.
+12. Zapatista communiqués, at least in the early days of the uprising, were often transported
+from Zapatista villages in Chiapas to, for example, the El Tiempo magazine in San
+Cristóbal de las Casas. El Tiempo would then pass the information and communiqués on to
+national newspapers such as La Jornada and El Financiero. These points build on
+statements made by the founder of El Tiempo, Amado Avendaño, at the 4th International
+Congress of the Americas, 29 September – 2 October 1999, Puebla, Mexico.
+13. Author’s translation from Spanish.
+14. The first level, the indigenous communities of Chiapas, is not included in the distinction
+between core, periphery and transitory actors. This is because they are not recipients of
+information, at least with regard to the transnational Zapatista solidarity network.
+15. This point echoes Keck and Sikkink’s (1998) distinction between transnational social
+movements and transnational advocacy networks, the latter being mainly networks for
+information exchange.
+16. In Mexico there were even larger gatherings of up to 10,000 people in the Zócalo (main
+square) of Mexico City already on 7 January (Gil Olmos 1994).
+
+References
+Appel, K. (2000) Interview in Denver, Colorado, 24 October.
+Arquilla, J. and D. Ronfeldt (1997) ‘The advent of netwar’ in J. Arquilla and D. Ronfeldt (eds)
+In Athena’s camp: preparing for conflict in the information age, Santa Monica, CA:
+RAND, 275–93.
+Berger, M. T. (2001) ‘Romancing the Zapatistas: international intellectuals and the Chiapas
+rebellion’, Latin American Perspectives, 28, 149–70.
+Bob, C. (2001) ‘Marketing rebellion: insurgent groups, international media, and NGO support’,
+International Politics, 38, 311–34.
+Burt, R. S. (1978) ‘Cohesion versus structural equivalence as a basis for network subgroups’,
+Sociological Methods and Research, 7, 189–212.
+Callahan, M. (2000) Interview in Austin, Texas, 5 October.
+Casa, K. (1994) ‘Sacramento protesters shut down Mexican consulate’, United Press
+International, 10 January.
+Castro Soto, G. (2001) Interview, e-mails received 21 September and 11 November.
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The transnational Zapatista solidarity network: an infrastructure analysis
+
+CIEPAC (2001) Website at http://www.ciepac.org/otras%20temas/Nosotros/htm.
+Cleaver, H. M. (1994) ‘Introduction’ in Zapatistas! Documents of the new Mexican revolution
+(December 31, 1993–June 12, 1994), Brooklyn, NY: Autonomedia, 11–23.
+Cleaver, H. M (1998) ‘The Zapatista effect: the Internet and the rise of an alternative political
+fabric’, Journal of International Affairs, 51, 621–40.
+Cleaver, H. M. (2000a) ‘The virtual and real Chiapas support network: a review and critique of
+Judith Adler Hellman’s “Real and virtual Chiapas: magic realism and the left”’ on-line at
+http://www.eco.utexas.edu/ Homepages/ Faculty/Cleaver/anti-hellman.html.
+Cleaver, H. M. (2000b) Interview in Austin, Texas, 4 October.
+De Angelis, M. (2000) ‘Globalization, new internationalism and the Zapatistas’, Capital and
+Class, 70 (spring), 9–35.
+Diani, M. (1992a) ‘Analysing social movement networks’ in M. Diani and R. Eyerman (eds)
+Studying collective action, London: Sage, 107–35.
+Diani, M. (1992b) ‘The concept of social movement’, Sociological Review, 40, 1–25.
+Diani, M. (2003a) ‘Leaders or brokers? Positions and influence in social movement networks’
+in M. Diani and D. McAdam (eds) Social movements and networks: relational approaches
+to collective action, Oxford: Oxford University Press, 105–122.
+Diani, M. (2003b) ‘Networks and social movements: a research programme’ in M. Diani and
+D. McAdam (eds) Social movements and networks: relational approaches to collective
+action, Oxford: Oxford University Press, 299–319.
+Diani, M. and D. McAdam (eds) (2003) Social movements and networks: relational
+approaches to collective action, Oxford: Oxford University Press.
+Dow, J. (2001) Interview, e-mail received 12 September.
+Enlace Civil (2001) Website at http://www.enlacecivil.org.mx/principal.lista.htm.
+EZLN (1994) ‘Segunda declaración de la Selva Lacandona’, on-line at http://www.ezln.org/
+documentos/1994/19940610.es.htm.
+EZLN (1995a) ‘Convoca el ejército Zapatista a la sociedad civil a realizar una gran consulta
+nacional’, La Jornada, 8 June, on-line at http://www.ezln.org/documentos/1995/
+19950608.es.htm.
+EZLN (1995b) ‘Communiqué (September 29)’ on-line at http://www.ezln.org/documentos/
+1995/9950929.es.htm.
+EZLN (1996) ‘Primera declaración de la realidad’, on-line at http://www.ezln.org/documentos/
+1996/19960130.es.htm.
+Froehling, O. (1997) ‘The cyberspace “war of ink and Internet” in Chiapas, Mexico’,
+Geographical Review, 87, 291–307.
+Gil Olmos, J. (1994) ‘Manifestación de diez mil personas en el Zócalo’, La Jornada, 8 January.
+Granovetter, M. (1973) ‘The strength of weak ties’, American Journal of Sociology, 78,
+1360–80.
+Hansen, T. (2000) Interview, e-mails received 3 and 6 September.
+Hellman, J. A. (1999) ‘Real and virtual Chiapas: magic realism and the left’, Socialist Register
+2000 (edited by L. Panitch and C. Leys), Rendlesham: Merlin Press, 161–86.
+Hellman, J. A. (2000) ‘Virtual Chiapas: a reply to Paulson’, Socialist Register 2001 (edited by
+L. Panitch and C. Leys with G. Albo and D. Coates), Rendlesham: Merlin Press, 289–92.
+Holloway, J. (1998) ‘Dignity’s revolt’ in J. Holloway and E. Peláez (eds) Zapatista!
+Reinventing revolution in Mexico, London: Pluto Press, 159–98.
+Indymedia-Chiapas (2001) Interview, e-mail received 1 November.
+Johnston, J. (2003) ‘We are all Marcos? Zapatismo, solidarity and the politics of scale’ in G.
+Laxer and S. Halperin (eds) Global civil society and its limits, Houndmills: Palgrave
+Macmillan, 85–104.
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Thomas Olesen
+
+Johnston, J. and G. Laxer (2003) ‘Solidarity in the age of globalization: lessons from the antiMAI and Zapatista struggles’, Theory and Society, 32, 39–91.
+Keck, M. E. and K. Sikkink (1998) Activists beyond borders: advocacy networks in international politics, Ithaca, NY: Cornell University Press.
+Lewis, T. (2000) Interview in San Francisco, 7 December.
+Melel Xojobal (2001) Website at http://www.laneta.apc.org/melel.
+Molloy, M. (2000) Interview in Las Cruces, New Mexico, 16 November.
+Morton, A. D. (2000) ‘Mexico, neoliberal restructuring and the EZLN: a neo-Gramscian
+analysis’ in B. K. Gills (ed.) Globalization and the politics of resistance, Houndmills and
+London: Macmillan, 255–79.
+Oliver, P. E. and D. J. Myers (2003) ‘Networks, diffusion, and cycles of collective action’ in
+M. Diani and D. McAdam (eds) Social movements and networks: relational approaches to
+collective action, Oxford: Oxford University Press, 173–203.
+Otero, G. (2001) Interview, e-mail received 19 March.
+Paulson, J. (2000) ‘Peasant struggles and international solidarity: the case of Chiapas’, Socialist
+Register 2001 (edited by L. Panitch and C. Leys with G. Albo and D. Coates), Rendlesham:
+Merlin Press, 275–88.
+Paulson, J. (2001) Interview, e-mail received 1 October.
+Ronfeldt, D. and J. Arquilla (1998) The Zapatista social netwar in Mexico, Santa Monica, CA:
+RAND.
+Schulz, M. S. (1998) ‘Collective action across borders: opportunity structures, network
+capacities, and communicative praxis in the age of advanced globalization’, Sociological
+Perspectives, 41, 587–616.
+SIPAZ (2001) Website at http://www.sipaz.org/frme.htm.
+Slevin, J. (2000) The Internet and society, Cambridge: Polity Press.
+Stephen, L. (1995) ‘The Zapatista army of national liberation and the national democratic
+convention’, Latin American Perspectives, 22 (4), 88–99.
+Stephen, L. (2002) ‘In the wake of the Zapatistas: US solidarity work focused on militarization,
+human rights and democratization in Chiapas’ in D. Brooks and J. Fox (eds) Cross-border
+dialogues: US–Mexico social movement networking, San Diego, CA: Center for US–
+Mexican Studies, University of California.
+Wilkinson, T. and J. Darling (1994) ‘Thousands in Mexico march to back Indians’, Los Angeles
+Times, 8 January.
+14710374, 2004, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1471-0374.2004.00082.x by Hertie School Of Governance, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The transnational Zapatista solidarity network: an infrastructure analysis

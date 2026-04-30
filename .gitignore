@@ -1,0 +1,72 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# =========================
+# Logs / temp files
+# =========================
+*.log
+*.tmp
+*.temp
+
+# =========================
+# Environment / secrets
+# =========================
+.env
+.env.*
+*.key
+*.pem
+
+# =========================
+# Python build artifacts
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Data / generated artifacts
+# =========================
+
+# Raw copyrighted PDFs
+corpus/raw_pdfs/
+
+# Optional generated outputs
+results/generations/raw/
+
+# Optional cache/model folders
+.cache/
+models/
+
+# =========================
+# Mac / Linux hidden files
+# =========================
+.AppleDouble
+.LSOverride
+
+# =========================
+# Misc
+# =========================
+coverage/
+htmlcov/
+.pytest_cache/

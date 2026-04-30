@@ -1,0 +1,1116 @@
+Lusotopie 19 (2020) 9-35
+brill.com/luso
+
+Introduction. Amílcar Cabral and the Idea of
+Anticolonial Revolution
+Aurora Almada e Santos
+
+Instituto de História Contemporânea, Faculdade de Ciências Sociais e
+Humanas, Universidade NOVA de Lisboa, Portugal
+auroraalmada@yahoo.com.br
+
+Víctor Barros
+
+Instituto de História Contemporânea, Faculdade de Ciências Sociais e
+Humanas, Universidade NOVA de Lisboa, Portugal
+vbarros@fcsh.unl.pt
+
+Abstract
+This article intends to be a contribution to the present issue, entirely dedicated to
+Amílcar Cabral and the Idea of the Anticolonial Revolution. The main goal is to shift and
+decentralize the emphasis so far exclusively laid upon the historical weight of Cabral
+as an individual. In other words, we propose a more inclusive analysis and an approach
+that does not overlook the multiplicity of interactions and connexions, as well as how
+several interconnected elements hardly related to the figure of Cabral fostered the process of the liberation struggle of Guinea and Cabo Verde and brought it into fruition.
+In this introductory considerations we will address three main topics. First, we address
+Amílcar Cabral and PAIGC’s liberation project of struggle in relation with the domestic
+and transnational wave of decolonization from the same period. Secondly, we briefly
+outline the different topics so far discussed in the academic and non-academic works
+related to the history of liberation of Guinea and Cabo Verde, as well as how certain
+perspectives influenced the understanding of this history. Finally, we highlight the pertinence of the topic of this volume and identify the contribution of each of the different case studies presented in the articles.
+
+Keywords
+anticolonial revolution – Guinea-Bissau/Cabo Verde – Amílcar Cabral – PAIGC
+
+© Koninklijke Brill NV, Leiden, 2020 | doi:10.1163/17683084-12341746
+
+10
+
+Santos and Barros
+
+Amílcar Cabral e o ideário da revolução anticolonial
+Resumo
+Esta introdução constitui uma contribuição para o dossiê temático intitulado Amílcar
+Cabral e o Ideário da Revolução Anticolonial. O propósito principal é descentralizar
+o foco de análise da agência colocada exclusivamente no peso histórico da figura de
+Cabral enquanto indivíduo. Dito de outro modo, propomos uma análise mais inclusiva
+e uma abordagem que não negligencia a multiplicidade de interações e conexões, bem
+como os vários elementos e complexidades dificilmente relacionados com a figura
+de Cabral, mas que condicionaram o processo da luta de libertação da Guiné e Cabo
+Verde. Este artigo introdutório estrutura-se em três principais tópicos. O primeiro
+aborda o projeto de luta de Amílcar Cabral e do PAIGC, situando-o dentro do contexto
+geral e transnacional da vaga de descolonização pós-II Guerra Mundial. O segundo
+identifica de forma breve os diferentes focos temáticos que têm sido produzidos na investigação académica e não académica sobre a história da libertação da Guiné e Cabo
+Verde, assim como certas perspetivas que influenciaram a compreensão dessa mesma
+história. Por fim, o último tópico sublinha a pertinência inovadora deste dossiê temático e identifica o contributo de cada um dos diferentes estudos de caso apresentados
+nos artigos.
+
+Palavras-chave
+revolução anticolonial – Guiné-Bissau/Cabo Verde – Amílcar Cabral – PAIGC
+
+Amílcar Cabral et la pensée de la révolution anticoloniale
+Résumé
+Cet article introduit le dossier thématique intitulé Amílcar Cabral et la pensée de la révolution anticoloniale. L’objectif principal est de décentrer le focus d’analyse classique
+du poids historique de la figure d’Amílcar Cabral en tant qu’individu vers une perspective qui prenne en compte la multiplicité des interactions et des connexions qui ont
+facilité ou conditionné le processus de la lutte de libération de la Guinée et Cap Vert,
+même si elles n’ont pas eu un rapport direct avec la figure d’Amílcar Cabral. Ce texte est
+structuré autour de trois axes. Le premier aborde le projet de la lutte d’Amílcar Cabral
+
+Lusotopie 19 (2020) 9-35
+
+Amílcar Cabral and the Idea of Anticolonial Revolution
+
+11
+
+et du PAIGC, en le plaçant dans le contexte général et transnational de la vague de décolonisation. Le second identifie les différents axes thématiques qui ont été explorés
+dans la recherche académique et non-académique sur l’histoire de la libération de la
+Guinée et de Cap Vert, ainsi que certaines perspectives qui ont influencées la compréhension de cette histoire. Le troisième met en évidence la pertinence innovatrice de ce
+dossier thématique et la contribution de chacun des articles présentés.
+
+Mots-clefs
+révolution anticoloniale – Guinée-Bissau/Cap-Vert – Amílcar Cabral – PAIGC
+
+…
+
+Amílcar Cabral, comme Frantz Fanon, a ainsi
+suscité une formidable littérature à l’image du
+mythe qui s’est créé autour de lui.
+René Pélissier1
+
+⸪
+1
+
+Visions of the Empire and Waves of Decolonization
+
+Colonial empires and the anticolonialism that emerged as an open challenge
+to the colonial rule were never an isolated phenomenon, as the decolonization
+wave that occurred more vividly in the second half of the 20th century was not
+an isolated process (Elam 2017). The decolonization process had several ramifications and produced, at local, regional as well as at the transnational levels,
+different experiences and political subjectivities (Craggs & Wintle 2016, Kalter
+2016, Wilder 2015, Sueur 2003). Historically, colonial empires, anticolonialism
+and decolonization were interconnected phenomena (Goebel 2017, Cooper
+2014, Liauzu 2007). Different visions of empire corresponded to different ways
+of managing decolonization process. Additionally, decolonization and its aftermaths produced different ways of representing the post-colonial relations
+1 Pélissier, R. 1992, “Amílcar Cabral’s Revolutionary Theory and Practice: A Critical Guide,
+by Ronald H. Chilcote”, The International Journal of African Historical Studies Vol. 25, Nº. 1
+(1992): xii.
+
+Lusotopie 19 (2020) 9-35
+
+12
+
+Santos and Barros
+
+between the new sovereign states and their former metropolis. The case of
+Portuguese decolonization was no exception (Cahen 2013, MacQueen 2003,
+Maxwell 1995). The modern history of the Portuguese African Empire can help
+highlight such interconnectedness. The colonial empire was in Portugal a relevant reference in the definition of strategies of political and cultural legitimation, since the period of Monarchy, passing by the Republican regime until the
+end of the Estado Novo (New State) dictatorship (Alexandre 2000a, 2000b, 2000c,
+Newitt 1981). Justification and legitimation were part of any imperial power, as
+well as strength, seduction and fraud (Mbembe 2017, Kumar 2017, Fanon 2011,
+Césaire 2004).
+The waves of anticolonialism that gained momentum after the Second
+World War were not only intended to contest the idea of empire and the alleged European ‘civilizing mission’. The purpose was to end the European colonial and imperial rule in Asia and Africa (Thomas & Thompson 2018). The
+decolonization in the post-war was part of the global history of that period,
+characterized, for instance, by the emergence of new actors in the regional and
+international arena, and the Cold War rivalries (Shipway 2008, Thomas et al.
+2008, Westad 2005). The decolonization of the European colonies in Asia and
+Africa was one of the most important historical process of the 20th century,
+because it turned the stage of contemporary world history (Getachew 2019,
+Duara 2004, Rothermund 2000, Betts 1998). Thus, investigating how the struggles for independence shaped the global historical context contributes to highlighting the role played by anticolonial organizations from the Global South in
+the emergence of a new world order. As Amílcar Cabral argued, “the people’s
+struggle for national liberation and independence from imperialist rule has become a driving force of progress for humanity. It undoubtedly constitutes one
+of the essential characteristics of contemporary history” (Cabral 1972: 39). In
+addition, the study of how the struggles for independence impacted the global
+contemporary history contributes to understanding the influence of the anticolonial organizations in the production of political subjectivity of the colonized peoples, as historical actors and the emergence of the new post-colonial
+states in the international arena.
+The Portuguese decolonization cannot be understood without an analysis of
+the phenomenon at the internal and external levels (Rosas et al. 2017, Jerónimo
+& Pinto 2015, Pimenta 2010, MacQueen 1997). The global historical context
+characterized by the dissolution of European colonial empires in the second
+half of the 20th century is quite relevant. Leaders of the Estado Novo regime,
+António de Oliveira Salazar (1933-68) and Marcelo Caetano (1968-74), refused
+the demands for independence and, as a corollary, the Portuguese Government
+maintained wars in Africa between 1961-74 against the liberation movements
+Lusotopie 19 (2020) 9-35
+
+Amílcar Cabral and the Idea of Anticolonial Revolution
+
+13
+
+in Angola, Guinea and Mozambique. From this, the conclusion is that it is
+imperative to take into account several factors in the study of the Portuguese
+decolonization: the weight of the Portuguese late colonialism (Castelo 2007,
+Alexandre 2000b, 2000c, 1979, Neto 1997), the right-wing Estado Novo dictatorship regime (Rosas 2019, Léonard 2016, Pinto & Raimundo 2016, Torgal 2009),
+Portugal’s resistance against the wave of decolonization (Alexandre 2017, Pinto
+2001), international pressure (Santos 2017, Rodrigues 2015, Reis 2013), colonial
+war in Africa (Cardina & Martins 2018, Meneses & Martins 2014, Amado 2011,
+Afonso & Gomes 2010, Souto 2007, Teixeira 2004), political pacts (Tíscar 2014,
+Lala 2007, Marcos 2007, Oliveira 2007, Telo 1996), and the Cold War context
+(Lopes 2014, Fonseca & Marcos 2013).
+This thematic issue on Amílcar Cabral and the Idea of Anticolonial Revolution
+does not contradict the notion that the research on Portuguese decolonization
+must consider several aspects. The purpose is neither to promote the eternal
+focus on the commonplaces regarding Cabral’s ideas, nor to revise his writings
+or confirm the validity (or not) of his proposals. The assumption is that there
+is a multiplicity of analytical itineraries through which we can still think about
+Cabral and situate critically, in time and space, his ideas. Like any other historical figure, Cabral’s actions and struggles can be investigated from different
+viewpoints, starting with the ways he constructed himself publicly as a political actor in the international arena.
+Cabral managed political communication strategies, transnational networks
+of solidarity “connecting the struggles” (Cabral 1973: 75), formal contacts and
+informal links. The reputation of his political leadership (fabricated by himself
+but also by others) has a historicity related to different factors, contexts and
+forms of interactions. Thus, one of the purposes of this thematic issue is to
+break with monolithic visions that often prevail in the history of anticolonialism and the struggle for the independence of Guinea and Cabo Verde, based
+(solely and almost exclusively) in the figure of Amílcar Cabral. Although the
+history of the liberation of both territories is intimately connected to the leadership of Cabral and the war led by the African Party for the Independence of
+Guinea and Cabo Verde (PAIGC), the historical complexity of the facts cannot
+be elucidated only by the lens of Cabral’s individual assessment. It is important
+to approach the diversity of links that underpinned the path for independence.
+Between the end of the 1950s and beginning of the 1960s, the PAIGC was not
+the only political force struggling to spearhead the demands for independence
+of ‘Portuguese Guinea’ and Cabo Verde archipelago. The party faced competition from political rivals (based in Senegal and in the Republic of Guinea) with
+different views about the independence of these two Portuguese colonies. This
+fact is important to understand the history of the independence demands for
+Lusotopie 19 (2020) 9-35
+
+14
+
+Santos and Barros
+
+‘Portuguese Guinea’ and Cabo Verde. It can help also to understand how the
+regional and international political contexts influenced the appearance of
+factions and how the PAIGC managed the competition and formed alliances
+(Sousa 2016). From this, it is crucial to investigate how PAIGC’s actions were
+shaped by different agencies, actors and circumstances. It is equally crucial to
+decentralize the approach from the weight of Cabral’s figure, to observe the
+historicity of the anticolonial revolution through the multiplicity of interactions and connections that made possible the accomplishment of some designs, as well as the complexities that influenced or inspired others.
+After 1963, when the PAIGC started the armed struggle, the military component had structural importance in the liberation struggle process. We endorse
+Patrícia Gomes and Mustafah Dhada’s claims according to which it is necessary
+to highlight the particularities that made the war in Guinea a specific case in
+the context of the liberation struggles in the Portuguese colonies (Gomes 2010,
+Dhada 1993). The PAIGC struggle was a liberation war with a strong political,
+military, and diplomatic component (Newitt 2017, Fistein 2014, Gomes 2008a,
+Dhada 1995). As Leopoldo Amado and Mário Beja Santos have demonstrated,
+it was also a fragmented war in space and time (Santos 2016b, Amado 2011).
+Such assertions suggest that the histories of the PAIGC struggle are diverse and
+their complexity makes it easier to refute linear interpretations. Events did not
+occur solely as consequences of decisions taken by Amílcar Cabral, since his
+plans were not fulfilled mimetically.
+One example was the famous Cabralian project of unity Guinea/Cabo Verde
+because the unity supposed much more than a political and military tactic to
+connect peoples from two colonies to fight the same imperial power (Pereira
+2015, Cassama 2014, Ndjai 2013, Fernandes 2007, Ribeiro 1983). According to
+Artemisa Candé Monteiro, the Cabralian conception of unity was rooted in the
+Western tradition that aspires to join cultural diversities (Monteiro 2013). And,
+as António Tomás asserts, the idea of unity used to manage the war to liberate
+Guinea and Cabo Verde necessarily implied the harmonization of both populations. This was Cabral’s wish, but the reality was far from corresponding to
+this idyllic vision due to cultural differences among the populations of the two
+territories (Tomás 2018). Inhabitants from Guinea and Cabo Verde did not recognize reciprocally as one people (Monteiro 2019). Their colonial history was
+shaped differently since the beginning of the Portuguese colonization (Santos
+2015, Silva 2010, Pélissier 2001). The history of territorial occupation and the
+Portuguese settlement, as well as the Portuguese influence in the social foundations of authority in both territories, was distinct (Silva 2016, Forrest 2002,
+Mendy 1994). Moreover, the inhabitants of Guinea and Cabo Verde did not
+
+Lusotopie 19 (2020) 9-35
+
+Amílcar Cabral and the Idea of Anticolonial Revolution
+
+15
+
+have the same administrative statute within the Portuguese colonial empire
+(Monteiro 2017, Cruz 2006, Cardoso 1992).
+2
+
+Amílcar Cabral and the PAIGC’s Liberation Struggle:
+Status quaestionis
+
+What are then the main characteristics of the historiographical analysis of
+Cabral’s actions and those from the PAIGC? The scholarship on the liberation struggles in Southern Africa and Guinea-Bissau has been experiencing
+an analytical shift towards providing perspectives within the widest possible
+setting (Sapire & Saunders 2013). Many analysis emphasize the interplay between local, regional and global scales of action, departing from individual,
+nation-based studies (Sapire & Saunders 2013). Equally relevant, a range of
+studies have been engaging in a debate on national liberation movements covering different aspects, including leadership, ideology, discourse, diplomacy,
+transnational solidarity, international law, gender, and Cold War (Thomas &
+Thompson 2018, Fistein 2014, Shipway 2008, Thomas et al. 2008, Westad 2005).
+Even so, the main feature of the existing academic literature is the dispersion
+and imbalance of the research due to an overwhelming concentration of studies on the national liberation movements and their leaders.
+As the references compiled at the end of this introduction illustrates, the
+study of the struggle for independence of Guinea and Cabo Verde is consistent with such line of research. Because of the intimate connection between
+the PAIGC and Amílcar Cabral, the research has been discussing the liberation
+movement struggle and its Secretary-General’s role within a single analytical
+framework. The first contributions on the subject appeared when the liberation struggle was still taking place. In some cases, the contributions were based
+on in loco observations of scholars who travelled to the so-called liberated areas
+in Guinea (Rudebeck 1974, 1972, Chaliand 1967, Davidson 1969, Chilcote 1968).
+With access to first-hand information collected in the theater of operations,
+these studies lack, however, in historical perspective and present an uncritical
+account of the PAIGC and Amílcar Cabral’s accomplishments.
+Although this generation of scholars sympathetic to the liberation movement would continue for many years to dominate the contributions on the
+subject, after the independence new studies tried to offer different perspectives on the independence of Guinea and Cabo Verde. These studies represented an improvement when compared to the early literature, which portrayed
+the PAIGC and the binational struggle for independence as free from tensions
+
+Lusotopie 19 (2020) 9-35
+
+16
+
+Santos and Barros
+
+and competing opinions. Their narrative paid attention to the subject in the
+context of the assessment of the various factors explaining how and why the
+PAIGC was able to achieve independence for Guinea and Cabo Verde (Sousa
+2016, Amado 2011, Gomes 2010, Borges 2008, Chabal 2002, Silva 1997, Dhada
+1993, Mettas 1984). Sometimes the assessment was made through Amílcar
+Cabral biographies, contributing to shed light on different aspects of his life
+and leadership, as well as on cultural and political issues related to the liberation process (Sousa 2016, Santos 2014, Milani 2011, Tomás 2007, Andrade
+1980). These publications brought new insights, challenging previous assumptions and highlighting the complexities and nuances involved in the PAIGC’s
+struggle.
+A review of the more recent literature on the PAIGC’s struggle for independence and Amílcar Cabral contributions shows in addition that the subject has
+been viewed by the scholarship from the perspective of the intellectual history
+and African critical theory. Among scholars championing such a perspective
+there is an inclination to frame Cabral’s intellectual life within the context of
+black radical tradition and to draw parallels with thinkers as Aimé Césaire,
+C. L. R. James, Cheikh Anta Diop, Chinua Achebe, Frantz Fanon, Kwame
+Nkrumah, Léopold Senghor, W. E. B. Du Bois, and other political and intellectual figures from Africa, Pan-Africanism and the diaspora (Rabaka 2020, 2014,
+2009, Simon-Aaron 2015, Bouamama 2014, Jeyifo 2007, Peterson 2007, Adi &
+Sherwood 2003). Scholars equally tend to perceive Cabral’s intellectual production through the lens of materialist and Marxist theories and class struggle
+(Dias 2020, Simon-Aaron 2015, Idahosa 2002), critics on colonialism (Abadia
+2018, Villen 2013, Franco 2009), education and decolonizing consciousness
+(Milani 2016, Moraes & Moniz 2013, Romão & Gadotti 2012, Pereira & Vittoria
+2012), post-colonial studies (Young 2001, Ashcroft et al. 1995, Williams &
+Chrisman 1994), decoloniality (Mignolo & Walsh 2018), epistemologies of the
+South (Santos 2019), among other currents.
+Moving the research even further, many studies bring into dialogue Cabral’s
+legacies and significance for the present times (Saucier 2017, Tomás 2016,
+Manji & Fletcher Jr 2013, Lopes 2013, 2012, 2011, 2009, Fistein 2010, Fobanjong
+& Ranuga 2006, Forrest 2003, Chilcote 1984). Similarly, investigations have
+been exploring the genealogical analysis of Cabralian concepts and discussing
+Amílcar Cabral’s contributions to debates over culture, race, people, liberation,
+formation of political subjects, environment, modernization, modernity, etc.
+(Jones 2020, Lucas 2019, César 2018, Neves 2015, Jones 2015, 2010, Araujo 2005,
+Chilcote 1991).
+Researchers have also expanded their enquiry beyond the almost exclusive focus on Guinea, which prevailed for a long time in the studies of the
+Lusotopie 19 (2020) 9-35
+
+Amílcar Cabral and the Idea of Anticolonial Revolution
+
+17
+
+independence struggle. For instance, the PAIGC initiatives to mobilize the
+Cabo Verdean society and its militants’ trajectories, political careers and recruitment are of particular relevance (Coutinho 2017, Kohl 2017, Pereira 2015).
+Conveying a different approach, other publications have searched for a more
+holistic framework, incorporating a transnational lens. The study of the PAIGC
+and Cabral’s agency in enlisting support against Portugal embodies such an
+approach, detailing the moral, political and material assistance received from
+governments, international organizations, personalities, groups of people, activists and a multitude of informal networks and solidarity movements established across the globe (Russo 2020, Barros 2019, Dallywater et al. 2019, Santos
+et al. 2019, 2018, 2017, 2016a, Schliehe 2019, Telepneva 2019a, 2014, Parrott 2014,
+Sellstrom 2002, 1999a, Eriksen 2000).
+Other than these aspects, the existing literature tends to approach specific
+topics such as the PAIGC’s educational system in the so-called liberated areas.
+Again, the war was still in progress when the first publications started to appear and these pioneering works laid the ground for the subsequent studies
+(Borges 2019, Cá 2005, Bélanger 1980, Rudebeck 1974). The research on specific
+topics has pushed the historical inquiry into new directions, to assess in what
+extent women impacted the liberation struggle and their multi-dimensional
+roles within the PAIGC (Galvão & Laranjeiro 2019, Coutinho 2017, 2012, Gomes
+2015, 2013, Urdang 2013, 1979). Another trend is to look at how print media from
+Western and Eastern countries contributed to give visibility and expand the
+liberation movements and, more particularly, the PAIGC demands (Telepneva
+2019b, Santos 2010). Finally, a reference should be made to the inclination to
+bring into conversation the discussion on how cinema helped to translate
+into images and to vindicate internationally the PAIGC message regarding the
+armed struggle and the state-building programs in the so-called liberated areas
+(Laranjeiro 2019a, Laranjeiro 2019b, Silva 2018, Cunha & Laranjeiro 2016).2
+Many of the publications about the PAIGC and Amílcar Cabral are byproducts of Master thesis and PhD dissertations written by scholars of different academic disciplines and affiliated with institutions in Portugal, France,
+Italy, Germany, Brazil, United Kingdom, United States, etc. Nowadays we can
+witness a renewed scholarly attention to the subject as reflected by the research project Amílcar Cabral: from Political History to the Politics of Memory
+hosted by the Institute of Contemporary History – NOVA University of Lisbon
+between 2016 and 2019. Sponsored by the Portuguese Foundation for Science
+2 	For films and documentary projects on Amílcar Cabral see for example: http://amilcar
+-cabral.com; https://valeriolopes.com/modestly/; http://www.txanfilm.com/index.php/up
+-coming-productions?layout=edit&id=6.
+
+Lusotopie 19 (2020) 9-35
+
+18
+
+Santos and Barros
+
+and Technology (FCT) grant PTDC/EPH-HIS/6964/2014, the project aimed to
+study Amílcar Cabral’s contribution for the creation of the political subjectivity of the populations of Guinea and Cabo Verde, the process of construction
+of Cabral as an international political actor and the representations of his life
+and work. Consisting of several publications and a website, the outputs of the
+research project are likely to continue in the future to shape the scholarship on
+the complex history and legacies of Amílcar Cabral (Jones 2020, Barros 2019,
+Laranjeiro 2019b, Lopes & Barros 2019, Sousa 2020, Telepneva 2019a).3
+Based at the University of Coimbra, the research project CROME – Crossed
+Memories, Politics of Silence. The Colonial-Liberation Wars in Postcolonial Times,
+sponsored by the European Research Council (ERC), also conveys the promise
+of new findings on the study of the binational struggle for the independence
+of Guinea and Cabo Verde.4 Ongoing since 2017, the project engages with the
+hypothesis that the colonial war, the colonial legacies and the anticolonial
+struggles triggered memorialization and silencing processes which have their
+historicity. Since it will compare the production of memories in Portugal and
+the Portuguese former colonies, including Guinea-Bissau and Cabo Verde,
+probably the research project, which will end in 2022, will enlarge our knowledge on how the PAIGC’s struggle for independence and Amílcar Cabral’s pivotal role is perceived by the citizens of the states they helped to create.
+Beyond scholarly analysis, the struggle for the independence of Guinea
+and Cabo Verde and the figure of Amílcar Cabral has been the subject of interest by journalists and diplomats (Lopes 2016, 2012, 1996, Oramas 1998,
+Castanheira 1995, Ygnatiev 1975). Memories of PAIGC’s militants and Amílcar
+Cabral close associates add to the existing publications, being a testament on
+how the struggle for the independence of Guinea and Cabo Verde has stimulated political, theoretical, and cultural writings (Pereira 2016, Cabral 2014,
+Fortes 2013, Medeiros 2012, Pereira 2002, Martins 1990, Querido 1988, Cabral
+1984). Likewise, the two volumes published respectively in 1984 and 2005,
+composed by speeches and testimonies delivered during the Amílcar Cabral
+International Symposium, in Cabo Verde, proves the range of the interest towards the PAIGC’s founding leader and the movement struggle.5
+
+3 	
+The publications of the project are listed in: https://ihc.fcsh.unl.pt/projectos/acabral
+-publicacoes/.
+4 	See https://ces.uc.pt/pt/investigacao/projetos-de-investigacao/projetos-financiados/crome.
+5 	Fundação Amílcar Cabral 2005, Cabral no Cruzamento de Épocas: Comunicações e Discursos
+Produzidos no II Simpósio Internacional Amílcar Cabral, Praia, Alfa Comunicações; AA. VV.
+1984, Continuar Cabral. Simpósio Internacional Amílcar Cabral, Cabo Verde, 17 a 20 de Janeiro,
+Praia, Edição Grafedito/Prelo-Estampa.
+
+Lusotopie 19 (2020) 9-35
+
+Amílcar Cabral and the Idea of Anticolonial Revolution
+
+19
+
+In addition, the compilation of the ultimate booklist on the PAIGC struggle
+and Amílcar Cabral includes publications designed to bridge the gap between
+the scholarly findings and the non-academic audience. An example is the
+short biography of Amílcar Cabral for the English-speaking world published in
+the United States by the Ohio University Press (Mendy 2019). Along the same
+lines, in Cabo Verde a cartoon A Turma de Cabralinho e o Búzio Mágico (Pereira
+& Silva 2019) and the book Eu, Amílcar (FAC 2019) introduced Amílcar Cabral
+and the Cabo Verdean history to children. Another example can be found in
+two recent editorial projects that revealed Cabral’s intimacy to the public,
+namely through the publication of some of his private letters and postcards
+(Cabral et al. 2018, 2016).6 Besides these initiatives, the figure and the writings
+of Cabral has been arousing interest in the literary field and artistic production
+(Cabral 2018a, Cidra 2018, Melo & Cavia 2016, Santos, et al. 2013, Barros & Lima
+2012, Gomes 2008b, N’dumbe III 1976).7
+It should be pointed out that private entities are involved in the attempt to
+surpass the barriers among academia and civil society, keeping alive the interest in Amílcar Cabral and the history of PAIGC. Among these entities are
+worth of mention the Centro de Intervenção para o Desenvolvimento Amílcar
+Cabral (CIDAC),8 in Lisbon; the Fundação Mário Soares (FMS),9 also in Lisbon
+and where the Amílcar Cabral Archive is housed; and above all the Fundação
+Amílcar Cabral (FAC),10 in Praia city, Cabo Verde. Concerned with the preservation of the memory and legacies of Amílcar Cabral, the Fundação Amílcar
+Cabral has distinguished itself for the release of historical sources, namely the
+Cabral writings, to help reconstruct the trajectory of the struggle for independence of Guinea and Cabo Verde. Furthermore, the foundation has been engaging scholars in the organization of conferences and publication of books
+and papers.11 One of its last initiative was the submission of an application
+6 		Part of Cabral letters were recently performed by actors from a theater group named
+UmColetivo. On this topic see: https://www.umcoletivo.pt/cartas. Accessed in 16 March
+2020.
+7 		Urban art portraying Cabral’s image through various graffiti can be found for instance in
+the walls of the Cova da Moura neighbourhood, in Amadora, and Quinta do Mocho, in
+Sacavém, Portugal; in Praia city, in Cabo Verde; and in Bissau, capital of Guinea-Bissau.
+8 		See: https://www.cidac.pt.
+9 		See: http://casacomum.org/cc/arquivos?set=e_2617.
+10 	See: https://pt-br.facebook.com/fundacaoamilcarcabral.
+11 	The publications of Fundação Amílcar Cabral (FAC) are: Cabral, A. 2019, A Luta Criou
+Raízes: Intervenções, Entrevistas, Reflexões, Artigos, 1964-1973, Praia, FAC; Fundação
+Amílcar Cabral 2019, Eu, Amílcar, Praia, FAC; Osório, O. 2018, Emergência da Poesia em
+Amílcar Cabral, Praia, FAC; Fonseca, L. et al. coords. 2016, Por Cabral, Sempre. Fórum
+Amílcar Cabral 2013: Comunicações e Discursos, Praia, FAC; Cabral, A. 2015, Cabo Verde:
+
+Lusotopie 19 (2020) 9-35
+
+20
+
+Santos and Barros
+
+requesting Cabral’s writings to be listed among the UNESCO’s Memory of
+the World.
+3
+
+Thematic Issue and Dimensions of the Debate
+
+In the view of the ongoing interest in the study of the struggle for the independence of Guinea and Cabo Verde, why this thematic issue? While much has
+been written, most studies fail to break the many historiographical silences
+still existing around the subject as the following examples illustrate (Borges
+2019: 16). One aspect which has been neglected is to bring the PAIGC and
+the various national liberation movements from Portuguese colonies into the
+same comparative framework. The comparative analysis is valuable since the
+liberation movements shared the goal of national independence, developing
+common strategies through direct and indirect interactions. The exchanges
+and interdependencies created by these movements demand comparison beyond the national level (Sousa 2016).
+Similarly, only occasionally the literature has been trying to read the PAIGC
+struggle for independence together with the actions of the national liberation
+movements in Southern Africa. The resistance to apartheid in South Africa,
+the efforts to achieve majority rule in nowadays Zimbabwe, and the campaign
+for the independence of Namibia, although separated by geography and their
+distinctive contexts, overlapped with the PAIGC struggle. Nonetheless, the
+framing of the PAIGC struggle against Portuguese colonialism in the regional
+context remains an unexplored field since most of the studies have a singlecountry perspective.
+Scholars who concentrate on the transnational dimension of the struggle
+to end Portuguese colonialism often neglect the African post-colonial states
+contributions. The relationship of Western and Socialist countries with the
+PAIGC is better documented in academia (Telepneva 2014, Stephens 2011,
+Sellstrom 2002, 1999b). Most studies on African solidarity pays attention to
+specific countries and the Algerian support to the liberation movements is the
+most well-researched case-study (Quemeneur 2017, Byrne 2016, Connelly 2003,
+Reflexões e Mensagens, Praia, FAC; Idem, 2014, Pensar para Melhor Agir: Intervenções no
+Seminário de Quadros, 1969, Praia, FAC; Idem, 2013, Unidade e Luta, Volume 1 – A Arma
+da Teoria e Unidade e Luta, Volume 2 – A Prática Revolucionário, Textos coordenados por
+Mário de Andrade, Praia, FAC; Andrade, M. de 2011, Amílcar Cabral: Ensaio de Biografia
+Política, Praia, FAC.
+
+Lusotopie 19 (2020) 9-35
+
+Amílcar Cabral and the Idea of Anticolonial Revolution
+
+21
+
+2001). Only recently studies have tried to offer insights on the making of several African countries – Egypt, Ghana, and Tanzania – as arenas of connectivity
+for the PAIGC and other liberation movements (Dallywater et al. 2019).
+Likewise, the actions of several non-governmental organizations and support groups from civil society – such as the Chicago Committee for the Liberation of Angola, Mozambique and Guinea-Bissau, the Anti-Apartheid
+Movement, and the Mozambique, Angola, and Guine Information Centre, just
+to name a few – has not been studied. There is little information about their
+origins, the evolution of their activities, the options they made regarding the
+PAIGC or the extension in which they impacted the public opinion and the
+government policies in their home countries.
+Histories of Guinean and Cabo Verdean independence rarely opens a window to capture grassroots stories, individual experiences of less-well-known
+combatants and militants who acted clandestinely, dissident voices, and competing anticolonial organizations. The almost exclusive focus on the PAIGC
+and Amílcar Cabral disregards the experiences of other anticolonialists, who
+do not get to speak or air their views, and remain bystanders in their history. It
+has been difficult to reconcile the top-down with the bottom-up approach and
+to depart from the tendency to attribute an active role only to a very narrow
+group of players.
+The dominant discourse has been produced by privileged political actors
+that can place and disseminate their views on the liberation struggle in the
+public sphere through different channels. This fact has influenced the knowledge production concerning the subject and the public perception of the history of the liberation struggle. The attention given to PAIGC and Cabral has
+produced a bias in terms of gender representation, due to the central place
+of male combatants in the dominant narrative and the secondary role attributed to women in the public memory and official history of the struggle for
+independence.
+Significantly, the existing publications leave practically unanswered the
+question on how the PAIGC and, by extension, Cabral’s ideas and practices
+were, due to the complexities of the independence struggle, an experimental process in development (Borges 2019). Scholars have yet to explore with
+further details the conflicts between ideas and practices, taking into account
+the tensions and difficulties, as well as the inconsistencies and ambiguities in
+implementing the movement and Cabral’s decisions. Such an approach opens
+the opportunity to chronicle for instance how the PAIGC rejected colonial
+ideas but, simultaneously, was compelled to put into practice many of the
+Portuguese techniques (Borges 2019: 18).
+
+Lusotopie 19 (2020) 9-35
+
+22
+
+Santos and Barros
+
+What rises from these silenced topics is that there is still room for research
+and to write a more comprehensive history of the struggle for the independence of Guinea and Cabo Verde. Thus, how this thematic issue on Amílcar
+Cabral and the Idea of Anticolonial Revolution builds on the existing literature?
+What do we stand to learn from these four papers? The thematic issue explores Cabral’s ideas, his actions and the affinities with his ideas. The title of
+the thematic issue includes the word ‘idea’ (and not ‘theory’) and this choice
+deserves a brief explanation. The word ‘idea’ offers great possibilities to integrate different levels of discussion, taking into account the diversity of themes
+included in the Cabralian corpus. Such a corpus constitutes more of a set of
+‘ideas’ and arguments related to different situations, rather than a ‘theory’ outlined as a system of specific concepts, created to structure the explanation of
+a phenomenon.
+The thematic issue, as the remaining existing literature, reveals the difficulty of making a study that separates the PAIGC liberation struggle from the
+figure of Amílcar Cabral (Borges 2019: 16). The papers give balanced and critical appraisals, revealing different complexities and aspects of the struggle for
+independence. Having as starting point the disciplines of Philosophy, History,
+and Literature, the narratives are supported by evidentiary basis collected in
+the Amílcar Cabral archive, published sources, memories of former PAIGC
+militants and literary works. The specificity of the contributions exposes the
+diversity of ideas and arguments that shaped the vast repertoire of Cabral’s
+writings, although the authors do not center the analytical focus only on
+Cabral agency.
+The article of Mamadou Kabirou Gano analyses one of the political and
+moral complexities of the anticolonial revolution: how to overcome the apparent antinomy between ethical principles and the use of violence? In other
+words, how to reconcile the invocation of values with the use of violence? As
+Gano highlights, Cabral was not alone in examining violence in the anticolonial revolution context. Before him, Frantz Fanon wrote on this subject, stressing that colonialism was ‘violence à l’état de nature’ that could only be yield in
+face of much greater violence (Fanon 2011: 470). Gano’s article identifies the
+moral and political tensions related to the use of violence by the PAIGC in the
+struggle context, and scrutinizes Cabral’s ideas to emphasize its nuances and
+differences.
+Departing also from Cabral’s ideas, Abel Djassi Amado singles out the
+PAIGC’s actions, presenting the liberation struggle as a multifaceted phenomenon. The article authored by Amado contributes to illuminate the PAIGC’s
+main strategies and processes of diplomatic communication and engagement
+
+Lusotopie 19 (2020) 9-35
+
+Amílcar Cabral and the Idea of Anticolonial Revolution
+
+23
+
+towards the states of the communist bloc. Amado adds another perspective
+to the current understanding that the PAIGC struggle for independence was
+conducted on several fronts and with different actions that transcended the
+military operations. Managing strategies to court allies and different kind of
+support was, undoubtedly, one of the PAIGC’s goals as evinced by its ‘congratulatory’ diplomacy analyzed in the article.
+In contrast to linear interpretations, José Augusto Pereira’s article portrays
+the PAIGC struggle for independence as an irregular, fragmented, and complex
+process. While studying the PAIGC’s plan to carry out armed struggle in Cabo
+Verde and the difficulties encountered by the movement to mobilize the local
+population for independence, Pereira enhances the perception that the liberation struggle was shaped by various circumstances. From this perspective, the
+article raises a set of questions for further research, in particular whether the
+constraints faced by the PAIGC in the archipelago was or not one of the possible factors to explain the failure of the Guinea/Cabo Verde unit project after
+independence?
+Additionally, Renata Flávia da Silva explains how Amílcar Cabral’s ideas
+found space in the literature to, besides challenging Portuguese colonial discourse, convey guidelines for the construction of a new social order after the
+independence. Silva analyzes the fictional representation of Cabral’s idea
+about the forging of a New Man in the works of the Angolan writer Pepetela,
+underlining its permanence and/or rupture in As aventuras de Ngunga (1976)
+and Se o passado não tivesse asas (2016). The article elucidates Cabral exchanges and interdependencies with the remaining Portuguese colonies, as well as
+the relationship between his legacies and the construction of the Lusophone
+Africa post-colonial states.
+Overall, this thematic issue contributes to a more situated understanding of
+Cabral’s ideas and the heterogeneity of actions, time, and space of the PAIGC
+liberation path. Each contribution shows that we must break with the teleological ways of interpreting the historical processes of the liberation struggle
+for independence by asking critical questions. In observing the post-colonial
+trajectory of the states that emerged from the anticolonial struggles, it’s difficult not to ask what was done with Cabral’s ideas? What can we learn today
+from his anticolonialism? How can his anticolonial struggle help us to imagine and (re)create new political forms of emancipation? It is equally relevant
+to ask: how to connect struggles and (re)think new perspectives capable of
+generating New Women and New Men? The gap between Cabral’s promises
+of anticolonial revolution and the post-colonial critique makes all these questions relevant.
+
+Lusotopie 19 (2020) 9-35
+
+24
+
+Santos and Barros
+
+Acknowledgements
+We would like to expresses our gratitude to Tatiana Neves and the Fundação
+Amílcar Cabral (FAC), in Praia city, Cabo Verde, for their invaluable contribution to this thematic issue, by providing the picture for the front cover.
+To Jairzinho Lopes Pereira from KU Leuven, we are grateful for his inspiring
+and incisive proofreading of the first version of this text. Many thanks also to
+the authors, anonymous reviewers, Cyril Isnart, Marie-Hélène Sa Vilas Boas,
+and the members of Lusotopie editorial board for their helpful contribution
+in the preparation of this thematic issue. The introduction of this thematic
+issue was supported by and contributes to the research project Amílcar Cabral:
+from Political History to the Politics of Memory (PTDC/EPH-HIS/6964/2014),
+funded by the Foundation for Science and Technology (FCT) and hosted at the
+Institute of Contemporary History – NOVA University of Lisbon, Portugal.
+Bibliography
+Abadia, D. M. 2018, As Lutas Anticoloniais em Guiné-Bissau e Cabo Verde sob a Perspectiva
+Ideológica e a Trajetória Política de Amílcar Cabral (1960-1974), tese de doutoramento
+em História, Goiânia, Universidade Federal de Goiás.
+Adi, H. & Sherwood, M. 2003, Pan-African History. Political Figures from Africa and the
+Diaspora Since 1787, London and New York, Routledge.
+Afonso, A. & Gomes, C. M. eds. 2010, Os Anos da Guerra Colonial 1961-1975, Matosinhos,
+QuidNovi.
+Alexandre, V. 1979, Origens do Colonialismo Português Moderno: 1822-1891, Lisboa, Sá da
+Costa.
+Alexandre, V. 2000a, “Nação e Império”, in F. Bethencourt & K. Chaudhuri eds., História
+da Expansão Portuguesa, Volume 4, Lisboa, Temas e Debates: 90-142.
+Alexandre, V. 2000b, Velho Brasil, Novas Áfricas: Portugal e o Império, 1808-1975, Porto,
+Afrontamento.
+Alexandre, V. 2000c, O Império Africano: Séculos XIX e XX, Lisboa, Colibri, Instituto de
+História Contemporânea da Universidade Nova de Lisboa.
+Alexandre, V. 2017, Contra o Vento: Portugal, o Império e a Maré Anticolonial (1945-1960),
+Lisboa, Temas e Debates.
+Amado, L. 2011, Guerra Colonial & Guerra de Libertação Nacional 1950-1974, Lisboa,
+Instituto Português de Apoio ao Desenvolvimento.
+Andrade, M. de 1980, Amílcar Cabral. Essai de biographie politique, Paris, François
+Maspero.
+
+Lusotopie 19 (2020) 9-35
+
+Amílcar Cabral and the Idea of Anticolonial Revolution
+
+25
+
+Araujo, B. S. 2005, “Ideário de Amílcar Cabral (1924-1973), baseado na leitura das suas
+obras”, in G. Araujo ed., Trocas Culturais Afro Luso Brasileiras, Salvador, Contraste:
+52-61.
+Ashcroft, B. et al. dir. 1995, The Post-Colonial Studies Reader, London and New York,
+Routledge.
+Barros, M. & Lima, R. W. 2012, “RAP KRIOL(U): O Pan-Africanismo de Cabral na
+Música de Intervenção Juvenil na Guiné-Bissau e em Cabo Verde”, Realis. Revista de
+Estudos AntiUtilitaristas e PosColoniais, II (2): 88-116.
+Barros, V. 2019, “The French Anticolonial Solidarity Movement and the Liberation
+of Guinea-Bissau and Cape Verde”, The International History Review, accessed in
+16 April 2020. https://doi.org/10.1080/07075332.2019.1690541.
+Bélanger, P. 1980, “Une Pratique de Contre-école: L’Expérience Éducative du Mouvement de Libération Nationale dans les Zones Libérées de lá Guinée-Bissau”, Sociologie et Sociétés, XII (1): 155-168.
+Betts, R. F. 1998, Decolonization, London and New York, Routledge.
+Borges, S. V. 2008, Amílcar Cabral: Estratégias Políticas e Culturais para a Independência
+da Guiné e Cabo Verde, dissertação de Mestrado em História de África, Lisboa,
+Faculdade de Letras, Universidade de Lisboa.
+Borges, S. V. 2019, Militant Education, Liberation Struggle, Consciousness: The PAIGC
+Education in Guinea Bissau 1963-1978, Berlin, Peter Lang.
+Bouamama, S. 2014, Figures de la Révolution Africaine: De Kenyatta à Sankara, Paris,
+La Découverte.
+Byrne, J. J. 2016, Mecca of Revolution: Algeria, Decolonization, and the Third.
+Cá, L. O. 2005, Perspectiva Histórica da Organização do Sistema Educacional da Guiné
+Bissau, São Paulo, UNICAMP.
+Cabaço, J. L. 2010, Moçambique: Identidades, Colonialismo e Libertação, Maputo,
+Marimbique.
+Cabral, A. 1972, “Identity and Dignity in the National Liberation Struggle”, Africa Today,
+19 (4): 39-47.
+Cabral, A. 1973, Return to the Source: Selected Speeches of Amílcar Cabral, Edited by
+Africa Information Service, New York, Monthly Review Press.
+Cabral, A. 2018a, Rosa Negra. Venti Poesia per um Mondo Migliore, com testi di Manuel
+Amante da Rosa, Francesco Marrocu, Marco Bucaioni, Roma, Fefè Editore.
+Cabral, A. M. et al. 2018, Itinerários de Amílcar Cabral, Lisboa, Rosa de Porcelana.
+Cabral, I. et al. 2016, Cartas de Amílcar Cabral a Maria Helena: A Outra Face do Homem,
+Lisboa, Rosa de Porcelana Editora.
+Cabral, L. 1984, Crónica da Libertação, Lisboa, O Jornal.
+Cabral, L. 2014, Memórias e Discursos, pesquisa, seleção de textos e organização de
+Ângela Benoliel Coutinho, Praia, Fundação Amílcar Cabral.
+
+Lusotopie 19 (2020) 9-35
+
+26
+
+Santos and Barros
+
+Cahen, M. 2013, “ ‘Portugal is in the Sky’: Conceptual Considerations on Communities,
+Lusitanity and Lusophony”, in E. Morier-Genoud & M. Cahen eds., Imperial
+Migrations. Colonial Communities and Diaspora in the Portuguese World, London,
+Palgrave MacMillan: 297-315.
+Cardina, M. & Martins, B. S. eds. 2018, As Voltas do Passado: A Guerra Colonial e as Lutas
+de Libertação, Lisboa, Tinta-da-China.
+Cardoso, C. 1992, “A Ideologia e a Prática da Colonização Portuguesa na Guiné e o seu
+Impacto na Estrutura Social, 1926-1973”, Soronda. Revista de Estudos Guineenses, XIV:
+29-63.
+Cassama, D. J. L. S. 2014, Amílcar Cabral e a Independência da Guiné-Bissau e Cabo
+Verde, dissertação de mestrado em Ciências Sociais, Araraquara – SP, Faculdade de
+Ciências e Letras, Universidade Estadual Paulista.
+Castanheira, J. P. 1995, Quem Mandou Matar Amílcar Cabral?, Lisboa, Relógio d’Água.
+Castelo, C. 2007, Passagens para África: o Povoamento de Angola e Moçambique com
+Naturais da Metrópole (1920-1974), Porto, Afrontamento.
+Césaire, A. 2004, Discours sur le Colonialisme suivi de Discours sur la Négritude, Paris,
+Présence Africaine.
+César, F. 2018, “Meteorisations”, Third Text, XXXII (2-3): 254-72.
+Chabal, P. 2002, Amílcar Cabral: Revolutionary Leadership and People’s War, London,
+Hurst & Company.
+Chaliand, G. 1967, Lutte Armée en Afrique, Paris, François Maspero.
+Chilcote, R. H. 1968, “The political thought of Amilcar Cabral”, The Journal of Modern
+African Studies, VI (3): 373-388.
+Chilcote, R. H. 1984, “The Theory and Practice of Amílcar Cabral Revolutionary
+Implications for the Third World”, Latin American Perspectives, Issue 41 (2): 3-14.
+Cidra, R. 2018, “Cabral, Popular Music and the Debate on Cape Verdean Creoleness”,
+Postcolonial Studies, 21 (4): 433-451.
+Connelly, M. 2001, “Rethinking the Cold War and Decolonisation: The Grand Strategy
+of the Algerian War for Independence”, International Journal of Middle East Studies,
+XXXIII (2): 221-245.
+Connelly, M. 2003, A Diplomatic Revolution: Algeria’s Fight for Independence and the
+Origins of the Post-Cold War Era, Oxford, Ney York, Oxford University Press, 2003.
+Cooper, F. 2014, Africa in the World. Capitalism, Empire, Nation-State, Cambridge,
+Massachusetts & London, England, Harvard University Press.
+Coutinho, Â. B. 2012, “Mulheres na ‘sombra’: as cabo-verdianas e a luta de libertação
+nacional”, in As Mulheres em Cabo Verde: Experiências e Perspetivas, Praia, Uni-CV:
+39-48.
+Coutinho, Â. B. 2017, Os Dirigentes do PAIGC: Da Fundação à Rutura 1956-1980, Coimbra,
+Imprensa da Universidade de Coimbra.
+
+Lusotopie 19 (2020) 9-35
+
+Amílcar Cabral and the Idea of Anticolonial Revolution
+
+27
+
+Craggs, R. & Wintle, C. eds. 2016, Cultures of Decolonisation: Transnational Productions
+and Practices 1945-1970, Manchester, Manchester University Press.
+Cruz, E. C. V. (2006), O Estatuto do Indigenato: Angola: A Legalização da Discriminação
+na Colonização Portuguesa, Luanda, Chá de Caxinde.
+Cunha, P. & Laranjeiro, C. 2016, “Guiné-Bissau: do cinema de Estado ao cinema fora do
+Estado”, Revista Brasileira de Estudos de Cinema e Audiovisual, 5 (2): 1-23.
+Dallywater, L. et al. eds. 2019, Southern African Liberation Movements and the Global
+Cold War East. Transnational Activism 1960-1990, Berlin, Walter de Gruyter GmbH.
+Davidson, B. 1969, The Liberation of Guiné: Aspects of an African Revolution,
+Harmondsworth, United Kingdom, Penguin.
+Dhada, M. 1993, Warriors at Work: How Guinea Was Really Set Free, Colorado, University
+Press of Colorado.
+Dhada, M. 1995, “Guinea-Bissau’s Diplomacy and Liberation Struggle”, Portuguese
+Studies Review, IV (1): 20-39.
+Dias, L. B. 2020, Amílcar Cabral e o Marxismo: dos anos de Lisboa à liderança do movimento de libertação durante a Guerra Fria (1948-1973), dissertação de Mestrado em
+História de África, Lisboa, Faculdade de Letras, Universidade de Lisboa.
+Duara, P. ed. 2004, Decolonization. Perspectives from now and then, London and New
+York, Routledge.
+Elam, J. D. 2017, “Anticolonialism”, Global South Studies: A Collective Publication with
+The Global South, accessed date 11 Mars 2020, https://globalsouthstudies.as.virginia
+.edu/key-concepts/anticolonialism.
+Eriksen, T. L. ed. 2000, Norway and National Liberation in Southern Africa, Stockholm,
+Flanders Gotab.
+FAC 2019, Eu, Amílcar, Praia, FAC.
+Fanon, F. 2011, “Les Damnés de la Terre”, in Oeuvres, Paris, La Découverte.
+Fernandes, A. da C. M. 2007, Guiné-Bissau e Cabo Verde: Da Unidade à Separação,
+dissertação de mestrado em Estudos Africanos, Porto, Faculdade de Letras da
+Universidade do Porto.
+Fistein, D. 2010, Social Revolutions in Small States. A Comparative Study of Bavaria,
+Cuba, Guinea-Bissau, Haiti, and Hungary, Germany, VDM Verlag Dr. Mueller.
+Fistein, D. 2014, “The Diplomatic Achievements of Amilcar Cabral: A Case Study of
+Effective Leadership in a Small African State”, in B. G. Jallow ed., Leadership in
+Colonial Africa. Disruption of Traditional Frameworks and Patterns, New York,
+Palgrave Macmillan: 69-100.
+Fobanjong, J. & Ranuga, T. K. 2006, The Life, Thought, and Legacy of Cape Verde’s
+Freedom Fighter Amílcar Cabral (1924-1973): Essays on His Liberation Philosophy,
+Lewiston, NY, Edwin Mellen.
+Fonseca, A. M. & Marcos, D. 2013, “Cold War Constraints: France, West Germany and
+Portuguese Decolonization”, Portuguese Studies, II: 209-26.
+
+Lusotopie 19 (2020) 9-35
+
+28
+
+Santos and Barros
+
+Forrest, J. 2002, “Guinea-Bissau”, in P. Chabal ed., A History of Postcolonial Lusophone
+Africa, London, Hurst & Company.
+Forrest, J. B. 2003, Lineages of State Fragility: Rural Civil Society in Guinea-Bissau,
+Athens, Ohio University Press.
+Fortes, P. 2013, Paula – Minha Passagem, Praia, Fundação Amílcar Cabral.
+Franco, P. F. C. 2009, Amílcar Cabral: A Palavra Falada e a Palavra Vivida, dissertação de
+mestrado em História Social, São Paulo, Departamento de História da Faculdade de
+Filosofia, Letras e Ciências Humanas da Universidade de São Paulo.
+Galvão, I. & Laranjeiro, C. 2019, “Gender Struggle in Guinea-Bissau: Women’s
+Participation on and Off the Liberation Record”, in N. Domingos, M. B. Jerónimo
+& R. Roque eds., Resistance and Colonialism: Insurgent Peoples in World History,
+Basingstoke, Palgrave Macmillan: 85-122.
+Getachew, A. 2019, Worldmaking after Empire: The Rise and Fall of Self-Determination,
+New Jersey, Princeton University Press.
+Goebel, M. 2017, Paris, Capital du Tiers Monde. Comment est Née la Révolution
+Anticoloniale (1919-1939), Paris, Éditions La Découverte.
+Gomes, P. 2008a, “The international relations in the politics of the Partido Africano
+da Independência da Guiné e Cabo Verde”, Portuguese Journal of Social Science, VII
+(2): 115-130.
+Gomes, P. G. 2010, Os Fundamentos de uma Nova Sociedade: O PAIGC e a Luta Armada
+na Guiné-Bissau (1963-1973), Torino, L’Harmattan Italia.
+Gomes, P. G. 2013, “Amílcar Cabral and Guinean Women in the Fight for Emancipation”,
+in F. Manji & B. Fletcher Jr. eds., Claim no Easy Victories: The Legacy of Amílcar
+Cabral, Dakar, Council for the Development of Social Science Research in Africa
+(CODESRIA): 279-294.
+Gomes, P. G. 2015, “O Estado da Arte dos Estudos de Género na Guiné-Bissau: Uma
+Abordagem Preliminar”, Outros Tempos, XII (19): 168-189.
+Gomes, S. C. 2008b, Cabo Verde: Literatura e Chão de Cultura, São Paulo, Ateliê Editorial,
+UNEMAT, Instituto da Biblioteca Nacional e do Livro.
+Idahosa, P. L. E. 2002, “Going to the People: Amílcar Cabral’s Materialist Theory and
+Practice of Culture and Ethnicity”, Lusotopie, 2: 29-58.
+Jerónimo, M. B. & Pinto, A. C. eds. 2015, The Ends of European Colonial Empires: Cases
+and Comparisons, Cambridge, Palgrave Mcmillan.
+Jeyifo, B. 2007, “An African Modernity: Achebe, Fanon, Cabral, and the Philosophy of
+Decolonization”, Socialism and Democracy, XXI (3): 125-141.
+Jones, B. G. & el-Malik, S. S. 2015, “Introduction: African Political Thought of the
+Twentieth Century: a Reengagement”, African Identities, XIII (1): 1-3.
+Jones, B. G. 2010, “Internationalism and Anti-Racism in the Thought and Practice of
+Mondlane, Neto, Cabral and Machel”, in R. Shilliam ed., International Relations
+and Non-Western Thought: Imperialism, Colonialism and Investigations of Global
+Modernity, London and New York, Routledge: 47-63.
+Lusotopie 19 (2020) 9-35
+
+Amílcar Cabral and the Idea of Anticolonial Revolution
+
+29
+
+Jones, B. G. 2020, “Race, Culture and Liberation: African Anticolonial Thought and
+Practice in the Time of Decolonization”, The International History Review, accessed
+at 24 March 2020, https://doi.org/10.1080/07075332.2019.1695138.
+Kalter, C. 2016, The Discovery of the Third World. Decolonization and the Rise of the New
+Left in France, c.1950-1976, Cambridge, Cambridge University Press.
+Kohl, C. 2017, “Ethnicity as Trope of Political Belonging and Conflict: Cape Verdean
+Identity and Agency in Guinea-Bissau”, in C. K. Højbjerg et al. eds., Politics and
+Policies in Upper Guinea Coast Societies. Change and Continuity, New York, Palgrave
+Macmillan: 223-245.
+Kumar, K. 2017, Visions of Empire: How Five Imperial Regimes Shaped the World, New
+Jersey, Princeton University Press.
+Lala, A. da S. 2007, L’Enjeux Colonial dans les Relations Franco-Portugaises 1944-1974,
+Thèse de Doctorat, Paris, Institut d’Études Politiques de Paris.
+Laranjeiro, C. 2019b, “The Cuban Revolution and the Liberation Struggle in GuineaBissau: Images, Imaginings, Expectations and Experiences”, The International History Review, accessed in 16 March 2020. https://doi.org/10.1080/07075332.2019
+.1706185.
+Laranjeiro, C. de C. 2019a, Entre as Imagens e os Espíritos: Encontros com a Memória da
+Guerra de Libertação na Guiné-Bissau, tese de doutoramento em Pós-Colonialismo
+e Cidadania Global, Coimbra, Faculdade de Economia, Universidade de Coimbra.
+Léonard, Y. 2016, Histoire du Portugal Contemporain de 1890 à nos Jours, Paris,
+Chandeigne.
+Liauzu, C. 2007, Histoire de l’Anticolonialisme en France. Du XVIe siècle à nos jours, Paris,
+Armand Colin.
+Lopes, C. 2012, “O Legado de Amílcar Cabral Face aos Desafios da Ética Contemporânea”,
+Via Atlântica, XXI, Jul.: 27-44.
+Lopes, C. 2013, Amílcar Cabral – Recueil de Textes, Genève, Centre Europe-Tiers
+(CETIM) Monde.
+Lopes, C. ed. 2009, Africa’s Contemporary Challenges: The Legacy of Amílcar Cabral,
+London, Routledge.
+Lopes, C. ed. 2011, Desafios Contemporâneos da África: O Legado de Amílcar Cabral, São
+Paulo, Editora UNESP.
+Lopes, J. V. 1996, Cabo Verde: Os Bastidores da Independência, Praia-Mindelo, Centro
+Cultural Português.
+Lopes, J. V. 2012, Aristides Pereira, Minha Vida, Nossa história, Praia, Spleen Edições.
+Lopes, J. V. 2016, Onésimo Silveira: Uma Vida, Um Mar de Histórias, Praia, Spleen Edições.
+Lopes, R. & Barros, V. 2019, “Amílcar Cabral and the Liberation of Guinea-Bissau
+and Cape Verde: International, Transnational, and Global Dimensions”, The
+International History Review, accessed in 16 March 2020. https://doi.org/10.1080/
+07075332.2019.1703118.
+
+Lusotopie 19 (2020) 9-35
+
+30
+
+Santos and Barros
+
+Lopes, R. 2014, West Germany and the Portuguese Dictatorship 1968-1974: Between Cold
+War and Colonialism, London, Palgrave McMillan.
+Lucas, R. N. 2019, “Outra Terra Dentro da Nossa Terra”: A Formação de um Sujeito Político
+em Amílcar Cabral, dissertação de Mestrado em História Contemporânea, Lisboa,
+Faculdade de Ciências Sociais e Humanas, Universidade Nova de Lisboa.
+MacQueen, N. 1997, The Decolonization of Portuguese Africa. Metropolitan Revolution
+and the Dissolution of Empire, London, Longman.
+MacQueen, N. 2003, “Re-defining the ‘African Vocation’: Portugal’s Post-Colonial
+Identity Crisis”, Journal of Contemporary European Studies, 11(2): 181-199.
+Manji F. & Fletcher Jr, B. eds. 2013, Claim no Easy Victories: The Legacy of Amílcar
+Cabral, Dakar, Council for the Development of Social Science Research in Africa
+(CODESRIA).
+Marcos, D. 2007, Salazar e de Gaulle: a França e a Questão Colonial Portuguesa (19581968), Lisboa, Ministério dos Negócios Estrangeiros.
+Martins, P. 1990, Testemunho de um Combatente, Praia-Mindelo, Instituto Camões/
+Centro Cultural Português.
+Maxwell, K. 1995, The Making of Portuguese Democracy, Cambridge, Cambridge
+University Press.
+Mbembe, A. 2017, Crítica da Razão Negra, 2.ª ed., Lisboa, Antígona.
+McCulloch, J. 1983, In the Twilight of Revolution: The Political Theory of Amílcar Cabral,
+London, Boston, Melbourne and Henley, Routledge & Kegan Paul.
+Medeiros, T. 2012, A Verdadeira Morte de Amílcar Cabral, Lisboa, Althum.
+Melo, F. & Cavia, J. 2016, Os Vampiros, Lisboa, Tinta-da-China.
+Mendy, P. K. 1994, Colonialismo Português em África: A Tradição de Resistência na
+Guiné-Bissau, 1879-1959, Bissau, Instituto Nacional de Estudos e Pesquisa/Lisboa,
+Imprensa Nacional Cada da Moeda.
+Mendy, P. K. 2019, Amilcar Cabral: A Nationalist and Pan-Africanist Revolutionary,
+Athens, Ohio University Press.
+Meneses, M. P. & Martins, B. S. 2014, As Guerras de Libertação e os Sonhos Coloniais:
+Alianças Secretas, Mapas Imaginados, Coimbra, Almedina, CES.
+Mettas, J. 1984, La Guinée portugaise au XXe siècle, Paris, Académie des Sciences
+d’Outre-Mer.
+Mignolo, W. & Walsh, C. E. 2018, On Decoloniality: Concepts, Analytics, Praxis, Durham
+and London, Duke University Press.
+Milani, A. 2011, “Profilo biografico di Amílcar Cabral”, Scritture Migranti, V: 219-224.
+Milani, A. 2016, “Decolonizzare le menti: Amílcar Cabral e la resistenza culturale come
+arma contro la dominazione straniera”, Saggi/Ensayos/Essais/Essays, XVI (11): 66-77.
+Monteiro, A. O. C. 2013, Guiné-Bissau: Da Luta Armada à Construção do Estado Nacional –
+Conexões Entre o Discurso de Unidade Nacional e Diversidade Étnica (1959-1994), tese
+
+Lusotopie 19 (2020) 9-35
+
+Amílcar Cabral and the Idea of Anticolonial Revolution
+
+31
+
+de doutoramento em Ciências Sociais, Salvador, Faculdade de Filosofia e Ciências
+Humanas, Universidade Federal da Bahia.
+Monteiro, A. O. C. 2019, Discurso Nacional e Etnicidade em África: O Caso da Guiné-Bissau
+(1959-1994), Curitiba, Paraná, Appris Editora.
+Monteiro, I. de F. B. (2017), A Cidadania e o Indigenato: Uma Confrontação Sociopolítica
+e Cultural no Cabo Verde Colónia (1820-1960), tese de doutoramento em Altos
+Estudos em História (Época Contemporânea), Coimbra, Faculdade de Letras da
+Universidade de Coimbra.
+Moraes, R. de A. & Moniz, L. V. 2013, “Amílcar Cabral e Paulo Freire na Era da Tecnologia
+Digital”, Revista da ABPN, V (10): 108-124.
+N’dumbe III, A. K. 1976, Amílcar Cabral ou La tempête en Guinée-Bissao, Paris, Éditions
+Pierre Jean Oswald.
+Ndjai, T. 2013, O Pensamento Político de Amílcar Cabral: Suas Contribuições na Libertação
+da Guiné Bissau, Saarbrücken, Novas Edições Acadêmicas.
+Neto, M. da C. 1997, “Ideologias, Contradições e Mistificações da Colonização de Angola
+no Século XX”, Lusotopie, 327-359.
+Neves, J. 2017, “Ideologia, ciência e povo em Amílcar Cabral”, História, Ciências, Saúde –
+Manguinhos, XXIV (2) (Abr.-Jun.): 333-47.
+Newitt, M. 1981, Portugal in Africa, London, C. Hurst, cop.
+Newitt, M. 2017, “Os Partidos Nacionalistas no Tempo da Revolução”, in F. Rosas,
+M. Machaqueiro & P. A. Oliveira eds., O Adeus ao Império: 40 Anos da Descolonização
+Portuguesa, 2.ª ed., Lisboa, Veja: 25-43.
+Oliveira, P. A. 2007, Os Despojos da Aliança. A Grã-Bretanha e a Questão Colonial
+Portuguesa 1945-1975, Lisboa, Tinta-da-China.
+Oramas, Ó. 1998, Amílcar Cabral: Para além do seu tempo, Lisboa, Hugin.
+Parrott, R. J. 2014, “We Are an African People”: The Development of Black American
+Solidarity with Portuguese Africa, M.A. Thesis, Master of Arts, The University of
+Texas at Austin.
+Pélissier, R. 2001, História da Guiné. Portugueses e Africanos na Senegâmbia (1841-1936),
+Volume I, 2.ª edição, Lisboa, Editorial Estampa.
+Pereira, A. 2002, Guiné-Bissau e Cabo Verde: Uma Luta, Um Partido, Dois Países, Lisboa,
+Editorial Notícias.
+Pereira, A. A. & Vittoria, P. 2012, “A luta pela descolonização e as experiências de alfabetização na Guiné-Bissau: Amílcar Cabral e Paulo Freire”, Estudos Históricos, XXV
+(50): 291-311.
+Pereira, C. M. de A. 2016, Os Meus Três Amores, Bissau, INEP.
+Pereira, J. A. 2015, O PAIGC Perante o Dilema Cabo-Verdiano [1959-1974], Lisboa, Campo
+da Comunicação.
+Pereira, M. & Silva, C. 2019, A Turma de Cabralinho e o Búzio Mágico, Praia, Corart
+Graphic Design.
+
+Lusotopie 19 (2020) 9-35
+
+32
+
+Santos and Barros
+
+Peterson, C. F. 2007, Du Bois, Fanon, Cabral: The Margins of Elite Anti-Colonial
+Leadership, Plymouth, Lexington Books.
+Pimenta, F. 2010, Portugal e o Século XX: Estado-Império e Descolonização (1890-1975),
+Porto, Afrontamento.
+Pinto, A. C. & Raimundo, F. 2016, “Violence, Repression and Terror in Mass Dictatorships:
+A View from the European Margins”, in P. Corner & J-H. Lim eds., The Palgrave
+Handbook of Mass Dictatorship, London, Palgrave Macmillan: 105-117.
+Pinto, A. C. 2001, O Fim do Império Português. A Cena Internacional, a Guerra Colonial e
+a Descolonização, Lisboa, Livros Horizonte.
+Quemeneur, T. 2017, “The French Networks Helping the Independence Movements of
+Portuguese Colonies. From the Algerian War to Third-Worldism”, Afriche e Orienti,
+III: 85-100.
+Querido, J. 1988, Cabo Verde – Subsídios para a História da Nossa Luta de Libertação,
+Lisboa, Vega.
+Rabaka, R. 2009, Africana Critical Theory: Reconstructing the Black Radical Tradition,
+from W.E.B. Du Bois and C.L.R. James to Frantz Fanon and Amílcar Cabral, New York,
+Lexington Books.
+Rabaka, R. 2014, Concepts of Cabralism: Amílcar Cabral and Africana Critical Theory,
+New York, Lexington Books.
+Rabaka, R. ed. 2020, Routledge Handbook of Pan-Africanism, Abingdon, Oxon and New
+York, Routledge.
+Reis, B. C. 2013, “Portugal and the UN: A Rouge State Resisting the Norm of Decolonization (1956-1974)”, Portuguese Studies, II: 251-76.
+Ribeiro, S. 1983, A Questão de Unidade no Pensamento de Amílcar Cabral, Lisboa,
+Tricontinental.
+Rodrigues, L. N. 2015, “The International Dimensions of Portuguese Colonial Crisis”, in
+M. B. Jerónimo & A. C. Pinto eds., The Ends of European Colonial Empires: Cases and
+Comparisons, Cambridge, Palgrave Mcmillan: 243-267.
+Romão, J. E. & Gadotti, M. 2012, Paulo Freire e Amílcar Cabral: A Descolonização das
+Mentes, São Paulo, Editora e Livraria Instituto Paulo Freire.
+Ronald, C. 1991, Amilcar Cabral’s Revolutionary Theory and Practice, Boulder, Colorado,
+Lynne Rienner Publishers.
+Rosas, F. 2019, Salazar e os Fascismos, Lisboa, Tinta-da-China.
+Rosas, F. et al. eds. 2017, O Adeus ao Império: 40 Anos da Descolonização Portuguesa, 2.ª
+ed., Lisboa, Veja.
+Rothermund, D. 2000, The Routledge Companion to Decolonization, London and New
+York, Routledge.
+Rudebeck, L. 1972, “Political Mobilisation for Development in Guinea-Bissau”, The
+Journal of Modern African Studies , 10 (1), May: 1-18.
+
+Lusotopie 19 (2020) 9-35
+
+Amílcar Cabral and the Idea of Anticolonial Revolution
+
+33
+
+Rudebeck, L. 1974, Guinea-Bissau: A Study of Political Mobilization, Uppsala,
+Scandinavian Institute of African Studies.
+Russo, V. 2020, La Resistenza Continua. Il Colonialismo Portoghese, le Lotte di Liberazione
+e gli Intellettuali Italiani, Milano, Meltemi.
+Santos, A. A. e 2016a, “Amílcar Cabral e a Luta pela Independência de Cabo Verde na
+Organização das Nações Unidas”, in L. Fonseca, et al. coords., Por Cabral, Sempre.
+Fórum Amílcar Cabral 2013: Comunicações e Discursos, Praia, FAC: 191-202.
+Santos, A. A. e 2017, A Organização das Nações Unidas e a Questão Colonial Portuguesa:
+1960-1974, Lisboa, Instituto de Defesa Nacional.
+Santos, A. A. e 2018, “Roteiro do Percurso Diplomático de Amílcar Cabral ao Serviço da
+Frente Externa do PAIGC”, in A. M. Cabral, F. Elísio & M. Souto orgs., Itinerários de
+Amílcar Cabral, Lisboa, Rosa de Porcelana: 23-119.
+Santos, A. A. e, Vasile, I. & Tornimbeni, C. 2019, “What Solidarity? Networks of Co­
+operation with the Liberation Movements from Portuguese Colonies”, Revista
+Crítica de Ciências Sociais, 118: 125-212.
+Santos, B. de S. 2019, O Fim do Império Cognitivo: A Afirmação das Epistemologias do Sul,
+Coimbra, Almedina.
+Santos, D. 2014, Amílcar Cabral: Um Outro Olhar, Lisboa, Chiado Editora.
+Santos, I. G. 2010, O PAIGC e as Repercussões da Luta Nacionalista na Imprensa
+Ocidental, dissertação de mestrado, Lisboa, ISCTE-IUL.
+Santos, J. H. H. et al. 2013, “Amílcar Cabral na Poética Crioula de Eneida Nelly”, in
+R. Sorriso et al. eds., Afro-Rizomas na Diáspora Negra: as Literaturas Africanas na
+Encruzilhada Brasileira, Rio de Janeiro, Editora Kitabu: 293-274.
+Santos, M. B. 2015, História(s) da Guiné-Portuguesa: Da Primeira Colónia do Mundo
+Moderno até ao País Fundado por Amílcar Cabral, Vila Nova de Famalicão, Edições
+Húmus.
+Santos, M. B. 2016b, História(s) da Guiné-Bissau: Da Luta de Libertação aos Nossos Dias,
+Vila Nova de Famalicão, Húmus.
+Sapire, H. & Saunders, C. eds. 2013, Southern African Liberation Struggles. New Local,
+Regional and Global Perspectives, Cape Town, University of Cape Town Press.
+Saucier, P. K. ed. 2017, A Luta Continua: (Re)Introducing Amílcar Cabral to a New
+Generation of Thinkers, Trenton, African World Press.
+Schliehe, N. 2019, “West German Solidarity Movement and the Struggle for the
+Decolonization of Lusophone Africa”, Revista Crítica de Ciências Sociais, 118: 173-194.
+Sellstrom, T. 1999a, Sweden and National Liberation in Southern Africa: Formation of
+Popular Opinion, 1950-1970, Uppsala, Nordiska Afrikainstitutet.
+Sellstrom, T. 2002, Sweden and National Liberation in Southern Africa: Solidarity and
+Assistance, 1970-1994, Uppsala, Nordiska Afrikainstitutet.
+
+Lusotopie 19 (2020) 9-35
+
+34
+
+Santos and Barros
+
+Sellstrom, T. ed. 1999b, Liberation in Southern Africa: Regional and Swedish Voices:
+Interviews from Angola, Mozambique, Namibia, South Africa, Zimbabwe, the Frontline
+and Sweden, Uppsala, Nordiska Afrikainstitutet.
+Shipway, M. 2008, Decolonization and its Impact. A Comparative Approach to the End of
+the Colonial Empires, Oxford, Blackwell.
+Silva, A. D. 1997, A Independência da Guiné-Bissau e a Descolonização Portuguesa, Porto,
+Edições Afrontamento.
+Silva, A. de S. e 2018, “Os esboços da nação guineense em Madina Boé (1968), de José
+Massip”, Significação. Revista de Cultura Audiovisual, XLV: 102-22.
+Silva, A. E. D. 2010, Invenção e Construção da Guiné-Bissau (Administração Colonial/
+Nacionalismo/Constitucionalismo), Coimbra, Almedina.
+Silva, A. T. da 2016, A Presença Portuguesa na Guiné: História Política e Militar 1878-1926,
+s.l., Caminhos Romanos.
+Simon-Aaron, C. 2015, Three African Social Theorists on Class Struggle, Political
+Liberation and Indigenous Culture: Cheikh Anta Diop, Amilcar Cabral, Kwame
+Nkrumah, New York, The Edwin Mellen Press Ltd.
+Sousa, J. S. 2016, Amílcar Cabral (1924-1973): Vida e Morte de um Revolucionário Africano,
+Edição revista, corrigida e aumentada, Coimbra, Edição de Autor.
+Sousa, J. S. 2020, “Amílcar Cabral, the PAIGC and the Relations with China at the
+Time of the Sino-Soviet Split and of Anti-Colonialism. Discourses and Praxis”, The
+International History Review, accessed in 20 March 2020. https://doi.org/10.1080/
+07075332.2019.1695139.
+Souto, A. N. de 2007, Caetano e o Caso do “Império”: Administração e Guerra Colonila em
+Moçambique Durante o Marcelismo (1968-1974), Porto, Afrontamento.
+Stephens, C. R. 2012, The People Mobilized: The Mozambican Liberation Movement and
+American Activism (1960-1975), United States, Proquest, Umi Dissertation Publishing.
+Sueur, J. D. Le ed. 2003, The Decolonization Reader, New York and London, Routledge.
+Teixeira, N. S. 2004, “Portugal e as Guerras da Descolonização”, in M. T. Barata &
+N. S. Teixeira dirs., Nova História Militar de Portugal, Volume 4, Lisboa, Círculo de
+Leitores: 68-92.
+Telepneva, N. 2014, Our Sacred Duty: The Soviet Union, the Liberation Movements in the
+Portuguese Colonies, and the Cold War, 1961-1975, Ph.D. Thesis, London, The London
+School of Economics and Political Science (LSE), United Kingdom.
+Telepneva, N. 2019a, “ ‘Code Name SEKRETÁR’: Amílcar Cabral, Czechoslovakia and
+the Role of Human Intelligence during the Cold War”, The International History
+Review, accessed at 15 March 2020, https://doi.org/10.1080/07075332.2019.1678508.
+Telepneva, N. 2019b, “ ‘Letters from Angola’: Soviet Print Media and the Liberation of
+Angola and Mozambique, 1961-1975”, in L. Dallywater et al. eds., Southern African
+
+Lusotopie 19 (2020) 9-35
+
+Amílcar Cabral and the Idea of Anticolonial Revolution
+
+35
+
+Liberation Movements and the Global Cold War East. Transnational Activism 19601990, Berlin, Walter de Gruyter GmbH: 129-150.
+Telo, A. 1996, Portugal e a NATO. O Reencontro da Tradição Atlântica, Lisboa, Cosmos.
+Thomas, M. & Thompson, A. S. eds. 2018, The Oxford Handbook of the Ends of Empire,
+New York, Oxford University Press.
+Thomas, M. et al. 2008, Crises of Empire: Decolonization and Europe’s Imperial States,
+1918-1975, London, Bloomsbury Academic.
+Tíscar, M. J. 2014, O Pacto Ibérico, a NATO e a Guerra Colonial, Lisboa, Instituto Nacional
+Casa da Moeda, Instituto da Defesa Nacional.
+Tomás, A. 2007, O Fazedor de Utopias: Uma Biografia de Amílcar Cabral, 2.ª ed., Lisboa,
+Tinta-da-China.
+Tomás, A. 2016, “Cabral and the Postcolony: Postcolonial Readings of Revolutionary
+Hopes”, Postcolonial Studies, XIX (1): 22-36.
+Tomás, A. 2018, “Cabral e a Pós-Colónia: Leituras Pós-Coloniais de Esperanças Revolucionárias”, in M. R. Sanches ed., Descolonizações: Reler Amílcar Cabral, Césaire e Du
+Bois, Lisboa, Edições 70: 51-77.
+Torgal, L. R. 2009, Estados Novos, Estado Novo, Volume I e II, 2.ª Edição, Coimbra,
+Imprensa da Universidade de Coimbra.
+Urdang, S. 2013, “Reflections on the Contribution of Amílcar Cabral to the Liberation
+of Women”, in F. Manji & B. Fletcher Jr. eds., Claim no Easy Victories: The Legacy of
+Amílcar Cabral, Dakar, Council for the Development of Social Science Research in
+Africa (CODESRIA).
+Urdang, S. J. 1979, Fighting Two Colonialisms: Women in Guinea-Bissau, New York,
+Monthly Review Press.
+Villen, P. 2013, Amílcar Cabral e a Crítica do Colonialismo, São Paulo, Expressão Popular.
+Westad, O. A. 2005, The Global Cold War: Third World Interventions and the Making of
+Our Times, Cambridge, Cambridge University Press.
+Wilder, G. 2015, Freedom Time: Negritude, Decolonization, and the Future of the World,
+Durham and London, Duke University Press.
+Williams, P. & Chrisman, L. 1994, Colonial Discourse and Postcolonial Theory: A Reader,
+New York, Columbia University Press.
+Ygnatiev, O. 1975, Três Tiros da PIDE. Quem, Porquê e Como Mataram Amílcar Cabral,
+Lisboa, Prelo.
+Young, R. J. C. 2001, Postcolonialism: An Historical Introduction, Malden, Oxford,
+Carlton, Victoria, Blackwell Publishing.
+
+Lusotopie 19 (2020) 9-35
+
+
